@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 12820",
+        "amtsgericht": "Bad Oeynhausen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Bad Oeynhausen Aktenzeichen: HRB 12820 \nBekannt gemacht am: 09.03.2017 20:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n09.03.2017\n\nHRB 12820: Natural Energy Verwaltungs GmbH, Preußisch Oldendorf, Offelter Dorfstraße 18, 32361 Preußisch Oldendorf. Nicht mehr Geschäftsführer: Werner, Christian, Göttingen, *31.03.1981.",
+        "notice_id": "1388818",
+        "posted_on": "2017-03-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1388818&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Göttingen",
+                "dob": "1981-03-31",
+                "lastname": "Werner",
+                "name": "Christian"
+            },
+            "text": " Werner , Christian , Göttingen , * 31.03.1981 ."
+        }
+    ]
+}

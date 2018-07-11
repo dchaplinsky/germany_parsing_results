@@ -1,0 +1,31 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 202953",
+        "amtsgericht": "Walsrode",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Walsrode Aktenzeichen: HRA 202953 \nBekannt gemacht am: 19.10.2015 19:01 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nNeueintragungen\n19.10.2015\n\nHRA 202953:Marin Budic e. K., Schwanewede, Am Markt 2, 28790 Schwanewede.(Einzelhandel mit Getränken aller Art, verpackten Lebensmitteln, Heilwässern verschiedener Heilbrunnen (§ 67 Abs. 1 Arzneimittelgesetz), Tabakwaren sowie Saisonwaren (z.B. Grillkohle, Streusalz, Torf, Blumenerde, Dünger, pyrotechnischen Gegenständen).). Einzelkaufmann. Geschäftsanschrift: Am Markt 2, 28790 Schwanewede. Inhaber: Budic, Marin, Schwanewede, *09.06.1969.",
+        "notice_id": "363636",
+        "posted_on": "2015-10-19",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=363636&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "flag": "Sole trader",
+            "text": "Einzelkaufmann"
+        },
+        {
+            "label": "address",
+            "text": " Am Markt 2 , 28790 Schwanewede ."
+        },
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Schwanewede",
+                "dob": "1969-09-06",
+                "lastname": "Budic",
+                "name": "Marin"
+            },
+            "text": " Budic , Marin , Schwanewede , * 09.06.1969 ."
+        }
+    ]
+}

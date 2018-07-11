@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 19035",
+        "amtsgericht": "Wiesbaden",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Wiesbaden Aktenzeichen: HRB 19035 \nBekannt gemacht am: 18.08.2008 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Wiesbaden\r\r\rDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n30.07.2008\n\nARC Wohnbau GmbH, Hünstetten, (Grunerstraße 25 a, 65510 Idstein).Die Gesellschafterversammlung vom 22.07.2008 hat eine Änderung des Gesellschaftsvertrages in § 1 Abs. 2 (Sitz) und mit ihr die Sitzverlegung nach Idstein beschlossen. Neuer Sitz: Idstein. Geschäftsführer: Meusel, Dieter, Hünstetten, *16.09.1956, mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "98700",
+        "posted_on": "2008-08-18",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=98700&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hünstetten",
+                "dob": "1956-09-16",
+                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Meusel",
+                "name": "Dieter"
+            },
+            "text": " Meusel , Dieter , Hünstetten , * 16.09.1956 , mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

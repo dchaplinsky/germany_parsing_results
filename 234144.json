@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 22995",
+        "amtsgericht": "Augsburg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Augsburg Aktenzeichen: HRB 22995 \nBekannt gemacht am: 25.03.2008 12:00 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n18.03.2008\n\nPalma Real Restaurant GmbH, Augsburg (Müllerstr. 19, 86153 Augsburg). Bestellt: Geschäftsführer: Litsios, Alexandros, Augsburg, *23.05.1980, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Ausgeschieden: Geschäftsführer: Litsios, Vassilios, Augsburg, *19.12.1977.",
+        "notice_id": "234144",
+        "posted_on": "2008-03-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=234144&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Augsburg",
+                "dob": "1980-05-23",
+                "flag": "sole representation",
+                "lastname": "Litsios",
+                "name": "Alexandros"
+            },
+            "text": " Litsios , Alexandros , Augsburg , * 23.05.1980 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Augsburg",
+                "dob": "1977-12-19",
+                "lastname": "Litsios",
+                "name": "Vassilios"
+            },
+            "text": " Litsios , Vassilios , Augsburg , * 19.12.1977 ."
+        }
+    ]
+}

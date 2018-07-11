@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 206563",
+        "amtsgericht": "Oldenburg",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Oldenburg Aktenzeichen: HRB 206563 \nBekannt gemacht am: 10.06.2014 19:04 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n10.06.2014\n\nHRB 206563:Niemeyer Kontrakt GmbH, Lastrup, Kirchstraße 6, 49688 Lastrup.Die Gesellschafterversammlung vom 24.03.2014 hat eine Änderung des Gesellschaftsvertrages in § 1 (Firma und Sitz) sowie in § 2 (Gegenstand des Unternehmens) und mit ihr die Änderung der Firma sowie des Unternehmensgegenstandes beschlossen. Geändert, nun: Neue Firma: MHD Online GmbH. Geändert, nun: Neuer Unternehmensgegenstand: Der Betrieb eines Online Shops rund um Multimedia. Nicht mehr Geschäftsführer: Niemeyer, Hans-Georg, Lastrup, *17.04.1964; Woltermann, Philipp, Löningen, *05.08.1985. Bestellt als Geschäftsführer: Neubauer, Jacek Mariusz, Szczecinek / Polen, *15.05.1971, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Prokura erloschen: Holtgers, Daniel, Dohren, *01.08.1978.",
+        "notice_id": "303310",
+        "posted_on": "2014-06-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=303310&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Lastrup",
+                "dob": "1964-04-17",
+                "lastname": "Niemeyer",
+                "name": "Hans - Georg"
+            },
+            "text": " Niemeyer , Hans - Georg , Lastrup , * 17.04.1964"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Szczecinek / Polen",
+                "dob": "1971-05-15",
+                "flag": "sole representation",
+                "lastname": "Neubauer",
+                "name": "Jacek Mariusz"
+            },
+            "text": " Neubauer , Jacek Mariusz , Szczecinek / Polen , * 15.05.1971 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

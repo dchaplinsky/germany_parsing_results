@@ -1,0 +1,35 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 201860",
+        "amtsgericht": "Aurich",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Aurich Aktenzeichen: HRB 201860 \nBekannt gemacht am: 08.04.2011 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n06.04.2011\n\nBauunternehmen Siebels & Ehmen GmbH, Aurich, Ol Streek 14, 26607 Aurich. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 21.03.2011. Geschäftsanschrift: Ol Streek 14, 26607 Aurich. Gegenstand: a) der Betrieb eines Bauunternehmens sowie eines Zimmereibetriebes b) der Erwerb, die Bebauung und Veräußerung von Grundbesitz, c) die Vermietung und Verwaltung von Grundbesitz, d) der Betrieb ähnlicher Unternehmen. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Jeder Geschäftsführer vertritt einzeln. Geschäftsführer: Ehmen, Uwe, Aurich, *25.06.1966; Siebels, Horst, Aurich, *04.05.1962, jeweils mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "165533",
+        "posted_on": "2011-04-08",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=165533&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Ol Streek 14 , 26607 Aurich ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Aurich",
+                "dob": "1966-06-25",
+                "lastname": "Ehmen",
+                "name": "Uwe"
+            },
+            "text": " Ehmen , Uwe , Aurich , * 25.06.1966"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

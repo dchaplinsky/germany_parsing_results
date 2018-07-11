@@ -1,0 +1,39 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 166866",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 166866 \nBekannt gemacht am: 14.03.2007 09:57 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n13.03.2007\n\nKK8 Management GmbH, Grünwald (Am Wildwechsel 7 a, 82031 Grünwald). Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 28.02.2007. Gegenstand des Unternehmens: Übernahme von Managementaufgaben, insbesondere Übernahme der Gesellschafterstellung als persönlich haftende Gesellschafterin der KK8 GmbH & Co. KG, deren Gegenstand Erwerb, Bebauung, Vermietung, Verpachtung und Verwaltung sowie Verkauf von Grundstückenund grundstücksgleichen Rechten, Verwaltung eigenen Vermögens sowie sämtliche damit in Zusammenhang stehende Tätigkeiten ist. Stammkapital: 25.000,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Geschäftsführer: Jütte, Nicole, Bad Heilbrunn, *13.09.1972; Ufer, Markus, Essen, *23.10.1968, jeweils mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "154419",
+        "posted_on": "2007-03-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=154419&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Bad Heilbrunn",
+                "dob": "1972-09-13",
+                "lastname": "Jütte",
+                "name": "Nicole"
+            },
+            "text": " Jütte , Nicole , Bad Heilbrunn , * 13.09.1972"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

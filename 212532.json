@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4153",
+        "amtsgericht": "Hagen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Hagen Aktenzeichen: HRB 4153 \nBekannt gemacht am: 03.04.2007 09:58 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n23.03.2007\n\nEckhoff & Dembski Transport GmbH, Hagen (Mühlenbrinkstr. 45, 58089 Hagen). Nicht mehr Geschäftsführer: Eckhoff, Guido, Hagen, *03.07.1966. Bestellt zum Geschäftsführer: Dembski, Bernd Arnold, Hagen, *23.08.1966, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "212532",
+        "posted_on": "2007-04-03",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=212532&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hagen",
+                "dob": "1966-03-07",
+                "lastname": "Eckhoff",
+                "name": "Guido"
+            },
+            "text": " Eckhoff , Guido , Hagen , * 03.07.1966 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hagen",
+                "dob": "1966-08-23",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Dembski",
+                "name": "Bernd Arnold"
+            },
+            "text": " Dembski , Bernd Arnold , Hagen , * 23.08.1966 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

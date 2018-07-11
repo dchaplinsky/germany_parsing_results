@@ -1,0 +1,30 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 27871",
+        "amtsgericht": "Augsburg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Augsburg Aktenzeichen: HRB 27871   \nBekannt gemacht am: 21.05.2013 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n14.05.2013\n\nCCT China Consultants UG (haftungsbeschränkt), Dießen am Ammersee, Anton-Zech-Straße 14 a, 86911 Dießen am Ammersee. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 07.01.2013. Gegenstand des Unternehmens: Beratung deutscher und chinesischer Unternehmen bei Gründung von Joint-Venture-Kooperationen, Niederlassungsgründungen und Beteiligungen, Begleitung bei Zulassungsverfahren, Personalausbildung und Rekrutierung, Suche nach geeigneten Partnerunternehmen, Messedienst und Abwicklungsmanagement in den jeweiligen Ländern; ferner Handel mit Baumaterialien und Industriemaschinen mit China. Stammkapital: 14.250,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch die Geschäftsführer gemeinsam vertreten. Geschäftsführer: Ning, Xiaoting, Guangzhou/Volksrepublik China, *29.04.1979, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "691228",
+        "posted_on": "2013-05-21",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=691228&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Ning , Xiaoting , Guangzhou / Volksrepublik China , * 29.04.1979 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

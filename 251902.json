@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 126040 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 126040 B   \nBekannt gemacht am: 27.06.2013 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n25.06.2013\n\nNew Station GmbH, Berlin, Lietzenburger Straße 90, 10719 Berlin. Firma: New Station GmbH Sitz / Zweigniederlassung: Geschäftsanschrift:; Lietzenburger Straße 90, 10719 Berlin Geschäftsführer:; 3. Jury, Angela, *18.10.1961, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen Rechtsform: Durch Beschluss der Gesellschafterversammlung vom 20.06.2013 ist der Gesellschaftsvertrag geändert in § 1 (Firma)..",
+        "notice_id": "251902",
+        "posted_on": "2013-06-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=251902&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "company",
+            "text": " Geschäftsanschrift :"
+        },
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

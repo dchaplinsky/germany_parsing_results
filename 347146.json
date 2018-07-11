@@ -1,0 +1,25 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 15218 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 15218 B \nBekannt gemacht am: 14.09.2015 11:04 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nVeränderungen\n11.09.2015\n\nHRB 15218 B: E. Knobloch GmbH Großhandel für Industrieprodukte, Berlin, Zikadenweg 9 A, 14055 Berlin. Sitz / Zweigniederlassung: Geschäftsanschrift: Zikadenweg 9 A, 14055 Berlin",
+        "notice_id": "347146",
+        "posted_on": "2015-09-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=347146&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " E . Knobloch GmbH Großhandel für Industrieprodukte , Berlin , Zikadenweg 9 A , 14055 Berlin ."
+        },
+        {
+            "label": "company",
+            "text": " Geschäftsanschrift : Zikadenweg 9 A , 14055 Berlin"
+        },
+        {
+            "label": "address",
+            "text": " Zikadenweg 9 A , 14055 Berlin"
+        }
+    ]
+}

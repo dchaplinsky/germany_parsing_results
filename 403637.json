@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 724818",
+        "amtsgericht": "Ulm",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Ulm Aktenzeichen: HRB 724818 \nBekannt gemacht am: 07.01.2014 14:10 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n07.01.2014\n\nHRB 724818:Industrie Arbeiten und Beschichten JAE UG (haftungsbeschränkt), Ruppertshofen, Erlenstraße 16, 73577 Ruppertshofen.Bestellt als Geschäftsführer: Eiberger, Jana, Schwäbisch Gmünd, *19.03.1989. Nicht mehr Geschäftsführer: Eiberger, Adolf, Ruppertshofen, *11.06.1959.",
+        "notice_id": "403637",
+        "posted_on": "2014-01-07",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=403637&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Schwäbisch Gmünd",
+                "dob": "1989-03-19",
+                "lastname": "Eiberger",
+                "name": "Jana"
+            },
+            "text": " Eiberger , Jana , Schwäbisch Gmünd , * 19.03.1989 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ruppertshofen",
+                "dob": "1959-11-06",
+                "lastname": "Eiberger",
+                "name": "Adolf"
+            },
+            "text": " Eiberger , Adolf , Ruppertshofen , * 11.06.1959 ."
+        }
+    ]
+}

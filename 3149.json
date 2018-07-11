@@ -1,0 +1,29 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 7734",
+        "amtsgericht": "Schwerin",
+        "event_date": "2007-06-14",
+        "event_type": "Berichtigungen",
+        "federal_state": "mv",
+        "full_text": "Amtsgericht Schwerin Aktenzeichen: HRB 7734 \nBekannt gemacht am: 19.06.2007 14:59 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nBerichtigungen\n14.06.2007\n\nGADHAM Immobilienverwaltungsgesellschaft mbH, Gadebusch (Schweriner Str. 78, 19205 Gadebusch). Personenbezogene Daten von Amts wegen berichtigt, nun: Geschäftsführer: Gelz, Franz, Rehna, *11.09.1952, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "gesellschafter": null,
+        "inhaber": null,
+        "name": "GADHAM Immobilienverwaltungsgesellschaft mbH",
+        "notice_id": "3149",
+        "posted_on": "2007-06-19",
+        "rechtsform": null,
+        "sitz": null,
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=3149&land_abk=mv"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Gelz , Franz , Rehna , * 11.09.1952 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

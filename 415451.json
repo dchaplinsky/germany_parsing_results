@@ -1,0 +1,39 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 6887",
+        "amtsgericht": "Wuppertal",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Wuppertal Aktenzeichen: HRB 6887 \nBekannt gemacht am: 19.03.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n13.03.2009\n\nBlancke Metallbau GmbH, Wuppertal, Uellendahl 88, 42109 Wuppertal.Geschäftsanschrift: Uellendahl 88, 42109 Wuppertal. Nach Änderung der besonderen Vertretungsbefungnis nunmehr: Geschäftsführer: Blancke, Burkhart, Wuppertal, *05.10.1950, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Bestellt als Geschäftsführer: Blancke, Christian, Wuppertal, *18.05.1978, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Prokura erloschen: Blancke, Elke, Wuppertal, *18.12.1940.",
+        "notice_id": "415451",
+        "posted_on": "2009-03-19",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=415451&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Uellendahl 88 , 42109 Wuppertal ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Wuppertal",
+                "dob": "1950-05-10",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Blancke",
+                "name": "Burkhart"
+            },
+            "text": " Blancke , Burkhart , Wuppertal , * 05.10.1950 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Wuppertal",
+                "dob": "1978-05-18",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Blancke",
+                "name": "Christian"
+            },
+            "text": " Blancke , Christian , Wuppertal , * 18.05.1978 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

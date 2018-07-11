@@ -1,0 +1,35 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 723904",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRA 723904 \nBekannt gemacht am: 30.03.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n26.03.2009\n\nLiving dream e.K., Schorndorf, Dorfwiesenstraße 37, 73614 Schorndorf.(Handel mit Möbel). Einzelkaufmann. Geschäftsanschrift: Dorfwiesenstraße 37, 73614 Schorndorf. Der Inhaber handelt allein. Inhaber: Siegle, Frederik Kaspar, Schorndorf, *01.11.1985.",
+        "notice_id": "122866",
+        "posted_on": "2009-03-30",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=122866&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Sole trader",
+            "text": "Einzelkaufmann"
+        },
+        {
+            "label": "address",
+            "text": " Dorfwiesenstraße 37 , 73614 Schorndorf ."
+        },
+        {
+            "flag": "The owner is acting alone",
+            "text": "Der Inhaber handelt allein"
+        },
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Schorndorf",
+                "dob": "1985-01-11",
+                "lastname": "Siegle",
+                "name": "Frederik Kaspar"
+            },
+            "text": " Siegle , Frederik Kaspar , Schorndorf , * 01.11.1985 ."
+        }
+    ]
+}

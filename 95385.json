@@ -1,0 +1,43 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 722803",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRB 722803 \nBekannt gemacht am: 20.10.2008 12:00 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n15.10.2008\n\nHIM Holtzbrinck 25 GmbH, Stuttgart, (Gänsheidestraße 26, 70184 Stuttgart).Bestellt als Geschäftsführer: Dr. Gutbrod, Jochen, Stuttgart, *09.11.1963; Schwanewedel, Jens, Kernen im Remstal, *17.07.1968. Nicht mehr Geschäftsführer: Landkammer, Rolf, Ditzingen, *04.06.1965. Vertretungsbefugnis geändert bei Geschäftsführer: Dr. Reich, Anka, Stuttgart, *30.09.1967.",
+        "notice_id": "95385",
+        "posted_on": "2008-10-20",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=95385&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Stuttgart",
+                "dob": "1963-09-11",
+                "lastname": "Dr . Gutbrod",
+                "name": "Jochen"
+            },
+            "text": " Dr . Gutbrod , Jochen , Stuttgart , * 09.11.1963"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ditzingen",
+                "dob": "1965-04-06",
+                "lastname": "Landkammer",
+                "name": "Rolf"
+            },
+            "text": " Landkammer , Rolf , Ditzingen , * 04.06.1965 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Stuttgart",
+                "dob": "1967-09-30",
+                "lastname": "Dr . Reich",
+                "name": "Anka"
+            },
+            "text": " Dr . Reich , Anka , Stuttgart , * 30.09.1967 ."
+        }
+    ]
+}

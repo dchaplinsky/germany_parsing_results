@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 31956",
+        "amtsgericht": "Bielefeld",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Bielefeld Aktenzeichen: HRB 31956 \nBekannt gemacht am: 10.12.2008 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n01.12.2008\n\nBIRWE ARMATUREN-VERTRIEBS- GMBH, Bielefeld, Bornweg 16, 33619 Bielefeld.Geschäftsanschrift: Bornweg 16, 33619 Bielefeld. Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch zwei Liquidatoren oder durch einen Liquidator gemeinsam mit einem Prokuristen vertreten. Geändert, nunmehr: Liquidator: Birwe, Hugo, Bielefeld, *13.09.1936, einzelvertretungsberechtigt; mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "380804",
+        "posted_on": "2008-12-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=380804&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Bornweg 16 , 33619 Bielefeld ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

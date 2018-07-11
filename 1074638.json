@@ -1,0 +1,30 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 16208",
+        "amtsgericht": "Moenchengladbach",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Moenchengladbach Aktenzeichen: HRB 16208 \nBekannt gemacht am: 11.09.2014 20:02 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n11.09.2014\n\nHRB 16208:DEMO Krankenpflege GmbH, Erkelenz, Südpromenade 17, 41812 Erkelenz.Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 02.09.2014. Geschäftsanschrift: Südpromenade 17, 41812 Erkelenz. Gegenstand: die ambulante Pflege, hauswirtschaftliche Versorgung, Grundpflege, 24-Stunden-Pflege, Beatmungspflege und Behandlungspflege. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Die Gesellschaft hat einen oder mehrere Geschäftsführer. Ist nur ein Geschäftsführer vorhanden, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinschaftlich oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten. Durch Beschluss der Gesellschafterversammlung kann Geschäftsführern Einzelvertretungsbefugnis sowie Befreiung von den Beschränkungen des § 181 BGB erteilt werden. Geschäftsführer: Rux, Simone, Düsseldorf, *06.11.1964, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "1074638",
+        "posted_on": "2014-09-11",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1074638&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Südpromenade 17 , 41812 Erkelenz ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Rux , Simone , Düsseldorf , * 06.11.1964 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

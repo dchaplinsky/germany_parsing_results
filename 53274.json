@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4396",
+        "amtsgericht": "Offenbach am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Offenbach am Main Aktenzeichen: HRB 4396 \nBekannt gemacht am: 13.08.2007 13:20 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Offenbach am Main\r\r\rDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n10.08.2007\n\nIHP Industrie- u. Handelspartner Werbe- und Geschenkartikel GmbH, Obertshausen (Lämmerspieler Str. 47, 63179 Obertshausen). Nicht mehr Geschäftsführer: Morlock, Jochen. Bestellt als Geschäftsführer: Raudszus, Klaus-Dieter, Obertshausen, *20.08.1941, einzelvertretungsberechtigt mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "53274",
+        "posted_on": "2007-08-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=53274&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Morlock , Jochen ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Raudszus , Klaus - Dieter , Obertshausen , * 20.08.1941 , einzelvertretungsberechtigt mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

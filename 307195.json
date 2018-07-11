@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 59936",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 59936 \nBekannt gemacht am: 29.08.2016 14:17 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n29.08.2016\n\nHRB 59936: HSW Hamburg Sachwert GmbH, Hamburg, Hohe Bleichen 12, 20354 Hamburg. Bestellt Geschäftsführer: Klösges, Jochen, Frankfurt am Main, *13.09.1964, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "307195",
+        "posted_on": "2016-08-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=307195&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Frankfurt am Main",
+                "dob": "1964-09-13",
+                "flag": "sole representation",
+                "lastname": "Klösges",
+                "name": "Jochen"
+            },
+            "text": " Klösges , Jochen , Frankfurt am Main , * 13.09.1964 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

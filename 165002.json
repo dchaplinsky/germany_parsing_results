@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 5141",
+        "amtsgericht": "Steinfurt",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Steinfurt Aktenzeichen: HRB 5141 \nBekannt gemacht am: 06.10.2006 09:03 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n04.10.2006\n\nA. Mohrmann Schmuck-Gesellschaft mit beschränkter Haftung, Ibbenbüren (St.-Josef-Str. 141, 49479 Ibbenbüren). Nach Änderung der Vertretungsbefugnis: Geschäftsführer: Lehmeier, Ludger, Lingen, *30.10.1953, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "165002",
+        "posted_on": "2006-10-06",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=165002&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Lingen",
+                "dob": "1953-10-30",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Lehmeier",
+                "name": "Ludger"
+            },
+            "text": " Lehmeier , Ludger , Lingen , * 30.10.1953 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 1105",
+        "amtsgericht": "Münster",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Münster Aktenzeichen: HRB 1105 \nBekannt gemacht am: 28.10.2015 20:06 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n28.10.2015\n\nHRB 1105: Raphaelsklinik Münster GmbH, Münster, Loerstraße 23, 48143 Münster. Bestellt als Geschäftsführer: Hagmann, Hartmut, Greven, *17.08.1968.",
+        "notice_id": "1213126",
+        "posted_on": "2015-10-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1213126&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Greven",
+                "dob": "1968-08-17",
+                "lastname": "Hagmann",
+                "name": "Hartmut"
+            },
+            "text": " Hagmann , Hartmut , Greven , * 17.08.1968 ."
+        }
+    ]
+}

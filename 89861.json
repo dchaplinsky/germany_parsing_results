@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 873 SB",
+        "amtsgericht": "Lübeck",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Lübeck Aktenzeichen: HRA 873 SB \nBekannt gemacht am: 04.03.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nLöschungen\n25.02.2011\n\nHBWconsult KG, Wentorf bei Hamburg, Hansestr. 15 c, 21465 Wentorf. Geschäftsanschrift:; Hansestr. 15 c, 21465 Wentorf. Rechtsverhaeltnis: Die Gesellschaft ist aufgelöst. Die Firma ist erloschen..",
+        "notice_id": "89861",
+        "posted_on": "2011-03-04",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=89861&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

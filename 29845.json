@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 2776",
+        "amtsgericht": "Weiden i. d. OPf (Weiden)",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Weiden i. d. OPf (Weiden) Aktenzeichen: HRB 2776 \nBekannt gemacht am: 27.05.2005 10:27 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n04.05.2005\n\nMössbauer Italo-Centro GmbH, Waldershof (Marktredwitzer Straße 63, 95679 Waldershof). Die Gesellschaft ist aufgelöst. Die Gesellschaft wird durch den/die Liquidator/en vertreten. Geändert, nun Liquidator: Mössbauer, Richard, Waldershof, *16.02.1953, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "29845",
+        "posted_on": "2005-05-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=29845&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

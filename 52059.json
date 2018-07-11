@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 1784",
+        "amtsgericht": "Mainz",
+        "federal_state": "rp",
+        "full_text": "Amtsgericht Mainz Aktenzeichen: HRB 1784 \nBekannt gemacht am: 18.12.2008 22:00 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n05.12.2008\n\nOchs & Schmidt Elektroinstallation und Antennenbau Gesellschaft mit beschränkter Haftung, Mainz, (Kaiserstraße 27, 55116 Mainz).Nicht mehr Geschäftsführer: Ochs, Norbert, Mainz, *07.05.1943. Bestellt als Geschäftsführer: Niedermeyer, Marc, Ludwigswinkel, *27.01.1971, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "52059",
+        "posted_on": "2008-12-18",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=52059&land_abk=rp"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mainz",
+                "dob": "1943-07-05",
+                "lastname": "Ochs",
+                "name": "Norbert"
+            },
+            "text": " Ochs , Norbert , Mainz , * 07.05.1943 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ludwigswinkel",
+                "dob": "1971-01-27",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Niedermeyer",
+                "name": "Marc"
+            },
+            "text": " Niedermeyer , Marc , Ludwigswinkel , * 27.01.1971 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

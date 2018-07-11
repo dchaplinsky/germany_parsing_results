@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 73185",
+        "amtsgericht": "Köln",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Köln Aktenzeichen: HRB 73185 \nBekannt gemacht am: 13.11.2017 20:03 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n13.11.2017\n\nHRB 73185: Stockey Golf GmbH, Köln, Rösrather Straße 702, 51107 Köln. Nicht mehr Geschäftsführer: Stockey, Rudolf, Köln, *29.01.1953.",
+        "notice_id": "1470999",
+        "posted_on": "2017-11-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1470999&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Köln",
+                "dob": "1953-01-29",
+                "lastname": "Stockey",
+                "name": "Rudolf"
+            },
+            "text": " Stockey , Rudolf , Köln , * 29.01.1953 ."
+        }
+    ]
+}

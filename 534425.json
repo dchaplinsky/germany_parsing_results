@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 5413",
+        "amtsgericht": "Bayreuth",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Bayreuth Aktenzeichen: HRB 5413   \nBekannt gemacht am: 13.09.2011 22:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n09.09.2011\n\nAndré und Bully´s Imbiss UG (haftungsbeschränkt), Kulmbach, Dobrachstr. 20, 95326 Kulmbach. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 25.8.2011. Geschäftsanschrift: Dobrachstr. 20, 95326 Kulmbach. Gegenstand des Unternehmens: ein Imbissbetrieb. Stammkapital: 2.500,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch die Geschäftsführer gemeinsam vertreten. Geschäftsführer: Klose, André, Kulmbach, *28.09.1965, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "534425",
+        "posted_on": "2011-09-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=534425&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Dobrachstr ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Klose , André , Kulmbach , * 28.09.1965 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

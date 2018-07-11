@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 16849 HL",
+        "amtsgericht": "Lübeck",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Lübeck Aktenzeichen: HRB 16849 HL \nBekannt gemacht am: 15.06.2017 09:02 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nNeueintragungen\n14.06.2017\n\nHRB 16849 HL: D.H.S. Nord UG (haftungsbeschränkt), Schwarzenbek, Hamburger Straße 39, 21493 Schwarzenbek. Geschäftsanschrift: Hamburger Straße 39, 21493 Schwarzenbek; Gegenstand: Innenausarbeiten und Hausmeisterdienste; Kapital: 500,00 EUR; Vertretungsregelung: Die Gesellschaft hat einen oder mehrere Geschäftsführer. Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam oder durch einen Geschäftsfüher in Gemeinschaft mit einem Prokuristen vertreten. Alleinvertretungsbefugnis kann erteilt werden. Jeder Geschäftsführer kann von dem Verbot, Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen, befreit werden. Geschäftsführer: 1. Yusuf, Davud, *02.05.1976, Schwarzenbek; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen; Rechtsform: Gesellschaft mit beschränkter Haftung; Gesellschaftsvertrag vom: 09.11.2016",
+        "notice_id": "210181",
+        "posted_on": "2017-06-15",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=210181&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Hamburger Straße 39 , 21493 Schwarzenbek"
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 1 ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

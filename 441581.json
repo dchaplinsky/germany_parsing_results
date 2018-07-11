@@ -1,0 +1,47 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 163589 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 163589 B \nBekannt gemacht am: 29.08.2017 12:31 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nVeränderungen\n28.08.2017\n\nHRB 163589 B: KWG Grundbesitz X GmbH, Berlin, Leipziger Platz 9, 10117 Berlin. Nicht mehr Geschäftsführer: 5. Dr. Beck, Wolfgang; Nicht mehr Geschäftsführer: 6. Sahling, Marc; Nicht mehr Geschäftsführer: 8. Stamerra, Mario; Geschäftsführer: 9.\nFreiberg, Klaus, *19.01.1962, Münster; mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Geschäftsführer: 10.\nKlinck, Gerald, *28.06.1969, Deutsch Evern; mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 7: hinsichtlich der Vertretungsbefugnis; Geschäftsführer: Jung, Sebastian; mit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Prokura: 13.\nAkelbein, Torsten, *21.06.1969, Düsseldorf; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; 14.\nEnnis, Mark, *23.09.1964, Krefeld; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; 15.\nKanellopou, Konstantina, *15.04.1982, Bielefeld; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; 16.\nSchauerte, Christoph, *16.11.1962, Düsseldorf; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; 17.\nWeber, Olaf, *20.11.1972, Leverkusen; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; 18.\nWeihe, Alexander, *09.02.1972, München; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Nicht mehr Prokurist: 9. Dr. Heß, Fabian; Änderung zu Nr. 5: Klückmann, Daniel; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 6: Uebel, Falk; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 7: Mayer, Christian; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 8: Bode, Stefan; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 10: Dr. Rech, Karsten; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 11: Schindler, Jörg; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen; Änderung zu Nr. 12: Zieren, Ralf; Prokura gemeinsam mit einem Geschäftsführer oder einem weiteren Prokuristen\nmit der Befugnis Rechtsgeschäfte als Vertreter Dritter abzuschließen",
+        "notice_id": "441581",
+        "posted_on": "2017-08-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=441581&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " KWG Grundbesitz X GmbH , Berlin , Leipziger Platz 9 , 10117 Berlin ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 5 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 6 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 8 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 9 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 10 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Jung , Sebastian"
+        }
+    ]
+}

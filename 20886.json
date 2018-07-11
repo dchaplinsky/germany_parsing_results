@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 200743",
+        "amtsgericht": "Osnabrück",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Osnabrück Aktenzeichen: HRA 200743 \nBekannt gemacht am: 06.08.2007 09:58 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nNeueintragungen\n03.08.2007\n\nvan Helt Hotel GmbH & Co. KG, Werlte (Brökersfehn 5, 49757 Werlte, Der Bau sowie das Betreiben eines Hotels nebst Restaurant.). Kommanditgesellschaft. Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftender Gesellschafter: van Helt Verwaltungs- und Beteiligungs-GmbH, Werlte (Amtsgericht Osnabrück HRB 200900), mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "20886",
+        "posted_on": "2007-08-06",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=20886&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

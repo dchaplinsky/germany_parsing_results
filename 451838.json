@@ -1,0 +1,43 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 148030 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 148030 B \nBekannt gemacht am: 14.11.2017 10:59 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nVeränderungen\n13.11.2017\n\nHRB 148030 B: CHE Consult GmbH, Berlin, Warschauer Straße 32, 10243 Berlin. Vertretungsregelung: Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten.\nAlleinvertretungsbefugnis kann erteilt werden.\nJeder Geschäftsführer darf Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abschließen.  Änderung zu Nr. 1: Geschäftsführer: Dr. Berthold, Christian; mit der Befugnis die Gesellschaft allein zu vertreten; Geschäftsführer: 3.\nFalkenstein, Mathias, *11.02.1970, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten; Rechtsform: Durch Beschluss der Gesellschafterversammlung vom 07.11.2017 ist der Gesellschaftsvertrag neu gefasst.",
+        "notice_id": "451838",
+        "posted_on": "2017-11-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=451838&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " CHE Consult GmbH , Berlin , Warschauer Straße 32 , 10243 Berlin ."
+        },
+        {
+            "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
+            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Dr . Berthold , Christian"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 3 ."
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

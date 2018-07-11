@@ -1,0 +1,25 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 5468",
+        "amtsgericht": "Fulda",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Fulda Aktenzeichen: HRA 5468 \nBekannt gemacht am: 23.09.2010 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Fulda\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n21.09.2010\n\nInstitut für Lehrer- u. Erzieherversorgung Gesellschaft mbH & Co KG, Fulda, Buseckstraße 16, 36043 Fulda.(Gegenstand des Unternehmens ist die Beratung von nichtöffentlichen Schulen oder solcher in privater Trägerschaft, hinsichtlich eines Ausstiegs der angestellten Lehrer und Erzieher aus der GRV vor dem Hintergrund des § 6 SBG VI, des weiteren die Beratung von Stiftungen, Anstalten und Körperschaften des öffentlichen Rechts, hinsichtlich des Ausstiegs der angestellten Mitarbeiter aus der GRV, vor dem Hintergrund des § 5 SGB VI.).Kommanditgesellschaft. Geschäftsanschrift: Buseckstraße 16, 36043 Fulda. Allgemeine Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftende Gesellschafterin: BBG-GmbH, Kalbach (Amtsgericht Fulda HRB 5172), mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "197959",
+        "posted_on": "2010-09-23",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=197959&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " Buseckstraße 16 , 36043 Fulda ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 9802",
+        "amtsgericht": "Nürnberg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Nürnberg Aktenzeichen: HRB 9802 \nBekannt gemacht am: 22.01.2010 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n20.01.2010\n\nGARANTA Versorgungs- und Versicherungsdienst GmbH, Nürnberg, Ostendstr. 100, 90482 Nürnberg.Bestellt: Geschäftsführer: Brendel, Klaus, Ahorntal, *30.03.1969. Ausgeschieden: Geschäftsführer: Daniel, Udo, Unna., *12.01.1962.",
+        "notice_id": "383430",
+        "posted_on": "2010-01-22",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=383430&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ahorntal",
+                "dob": "1969-03-30",
+                "lastname": "Brendel",
+                "name": "Klaus"
+            },
+            "text": " Brendel , Klaus , Ahorntal , * 30.03.1969 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Unna",
+                "dob": "1962-12-01",
+                "lastname": "Daniel",
+                "name": "Udo"
+            },
+            "text": " Daniel , Udo , Unna . , * 12.01.1962 ."
+        }
+    ]
+}

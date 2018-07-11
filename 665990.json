@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 108593",
+        "amtsgericht": "Mannheim",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Mannheim Aktenzeichen: HRB 108593 \nBekannt gemacht am: 19.03.2018 12:16 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n19.03.2018\n\nHRB 108593: Dr. Schlick Baumanagement GmbH, Karlsruhe, Am Dechantsberg 1, 76227 Karlsruhe. Allgemeine Vertretungsregelung geändert; nun: Ist nur ein Liquidator bestellt, vertritt er allein. Sind mehrere Liquidatoren bestellt, vertreten sie gemeinsam. Bestellt als Liquidator: Dr. Schlick, Gunter Jochen, Karlsruhe, *05.08.1949. Nicht mehr Geschäftsführer: Dr.-Ing. Schlick, Gunter, Karlsruhe, *05.08.1949. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "665990",
+        "posted_on": "2018-03-19",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=665990&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Dr . - Ing ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

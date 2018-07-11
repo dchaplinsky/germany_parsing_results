@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 8366",
+        "amtsgericht": "Steinfurt",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Steinfurt Aktenzeichen: HRB 8366 \nBekannt gemacht am: 02.05.2017 20:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n28.04.2017\n\nHRB 8366: Immobiliengesellschaft - Borneplatz - Rheine mbH, Rheine, Matthiasstr. 22, 48431 Rheine. Bestellt als Geschäftsführer: van Riet, Cornelis Johannes Simon, Woerden / Niederlande, *12.05.1938, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "1406104",
+        "posted_on": "2017-05-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1406104&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Woerden / Niederlande",
+                "dob": "1938-12-05",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "van Riet",
+                "name": "Cornelis Johannes Simon"
+            },
+            "text": " van Riet , Cornelis Johannes Simon , Woerden / Niederlande , * 12.05.1938 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

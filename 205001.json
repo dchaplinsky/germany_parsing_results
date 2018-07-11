@@ -1,0 +1,55 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 16596 HL",
+        "amtsgericht": "Lübeck",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Lübeck Aktenzeichen: HRB 16596 HL \nBekannt gemacht am: 10.03.2017 09:08 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nNeueintragungen\n09.03.2017\n\nHRB 16596 HL: M.E.L. Maritime GmbH -Schiffahrt und Spedition-, Ahrensburg, Ahrensfelder Weg 40, 22926 Ahrensburg. Name der Firma: M.E.L. Maritime GmbH -Schiffahrt und Spedition-; Sitz der Firma: Sitz/Niederlassung: Ahrensburg; Geschäftsanschrift: Ahrensfelder Weg 40, 22926 Ahrensburg; Gegenstand: Betrieb von Speditions- und Schiffahrtsgeschäften aller Art, insbesondere die Organisation und Vermittlung von Seefrachtgeschäften. Kapital: 51.000,00 DM; Vertretungsregelung: Die Gesellschaft hat einen oder mehrere Geschäftsführer. Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer vertreten.\nAlleinvertretungsbefugnis kann erteilt werden. Jeder Geschäftsführer kann von dem Verbot, Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen, befreit werden. Geschäftsführer: 1.\nKirchhoff, Marc Thomas, *31.03.1971, Ahrensburg; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen; Geschäftsführer: 2. Kirchhoff, Joachim Heinrich, *29.09.1944, Ahrensburg; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen; Rechtsform: Gesellschaft mit beschränkter Haftung; Gesellschaftsvertrag vom: 28.08.1997 zuletzt geändert durch Beschluss vom 25.09.1997.\nDurch Beschluss der Gesellschafterversammlung vom 21.02.2017 ist der Sitz der Gesellschaft von Hamburg (Amtsgericht Hamburg, HRB 65638) nach Ahrensburg verlegt und der Gesellschaftsvertrag geändert in § 1 Abs. 2 (Sitz) und in § 3 (Stammkapital). Bemerkung: Tag der ersten Eintragung: 20.10.1997",
+        "notice_id": "205001",
+        "posted_on": "2017-03-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=205001&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Ahrensfelder Weg 40 , 22926 Ahrensburg"
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 1 ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 2 ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

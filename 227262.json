@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 5671",
+        "amtsgericht": "Recklinghausen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Recklinghausen Aktenzeichen: HRB 5671 \nBekannt gemacht am: 01.06.2007 10:01 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n14.05.2007\n\nProjektentwicklungsgesellschaft Speditionsstrasse 17 Beteiligungs GmbH, Recklinghausen (Reitzensteinstraße 41, 45657 Recklinghausen). Die Gesellschafterversammlung vom 26.03.2007 hat eine Änderung des Gesellschaftsvertrages in § 1 (Firma, Sitz) und mit ihr die Änderung der Firma beschlossen. Neue Firma: Project One Entwicklungs Beteiligungs GmbH. Nicht mehr Geschäftsführer: Dr. Kausemann, Ernst Peter, Wülfrath, *05.04.1954. Neu bestellt: Geschäftsführer: Franzen, Jochen, Recklinghausen, *29.01.1955, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "227262",
+        "posted_on": "2007-06-01",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=227262&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Wülfrath",
+                "dob": "1954-05-04",
+                "lastname": "Dr . Kausemann",
+                "name": "Ernst Peter"
+            },
+            "text": " Dr . Kausemann , Ernst Peter , Wülfrath , * 05.04.1954 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Recklinghausen",
+                "dob": "1955-01-29",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Franzen",
+                "name": "Jochen"
+            },
+            "text": " Franzen , Jochen , Recklinghausen , * 29.01.1955 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 100058",
+        "amtsgericht": "Oldenburg",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Oldenburg Aktenzeichen: HRB 100058 \nBekannt gemacht am: 05.03.2010 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n03.03.2010\n\nBirnstiel GmbH, Lemwerder, Edenbütteler Straße 3, 27809 Lemwerder.Geschäftsanschrift: Edenbütteler Straße 3, 27809 Lemwerder. Jeder Liquidator vertritt einzeln. Jeder Liquidator ist befugt, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen. Nicht mehr Geschäftsführer: Birnstiel, Werner, Maschinenbauer, Delmenhorst, *29.03.1944. Bestellt als Liquidator: Birnstiel, Werner, Delmenhorst, *29.03.1944. Die Gesellschaft ist mit Beschluss der Gesellschafterversammlung vom 27.01.2010 aufgelöst.",
+        "notice_id": "119786",
+        "posted_on": "2010-03-05",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=119786&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Edenbütteler Straße 3 , 27809 Lemwerder ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Birnstiel , Werner , Maschinenbauer , Delmenhorst , * 29.03.1944 ."
+        }
+    ]
+}

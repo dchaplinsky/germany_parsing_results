@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 105858",
+        "amtsgericht": "Jena",
+        "federal_state": "th",
+        "full_text": "Amtsgericht Jena Aktenzeichen: HRB 105858 \nBekannt gemacht am: 09.02.2011 22:00 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n26.01.2011\n\nFinke Thüringen Beteiligungs GmbH, Elxleben, Vor dem Dorfe 1, 99189 Elxleben. Bestellt: Geschäftsführer: Dr. Christa, Rudolf, Hallstadt, *20.02.1963, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "46071",
+        "posted_on": "2011-02-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=46071&land_abk=th"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Dr . Christa , Rudolf , Hallstadt , * 20.02.1963 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

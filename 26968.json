@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 5286 PI",
+        "amtsgericht": "Pinneberg",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Pinneberg Aktenzeichen: HRA 5286 PI \nBekannt gemacht am: 09.11.2007 12:00 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nNeueintragungen\n07.11.2007\n\nWBS Fünfunddreißigste Vermietungs GmbH & Co. KG, Kollmar(Langenbrook 3, 25377  Kollmar, Der Handel mit und die Verwaltung, Vermietung und Verpachtung von Grundbesitz). Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt die Gesellschaft allein. Die persönlich haftenden Gesellschafter sowie deren Geschäftsführer dürfen Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abschließen. Inhaber: persönlich haftender Gesellschafter: 1. Semmelhaack, Theodor, *02.06.1957, Elmshorn; persönlich haftender Gesellschafter: 2. Semmelhaack WBS Geschäftsführungs GmbH, Elmshorn (Amtsgericht Pinneberg, HRB 2403 EL). Rechtsform: Kommanditgesellschaft..",
+        "notice_id": "26968",
+        "posted_on": "2007-11-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=26968&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "class": "Owner",
+            "payload": {},
+            "text": " persönlich haftender Gesellschafter : 1 ."
+        },
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        }
+    ]
+}

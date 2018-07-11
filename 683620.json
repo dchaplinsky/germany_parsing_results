@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 9954",
+        "amtsgericht": "Wuppertal",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Wuppertal Aktenzeichen: HRB 9954 \nBekannt gemacht am: 16.06.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n09.06.2011\n\nR. Große-Wortmann Anlagenbau GmbH, Wuppertal, Gesundheitsstr. 140, 42103 Wuppertal. Gemäß § 3 EGGmbHG von Amts wegen ergänzt als Geschäftsanschrift: Gesundheitsstr. 140, 42103 Wuppertal. Bestellt als Geschäftsführer: Meyer, Dirk, Düsseldorf, *08.02.1969, vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen.",
+        "notice_id": "683620",
+        "posted_on": "2011-06-16",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=683620&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Gesundheitsstr ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Düsseldorf",
+                "dob": "1969-08-02",
+                "flag": "vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen",
+                "lastname": "Meyer",
+                "name": "Dirk"
+            },
+            "text": " Meyer , Dirk , Düsseldorf , * 08.02.1969 , vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen ."
+        }
+    ]
+}

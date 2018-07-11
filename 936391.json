@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 42257",
+        "amtsgericht": "Köln",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Köln Aktenzeichen: HRB 42257   \nBekannt gemacht am: 25.07.2013 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n24.07.2013\n\nBWS Blankstahlwerk Sindorf GmbH, Kerpen, Hüttenstrasse 203, 50170 Kerpen. Nicht mehr Geschäftsführer: Mayer, Franz Hubert, Herscheid. Nach Änderung der Vertretungsbefugnis und nach Ergänzung des Geburtsdatums von Amts wegen, nunmehr Geschäftsführer: Mayer, Martin, Herscheid, *11.06.1965, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "936391",
+        "posted_on": "2013-07-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=936391&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "dob": "Herscheid",
+                "lastname": "Mayer",
+                "name": "Franz Hubert"
+            },
+            "text": " Mayer , Franz Hubert , Herscheid ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Herscheid",
+                "dob": "1965-11-06",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Mayer",
+                "name": "Martin"
+            },
+            "text": " Mayer , Martin , Herscheid , * 11.06.1965 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

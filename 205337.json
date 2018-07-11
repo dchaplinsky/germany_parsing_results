@@ -1,0 +1,35 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 125183",
+        "amtsgericht": "Hamburg",
+        "event_date": "2013-06-18",
+        "event_type": "Berichtigungen",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 125183   \nBekannt gemacht am: 19.06.2013 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nBerichtigungen\n18.06.2013\n\nTron NewCo GmbH, Hamburg, Landshuter Allee 10, 80637 München. Vertretung berichtigt: Geschäftsführer: Dzielak, Robert John, Seattle, *03.02.1971; Erskine, Frances Josephine, Kenmore, *05.04.1969; Haas, Stuart Schuyler, Seattle, *18.06.1967; Soliday, Lance Allen, Snoqualmie, *09.07.1972, jeweils einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Geändert, nun Geschäftsführer: Okerstrom, Mark Douglas, Seattle, USA, *01.02.1973, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "gesellschafter": null,
+        "inhaber": null,
+        "name": "Tron NewCo GmbH",
+        "notice_id": "205337",
+        "posted_on": "2013-06-19",
+        "rechtsform": null,
+        "sitz": null,
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=205337&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Seattle",
+                "dob": "1971-03-02",
+                "lastname": "Dzielak",
+                "name": "Robert John"
+            },
+            "text": " Dzielak , Robert John , Seattle , * 03.02.1971"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Okerstrom , Mark Douglas , Seattle , USA , * 01.02.1973 , einzelvertretungsberechtigt"
+        }
+    ]
+}

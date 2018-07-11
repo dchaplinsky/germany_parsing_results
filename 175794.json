@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 5927",
+        "amtsgericht": "Wetzlar",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Wetzlar Aktenzeichen: HRB 5927 \nBekannt gemacht am: 01.04.2010 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Wetzlar\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n16.03.2010\n\nAuto-Glas-Service-Center.de UG (haftungsbeschränkt), Herborn, Bürgermeisterwiese 12, 35745 Herborn.Geschäftsanschrift: Burger Landstraße 25-27, 35745 Herborn. Bestellt als Geschäftsführer: Blum, Achim, Sinn, *24.09.1963; Ritterbach, Peter, Greifenstein, *19.12.1942, jeweils einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführerin: Fischdick, Petra, Sinn, *07.07.1963.",
+        "notice_id": "175794",
+        "posted_on": "2010-04-01",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=175794&land_abk=he"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Burger Landstraße 25-27 , 35745 Herborn ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Sinn",
+                "dob": "1963-09-24",
+                "lastname": "Blum",
+                "name": "Achim"
+            },
+            "text": " Blum , Achim , Sinn , * 24.09.1963"
+        }
+    ]
+}

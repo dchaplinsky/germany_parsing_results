@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4304",
+        "amtsgericht": "Ansbach",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Ansbach Aktenzeichen: HRB 4304 \nBekannt gemacht am: 29.01.2009 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n02.01.2009\n\nLogismata GmbH, Ansbach, Maximilianstraße 8, 91522 Ansbach.Geschäftsanschrift: Maximilianstraße 8, 91522 Ansbach. Ausgeschieden: Geschäftsführer: Prof. Dr. Janetzke, Philipp, Ansbach, *07.07.1969.",
+        "notice_id": "298834",
+        "posted_on": "2009-01-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=298834&land_abk=by"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Maximilianstraße 8 , 91522 Ansbach ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ansbach",
+                "dob": "1969-07-07",
+                "lastname": "Prof . Dr . Janetzke",
+                "name": "Philipp"
+            },
+            "text": " Prof . Dr . Janetzke , Philipp , Ansbach , * 07.07.1969 ."
+        }
+    ]
+}

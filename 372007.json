@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 86264",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 86264   \nBekannt gemacht am: 24.02.2014 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n17.02.2014\n\nVR-LEASING ASOPOS GmbH, Eschborn, Hauptstraße 131-137, 65760 Eschborn. Bestellt als Geschäftsführer: Schnabel, Susanne, Kelkheim, *06.10.1960, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "372007",
+        "posted_on": "2014-02-24",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=372007&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Schnabel , Susanne , Kelkheim , * 06.10.1960 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

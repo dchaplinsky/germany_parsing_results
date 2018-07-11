@@ -1,0 +1,36 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 9860",
+        "amtsgericht": "Coesfeld",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Coesfeld Aktenzeichen: HRB 9860 \nBekannt gemacht am: 27.10.2005 06:46 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nNeueintragungen\n20.10.2005\n\nDeing Beratungs GmbH, Rhede (Winkelhauser Esch 9, 46414 Rhede). Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 19.08.1999 mit Änderung vom 25.07.2005 und 10.10.2005. Die Gesellschafterversammlungen vom 25.07.2005 und 10.10.2005 haben die Änderung des Gesellschaftsvertrages in § 1 und mit ihr die Sitzverlegung von Hagen (bisher Amtsgericht Hagen HRB 3866 ) nach Rhede beschlossen. Gegenstand: Beratung auf allen Sachgebieten der kaufmännischen Leitung von Handelsgeschäften. Die Gesellschaft darf andere Unternehmen gleicher oder ähnlicher Art übernehmen, vertreten und sich an solchen Unternehmen beteiligen. Sie darf auch Zweigniederlassungen errichten. Bei Eingehung einer Beteiligung ist sie auch berechtigt, unter Übernahme der persönlichen Haftung sich zu beteiligen und die Vertretung der Gesellschaft zu übernehmen, an der sie sich beteiligt. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Geschäftsführer: Deing, Josef, Rhede, *23.07.1947, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "75723",
+        "posted_on": "2005-10-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=75723&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Rhede",
+                "dob": "1947-07-23",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Deing",
+                "name": "Josef"
+            },
+            "text": " Deing , Josef , Rhede , * 23.07.1947 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

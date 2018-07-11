@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 18954",
+        "amtsgericht": "Bonn",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Bonn Aktenzeichen: HRB 18954 \nBekannt gemacht am: 14.07.2014 20:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n14.07.2014\n\nHRB 18954:DVGW-Sicherheitstechnischer Dienst der Versorgungswirtschaft GmbH, Bonn, Josef-Wirmer-Straße 1-3, 53123 Bonn.Nicht mehr Geschäftsführer: Lanz, Ralf, Euskirchen, *11.08.1960. Bestellt zum Geschäftsführer: Hollek, Cornelia, Buchholz, *20.10.1970, einzelvertretungsberechtigt mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "1054216",
+        "posted_on": "2014-07-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1054216&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Euskirchen",
+                "dob": "1960-11-08",
+                "lastname": "Lanz",
+                "name": "Ralf"
+            },
+            "text": " Lanz , Ralf , Euskirchen , * 11.08.1960 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Hollek , Cornelia , Buchholz , * 20.10.1970 , einzelvertretungsberechtigt mit der Befugnis , im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

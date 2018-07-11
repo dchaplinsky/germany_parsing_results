@@ -1,0 +1,44 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 7929",
+        "amtsgericht": "Stralsund",
+        "federal_state": "mv",
+        "full_text": "Amtsgericht Stralsund Aktenzeichen: HRB 7929 \nBekannt gemacht am: 28.05.2015 21:59 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n28.05.2015\n\nHRB 7929:Bansiner Hotelbetriebsverwaltungsgesellschaft mbH, Heringsdorf, Seestraße 5, 17429 Heringsdorf OT Seebad Bansin.Die Gesellschafterversammlung vom 27.05.2015 hat eine Änderung des Gesellschaftsvertrages in § 1 Ziffer 1 (Firma) und mit ihr die Änderung der Firma beschlossen. Neue Firma: SuN SüdundNord Hotelbetriebsverwaltungsgesellschaft mbH. Geändert, nun: Geschäftsführer: Dr. Basteck, Ulrich, Berlin, *20.10.1959, einzelvertretungsberechtigt. Bestellt als Geschäftsführer: Ader, Sebastian, Scharbeutz, *01.07.1976. Nicht mehr Geschäftsführer: Gühler, Gerhard, Heringsdorf, *13.01.1943.",
+        "notice_id": "60959",
+        "posted_on": "2015-05-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=60959&land_abk=mv"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Berlin",
+                "dob": "1959-10-20",
+                "flag": "sole representation",
+                "lastname": "Dr . Basteck",
+                "name": "Ulrich"
+            },
+            "text": " Dr . Basteck , Ulrich , Berlin , * 20.10.1959 , einzelvertretungsberechtigt ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Scharbeutz",
+                "dob": "1976-01-07",
+                "lastname": "Ader",
+                "name": "Sebastian"
+            },
+            "text": " Ader , Sebastian , Scharbeutz , * 01.07.1976 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Heringsdorf",
+                "dob": "1943-01-13",
+                "lastname": "Gühler",
+                "name": "Gerhard"
+            },
+            "text": " Gühler , Gerhard , Heringsdorf , * 13.01.1943 ."
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 9828",
+        "amtsgericht": "Wiesbaden",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Wiesbaden Aktenzeichen: HRB 9828 \nBekannt gemacht am: 04.02.2008 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Wiesbaden\r\r\rDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n01.02.2008\n\nAltenpflegeheim Angelikastift GmbH, Wiesbaden (Kapellenstr. 42, 65193 Wiesbaden). Bestellt als Geschäftsführer: Schenk, Martin, Ludwigsburg, *09.04.1971, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "75285",
+        "posted_on": "2008-02-04",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=75285&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Schenk , Martin , Ludwigsburg , * 09.04.1971 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

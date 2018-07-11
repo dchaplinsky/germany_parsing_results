@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 100698",
+        "amtsgericht": "Braunschweig",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Braunschweig Aktenzeichen: HRB 100698 \nBekannt gemacht am: 26.06.2007 10:28 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n20.06.2007\n\nMATERNUS Altenheim Beteiligungs GmbH, Lehre-Wendhausen (Hauptstraße 18, 38165 Lehre-Wendhausen). Nicht mehr Geschäftsführer: Pohler, Udo, Korbußen, *26.02.1955.",
+        "notice_id": "16881",
+        "posted_on": "2007-06-26",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=16881&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Korbußen",
+                "dob": "1955-02-26",
+                "lastname": "Pohler",
+                "name": "Udo"
+            },
+            "text": " Pohler , Udo , Korbußen , * 26.02.1955 ."
+        }
+    ]
+}

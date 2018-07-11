@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 3195",
+        "amtsgericht": "Königstein",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Königstein Aktenzeichen: HRB 3195 \nBekannt gemacht am: 02.03.2007 11:18 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Königstein im Taunus\r\r\rDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n14.02.2007\n\nESM Erodier Service Müller GmbH, Kronberg im Taunus (In der Schneithohl 17, 61476 Kronberg). Die Gesellschafterversammlung vom 14.12.2006 hat die Umstellung des Stammkapitals auf Euro sowie gleichzeitig eine Erhöhung des Stammkapitals um 35,41 EUR und die entsprechende Änderung des Gesellschaftsvertrages in § 4 beschlossen. Außerdem wurden die §§ 3 (Dauer der Gesellschaft und Geschäftsjahr) und 12 (Bekanntmachungen) geändert sowie der Gesellschaftsvertrag insgesamt neu gefasst. Neues Stammkapital: 25.600,00 EUR. Bestellt als Geschäftsführer: Müller, Peter, Kronberg im Taunus, *14.03.1978, Peter Müller vertritt die Gesellschaft gemeinsam mit einem weiteren Geschäftsführer oder mit einem Prokuristen.",
+        "notice_id": "34188",
+        "posted_on": "2007-03-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=34188&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Kronberg im Taunus",
+                "dob": "1978-03-14",
+                "flag": "Peter Müller vertritt die Gesellschaft gemeinsam mit einem weiteren Geschäftsführer oder mit einem Prokuristen",
+                "lastname": "Müller",
+                "name": "Peter"
+            },
+            "text": " Müller , Peter , Kronberg im Taunus , * 14.03.1978 , Peter Müller vertritt die Gesellschaft gemeinsam mit einem weiteren Geschäftsführer oder mit einem Prokuristen ."
+        }
+    ]
+}

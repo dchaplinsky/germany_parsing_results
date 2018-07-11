@@ -1,0 +1,17 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 65618",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 65618   \nBekannt gemacht am: 16.04.2013 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n15.04.2013\n\nDRESS-Verwaltungs- u. Vermietungsgesellschaft mbH, Hamburg, Warburgstraße 50, 20354 Hamburg. Änderung zur Geschäftsanschrift: Große Theaterstraße 42, 20354 Hamburg.",
+        "notice_id": "199704",
+        "posted_on": "2013-04-16",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=199704&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Große Theaterstraße 42 , 20354 Hamburg ."
+        }
+    ]
+}

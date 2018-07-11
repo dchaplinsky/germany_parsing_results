@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 86969 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "event_date": "2015-01-19",
+        "event_type": "Löschungen von Amts wegen",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 86969 B \nBekannt gemacht am: 19.01.2015 13:48 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nLöschungen von Amts wegen\n19.01.2015\n\nHRB 86969 B: Beier Assekuranz, Finanzierungs- und Immobilien- Vermittlungsgesellschaft mbH, Berlin (Friedrichstraße 169/170, 10117 Berlin). Rechtsverhaeltnis: Die vermögenslose Gesellschaft ist auf Grund des § 394 FamFG von Amts wegen gelöscht.",
+        "gesellschafter": null,
+        "inhaber": null,
+        "name": "HRB 86969 B: Beier Assekuranz",
+        "notice_id": "317459",
+        "posted_on": "2015-01-19",
+        "rechtsform": null,
+        "sitz": null,
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=317459&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " Beier Assekuranz , Finanzierungs - und Immobilien - Vermittlungsgesellschaft mbH , Berlin ( Friedrichstraße 169 / 170 , 10117 Berlin ) ."
+        }
+    ]
+}

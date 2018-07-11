@@ -1,0 +1,37 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 36087 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 36087 B  \nBekannt gemacht am: 06.04.2009 12:00 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nVeränderungen\n02.04.2009\n\nAtfour Grundbesitzhandels GmbH, BerlinDahmestraße 1, 12527 Berlin. Sitz / Zweigniederlassung: Geschäftsanschrift:; Dahmestraße 1, 12527 Berlin Vertretungsregelung: Ist ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, wird die Gesellschaft durch sämtliche Liquidatoren gemeinsam vertreten. Änderung zu Nr. 1:; Liquidator:; Mücke, Stefan, *07.04.1969, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen.",
+        "notice_id": "93735",
+        "posted_on": "2009-04-06",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=93735&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "company",
+            "text": " Geschäftsanschrift :"
+        },
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "flag": "If several liquidators are appointed, the company will be represented jointly by all liquidators.",
+            "text": "Sind mehrere Liquidatoren bestellt , wird die Gesellschaft durch sämtliche Liquidatoren gemeinsam vertreten ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

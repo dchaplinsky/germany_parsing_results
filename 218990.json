@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 6255",
+        "amtsgericht": "Hanau",
+        "event_date": "2011-02-10",
+        "event_type": "Berichtigungen",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Hanau Aktenzeichen: HRB 6255 \nBekannt gemacht am: 14.02.2011 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Hanau\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nBerichtigungen\n10.02.2011\n\nMaintaler Batterievertrieb Gesellschaft mit beschränkter Haftung, Maintal, Bruno-Dreßler-STr. 6, 63477 Maintal. Allgemeines Vertretungsrecht in Ergänzung der Eintragung vom 07.10.1998 geändert, nun: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Jeder Geschäftsführer ist befugt, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen.",
+        "gesellschafter": null,
+        "inhaber": null,
+        "name": "Maintaler Batterievertrieb Gesellschaft mit beschränkter Haftung",
+        "notice_id": "218990",
+        "posted_on": "2011-02-14",
+        "rechtsform": null,
+        "sitz": null,
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=218990&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        }
+    ]
+}

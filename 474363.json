@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 104465",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 104465 \nBekannt gemacht am: 12.02.2016 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n12.02.2016\n\nHRB 104465: NTQ Verwaltungs UG (haftungsbeschränkt), Kriftel, Platz von Airaines 1 a, 65830 Kriftel. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 07.01.2011 Die Gesellschafterversammlung vom 22.01.2016 hat die Änderung des Gesellschaftsvertrages in Ziffer 1 (Sitz) und mit ihr die Sitzverlegung von Köln (bisher Amtsgericht Köln HRB 71452) nach Kriftel beschlossen. Geschäftsanschrift: Platz von Airaines 1 a, 65830 Kriftel. Gegenstand: Beteiligung an anderen Unternehmen, insbesondere die Übernahme der Stellung als persönlich haftender Gesellschafter der NTQ UG (haftungsbeschränkt) & Co. KG mit Sitz in Köln. Stammkapital: 100,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch die Geschäftsführer gemeinsam vertreten. Geschäftsführer: Quester, Nils-Torben, Kriftel, *25.06.1984, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "474363",
+        "posted_on": "2016-02-12",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=474363&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Platz von Airaines 1 a , 65830 Kriftel ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Quester , Nils - Torben , Kriftel , * 25.06.1984 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

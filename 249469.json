@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 15826",
+        "amtsgericht": "Nürnberg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Nürnberg Aktenzeichen: HRB 15826 \nBekannt gemacht am: 13.06.2008 12:00 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n06.06.2008\n\nGfK US Custom Research Holding GmbH, Nürnberg (Nordwestring 101, 90319 Nürnberg). Ausgeschieden: Geschäftsführer: Heinlein, Petra, Nürnberg, *07.10.1958. Bestellt: Geschäftsführer: Walsh, Roy A., Fürth, *23.06.1964, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "249469",
+        "posted_on": "2008-06-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=249469&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Nürnberg",
+                "dob": "1958-07-10",
+                "lastname": "Heinlein",
+                "name": "Petra"
+            },
+            "text": " Heinlein , Petra , Nürnberg , * 07.10.1958 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Fürth",
+                "dob": "1964-06-23",
+                "flag": "sole representation",
+                "lastname": "Walsh",
+                "name": "Roy A"
+            },
+            "text": " Walsh , Roy A . , Fürth , * 23.06.1964 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

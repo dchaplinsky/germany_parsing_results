@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 18472",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRB 18472 \nBekannt gemacht am: 29.10.2007 12:00 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n23.10.2007\n\nBWK-Medien-Beteiligungsgesellschaft mbH, Stuttgart (Thouretstraße 2, 70173 Stuttgart). Nicht mehr Geschäftsführer: Dr. Schmidt-Dencker, Hans Michael, Stuttgart, *11.11.1950. Prokura erloschen: Littig, Dirk, Alsbach-Hähnlein, *17.12.1969.",
+        "notice_id": "45044",
+        "posted_on": "2007-10-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=45044&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Stuttgart",
+                "dob": "1950-11-11",
+                "lastname": "Dr . Schmidt - Dencker",
+                "name": "Hans Michael"
+            },
+            "text": " Dr . Schmidt - Dencker , Hans Michael , Stuttgart , * 11.11.1950 ."
+        }
+    ]
+}

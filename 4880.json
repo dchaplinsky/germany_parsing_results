@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 75237",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 75237 \nBekannt gemacht am: 18.05.2006 07:55 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n17.05.2006\n\nBioCarta Europe GmbH, Hamburg (Borsteler Chaussee 53, 22453 Hamburg). Die Gesellschaft wird durch den Liquidator vertreten. Bestellt: Liquidator: Dr. Bösch, Axel, Hamburg, *16.11.1955, einzelvertretungsberechtigt; mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Ausgeschieden: Geschäftsführer: Dr. med. Grünwald, Stefan, Langen, *14.10.1958; Huang, Terry Jia-Ming, San Diego, *15.07.1958; Dr. Otto, Andrea, Hamburg, *01.11.1957. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "4880",
+        "posted_on": "2006-05-18",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=4880&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Langen",
+                "dob": "1958-10-14",
+                "lastname": "Dr . med . Grünwald",
+                "name": "Stefan"
+            },
+            "text": " Dr . med . Grünwald , Stefan , Langen , * 14.10.1958"
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

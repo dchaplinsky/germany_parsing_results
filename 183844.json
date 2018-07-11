@@ -1,0 +1,44 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 6151",
+        "amtsgericht": "Steinfurt",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Steinfurt Aktenzeichen: HRB 6151 \nBekannt gemacht am: 21.12.2006 08:34 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n13.12.2006\n\nGVZ Hamburg Moorfleet Verwaltungsgesellschaft mbH, Greven (Joan-Joseph-Fiege-Str. 1, 48268 Greven). Die Gesellschafterversammlung hat eine Änderung des Gesellschaftsvertrages am 09.06.2006 in § 1, 1.1 (Firma) und am 24.02.2006 in § 2 (Zweck der Gesellschaft) und damit die Änderung der Firma sowie des Unternehmensgegenstandes beschlossen. Neue Firma: Fiege Real Estate Nord Verwaltungs GmbH. Gegenstand des Unternehmens: Ausschließlich die Beteiligung als persönlich haftende Gesellschafterin an den nachfolgend aufgeführten beiden Kommanditgesellschaften: - GVZ Hamburg Moorfleet A GmbH & Co. KG mit dem Sitz in Greven, verzeichnet beim AG Steinfurt unter HRA 4488 und - GVZ Hamburg Moorfleet B GmbH & Co. KG mit dem Sitz in Greven, verzeichnet beim AG Steinfurt unter HRA 4487. Nicht mehr Geschäftsführer: Gräber, Heinz, Greven, *16.04.1952; Habacker, Michael, Münster, *22.05.1964. Bestellt als Geschäftsführer: Schnor, Manfred, Münster, *19.07.1959. Bestellt als Geschäftsführer: Meier, Jens, Hamburg, *19.07.1966, mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "183844",
+        "posted_on": "2006-12-21",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=183844&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Greven",
+                "dob": "1952-04-16",
+                "lastname": "Gräber",
+                "name": "Heinz"
+            },
+            "text": " Gräber , Heinz , Greven , * 16.04.1952"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Münster",
+                "dob": "1959-07-19",
+                "lastname": "Schnor",
+                "name": "Manfred"
+            },
+            "text": " Schnor , Manfred , Münster , * 19.07.1959 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1966-07-19",
+                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Meier",
+                "name": "Jens"
+            },
+            "text": " Meier , Jens , Hamburg , * 19.07.1966 , mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

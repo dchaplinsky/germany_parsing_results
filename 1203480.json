@@ -1,0 +1,17 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 23402",
+        "amtsgericht": "Köln",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Köln Aktenzeichen: HRB 23402 \nBekannt gemacht am: 29.09.2015 20:04 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n29.09.2015\n\nHRB 23402: Schilling Planung GmbH, Köln, Gereonswall 110, 50670 Köln. Änderung zur Geschäftsanschrift: Gereonswall 75, 50670 Köln.",
+        "notice_id": "1203480",
+        "posted_on": "2015-09-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1203480&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Gereonswall 75 , 50670 Köln ."
+        }
+    ]
+}

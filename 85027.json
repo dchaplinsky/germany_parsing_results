@@ -1,0 +1,17 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 76800",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 76800 \nBekannt gemacht am: 01.07.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n30.06.2009\n\nVerwaltung HANSA TREUHAND Beteiligungsfonds I GmbH, Hamburg, Ballindamm 17, 20095 Hamburg.Geschäftsanschrift: An der Alster 9, 20099 Hamburg.",
+        "notice_id": "85027",
+        "posted_on": "2009-07-01",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=85027&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " An der Alster 9 , 20099 Hamburg ."
+        }
+    ]
+}

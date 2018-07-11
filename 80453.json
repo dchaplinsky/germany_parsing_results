@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 95370 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 95370 B  \nBekannt gemacht am: 07.11.2008 12:00 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nVeränderungen\n05.11.2008\n\nArtus Hotel GmbH, Berlin(Bundesallee 36/37, 10717 Berlin). Vertretungsregelung: Ist ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, vertreten sie die Gesellschaft gemeinsam. Nicht mehr Geschäftsführer:; 2. Schwäneke, Heidi; Änderung zu Nr. 1:; nunmehr; Liquidator:; Leonhardt, Kurt, *31.08.1946, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten Rechtsverhaeltnis: Durch Beschluss der Gesellschafterversammlung vom 27.12.2007 ist die Gesellschaft zum 31.12.2007 aufgelöst..",
+        "notice_id": "80453",
+        "posted_on": "2008-11-07",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=80453&land_abk=be"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

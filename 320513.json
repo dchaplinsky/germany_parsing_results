@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 8959",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 8959   \nBekannt gemacht am: 25.02.2013 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n19.02.2013\n\nDeTeMedien, Deutsche Telekom Medien GmbH, Frankfurt am Main, Wiesenhüttenstr. 18, 60329 Frankfurt am Main. Bestellt als Geschäftsführer: Coenen, Ralf, Aschau, *19.06.1961, vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen.",
+        "notice_id": "320513",
+        "posted_on": "2013-02-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=320513&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Aschau",
+                "dob": "1961-06-19",
+                "flag": "vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen",
+                "lastname": "Coenen",
+                "name": "Ralf"
+            },
+            "text": " Coenen , Ralf , Aschau , * 19.06.1961 , vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen ."
+        }
+    ]
+}

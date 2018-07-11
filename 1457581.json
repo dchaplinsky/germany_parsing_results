@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 5531",
+        "amtsgericht": "Gelsenkirchen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Gelsenkirchen Aktenzeichen: HRA 5531 \nBekannt gemacht am: 29.09.2017 20:02 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n29.09.2017\n\nHRA 5531: Fleischerei Abbenhaus e.K., Gladbeck, Beethovenstraße 1, 45966 Gladbeck. Firma geändert, nunmehr: Neue Firma: Fleischerei Abbenhaus, Inhaber Christoph Roman Gmyrek e.K. Nicht mehr Inhaber: Abbenhaus, Dirk, Gladbeck, *27.07.1967. Geändert, nunmehr Inhaber: Gmyrek, Christoph Roman, Gelsenkirchen, *14.08.2017. Der Übergang der in dem Betriebe des Geschäfts entstandenen Verbindlichkeiten und Forderungen ist beim Erwerb des Geschäfts durch den neuen Inhaber ausgeschlossen.",
+        "notice_id": "1457581",
+        "posted_on": "2017-09-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1457581&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Gladbeck",
+                "dob": "1967-07-27",
+                "lastname": "Abbenhaus",
+                "name": "Dirk"
+            },
+            "text": " Abbenhaus , Dirk , Gladbeck , * 27.07.1967 ."
+        },
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Gelsenkirchen",
+                "dob": "2017-08-14",
+                "lastname": "Gmyrek",
+                "name": "Christoph Roman"
+            },
+            "text": " Gmyrek , Christoph Roman , Gelsenkirchen , * 14.08.2017 ."
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 63819",
+        "amtsgericht": "Ludwigshafen a.Rhein (Ludwigshafen)",
+        "federal_state": "rp",
+        "full_text": "Amtsgericht Ludwigshafen a.Rhein (Ludwigshafen) Aktenzeichen: HRB 63819 \nBekannt gemacht am: 27.10.2015 20:05 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n27.10.2015\n\nHRB 63819:\"Landhaus\" Ludwigshafen GmbH, Ludwigshafen, Langgartenstraße 52, 67063 Ludwigshafen.Nicht mehr Geschäftsführer: Laschinski, Rainer, Ludwigshafen, *31.05.1960. Bestellt als Geschäftsführer: Leone, Vincenzo, Ludwigshafen, *24.09.1982; Lukitsch, Carolin, Altrip, *14.03.1984, jeweils einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "189686",
+        "posted_on": "2015-10-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=189686&land_abk=rp"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ludwigshafen",
+                "dob": "1960-05-31",
+                "lastname": "Laschinski",
+                "name": "Rainer"
+            },
+            "text": " Laschinski , Rainer , Ludwigshafen , * 31.05.1960 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ludwigshafen",
+                "dob": "1982-09-24",
+                "lastname": "Leone",
+                "name": "Vincenzo"
+            },
+            "text": " Leone , Vincenzo , Ludwigshafen , * 24.09.1982"
+        }
+    ]
+}

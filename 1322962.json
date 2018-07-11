@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 3190",
+        "amtsgericht": "Moenchengladbach",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Moenchengladbach Aktenzeichen: HRB 3190 \nBekannt gemacht am: 07.09.2016 20:17 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n07.09.2016\n\nHRB 3190: Markt 26 Gaststätten GmbH, Mönchengladbach, Alter Markt 26, 41061 Mönchengladbach. Bestellt als Geschäftsführer: Post, Jürgen August, Mönchengladbach, *22.03.1945, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "1322962",
+        "posted_on": "2016-09-07",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1322962&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mönchengladbach",
+                "dob": "1945-03-22",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Post",
+                "name": "Jürgen August"
+            },
+            "text": " Post , Jürgen August , Mönchengladbach , * 22.03.1945 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 203140",
+        "amtsgericht": "Walsrode",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Walsrode Aktenzeichen: HRB 203140    \nBekannt gemacht am: 26.09.2012 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n19.09.2012\n\nAUTOMARKET LUX GmbH, Achim, Bahnhofstraße 13, 28832 Achim. Geschäftsführer: Czerniak, Janusz, Achim, *15.04.1963, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Prokura erloschen: Czerniak, Janusz, Achim, *15.04.1963.",
+        "notice_id": "227511",
+        "posted_on": "2012-09-26",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=227511&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Achim",
+                "dob": "1963-04-15",
+                "flag": "sole representation",
+                "lastname": "Czerniak",
+                "name": "Janusz"
+            },
+            "text": " Czerniak , Janusz , Achim , * 15.04.1963 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

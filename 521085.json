@@ -1,0 +1,50 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 17161",
+        "amtsgericht": "Kassel",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Kassel Aktenzeichen: HRB 17161 \nBekannt gemacht am: 09.01.2017 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Kassel\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n09.01.2017\n\nHRB 17161: Nimrod Deutschland Wildhandel GmbH, Kassel, Gartenstraße 59 - 61, 34125 Kassel. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 01.06.2016 Die Gesellschafterversammlung vom 14.09.2016 hat die Änderung des Gesellschaftsvertrages in § 1 (Firma bisher: Nimrod Uckermark Wildhandel GmbH und Sitz) und mit ihr die Sitzverlegung von Gerswalde (bisher Amtsgericht Neuruppin HRB 11553 NP) nach Kassel beschlossen. Geschäftsanschrift: Gartenstraße 59 - 61, 34125 Kassel. Gegenstand: An- und Verkauf von Wildbret und Transport sowie Jagdtourismus. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Die Gesellschaft hat einen oder mehrere Geschäftsführer. Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten. Nicht mehr Geschäftsführer: Weising, Sabine, Gerswalde, *07.06.1964. Bestellt als Geschäftsführer: Hlede, Miro, Brda / Slowenien, *24.04.1954, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "521085",
+        "posted_on": "2017-01-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=521085&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Gartenstraße 59 - 61 , 34125 Kassel ."
+        },
+        {
+            "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
+            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Gerswalde",
+                "dob": "1964-07-06",
+                "lastname": "Weising",
+                "name": "Sabine"
+            },
+            "text": " Weising , Sabine , Gerswalde , * 07.06.1964 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Brda / Slowenien",
+                "dob": "1954-04-24",
+                "flag": "sole representation",
+                "lastname": "Hlede",
+                "name": "Miro"
+            },
+            "text": " Hlede , Miro , Brda / Slowenien , * 24.04.1954 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

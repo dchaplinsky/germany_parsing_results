@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 5999",
+        "amtsgericht": "Marburg",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Marburg Aktenzeichen: HRB 5999 \nBekannt gemacht am: 27.12.2017 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Marburg\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n27.12.2017\n\nHRB 5999: Jarkow Verwaltungs GmbH, Stadtallendorf, Daimler-Straße 9, 35260 Stadtallendorf. Nicht mehr Geschäftsführer: Gerlach, Steffen, Stadtallendorf, *12.02.1981.",
+        "notice_id": "572189",
+        "posted_on": "2017-12-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=572189&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Stadtallendorf",
+                "dob": "1981-12-02",
+                "lastname": "Gerlach",
+                "name": "Steffen"
+            },
+            "text": " Gerlach , Steffen , Stadtallendorf , * 12.02.1981 ."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 1783",
+        "amtsgericht": "Hof",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Hof Aktenzeichen: HRB 1783 \nBekannt gemacht am: 15.01.2007 10:51 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n09.01.2007\n\nKaisertex GmbH, Hof (Osseckerstr. 63, 95030 Hof). Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch die Liquidatoren gemeinsam vertreten. Liquidator: Kaiser, Leonhard, Textiltechniker, Hof, *02.06.1936, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "141949",
+        "posted_on": "2007-01-15",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=141949&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

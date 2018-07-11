@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 102536 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 102536 B  \nBekannt gemacht am: 27.06.2006 09:33 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nNeueintragungen\n22.06.2006\n\nAPEK International Limited, Berlin(Wönnichstr. 38, 10317  Berlin). Firma: APEK International Limited Sitz: Berlin; Zweigniederlassung der unter derselben Firma in Birmingham/Großbritannien bestehenden Hauptniederlassung (Companies House Cardiff, Company No. 5811990). Gegenstand: Gegenstand der Zweigniederlassung: Die Erbringung von Dienstleistungen in den Bereichen Marketing, Promotion und Vertrieb von Telekommunikationsprodukten sowie Eventmanagement. Stamm- bzw. Grundkapital: 100 GBP Vertretungsregelung: Ist ein Geschäftsführer (director) bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer (directors) bestellt, wird die Gesellschaft durch sämtliche Geschäftsführer (directors) gemeinschaftlich vertreten. Einzelvertretungsbefugnis kann erteilt werden. Director:; Luther, Carmen, geb. Warmo, *01.11.1960, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten Rechtsform: Gesellschaft britischen Rechts mit beschränkter Haftung, Rechtsbereich England und Wales (private company limited by shares), gegründet am 10.05.2006.",
+        "notice_id": "17710",
+        "posted_on": "2006-06-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=17710&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "misc",
+            "text": " 100 GBP Vertretungsregelung : Ist ein Geschäftsführer ( director ) bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 709687",
+        "amtsgericht": "Mannheim",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Mannheim Aktenzeichen: HRB 709687 \nBekannt gemacht am: 09.07.2010 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n07.07.2010\n\nVWS UNIRENOVA Vertrieb wärmedämmender Systeme UG (haftungsbeschränkt), Rauenberg, Panoramastraße 6, 69231 Rauenberg.Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 25.05.2009. Geschäftsanschrift: Panoramastraße 6, 69231 Rauenberg. Gegenstand: Vertrieb von Produkten für Wärmedämmverbundsysteme (WDVS). Stammkapital: 1.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, vertritt er allein. Sind mehrere Geschäftsführer bestellt, vertreten sie gemeinsam. Geschäftsführer: Ruck, Wolfgang, Rauenberg, *08.01.1945, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "196051",
+        "posted_on": "2010-07-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=196051&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Panoramastraße 6 , 69231 Rauenberg ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Ruck , Wolfgang , Rauenberg , * 08.01.1945 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

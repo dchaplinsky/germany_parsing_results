@@ -1,0 +1,18 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 76816",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 76816 \nBekannt gemacht am: 31.03.2008 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\r\r\rDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n25.03.2008\n\nAvaya Verwaltungs GmbH, Frankfurt am Main (Kleyerstraße 94, 60326 Frankfurt am Main). Nicht mehr Geschäftsführer: Priester, Ursula.",
+        "notice_id": "82076",
+        "posted_on": "2008-03-31",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=82076&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Priester , Ursula ."
+        }
+    ]
+}

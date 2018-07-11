@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 19803",
+        "amtsgericht": "Duisburg",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Duisburg Aktenzeichen: HRB 19803 \nBekannt gemacht am: 23.04.2015 20:03 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n23.04.2015\n\nHRB 19803: Medizinisches Versorgungszentrum Institut für klinische Genetik, Pathologie und Zytologie Nordrhein GmbH, Oberhausen, Virchowstr. 20, 46047 Oberhausen. Bestellt als Geschäftsführer: Dr. Dr. Finzer, Patrick, Meerbusch, *16.04.1966, mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "1152002",
+        "posted_on": "2015-04-23",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1152002&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Meerbusch",
+                "dob": "1966-04-16",
+                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Dr . Dr . Finzer",
+                "name": "Patrick"
+            },
+            "text": " Dr . Dr . Finzer , Patrick , Meerbusch , * 16.04.1966 , mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

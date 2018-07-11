@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 10318 CB",
+        "amtsgericht": "Cottbus",
+        "federal_state": "br",
+        "full_text": "Amtsgericht Cottbus Aktenzeichen: HRB 10318 CB \nBekannt gemacht am: 13.01.2015 05:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nVeränderungen\n09.01.2015\n\nHRB 10318 CB: MPART - Software Solutions GmbH, Schönefeld, Rudower Straße 68 a, 12529 Schönefeld. Name der Firma: ORT - Business Solutions GmbH; Gegenstand: die Entwicklung und Vermarktung von Softwarelösungen im Bereich Marketing Ressource Management, die Implementierung und Bereitstellung solcher Softwarelösungen sowie die Erbringung von Beratungs-, Service- und Supportleistungen in diesem Zusammenhang für Marketing und Vertrieb; Vorstand: Geschäftsführer: 4.\nMeisen, Olaf, *15.04.1971, Krefeld; Rechtsform: Durch Beschluss der Gesellschafterversammlung vom 11.12.2014 sind Firma und Gegenstand sowie der Gesellschaftsvertrag entsprechend in § 1 (Firma und Sitz) und § 2 (Gegenstand des Unternehmens) geändert.",
+        "notice_id": "111321",
+        "posted_on": "2015-01-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=111321&land_abk=br"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " MPART - Software Solutions GmbH , Schönefeld , Rudower Straße 68 a , 12529 Schönefeld ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 4 ."
+        }
+    ]
+}

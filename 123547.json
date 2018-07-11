@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 150703",
+        "amtsgericht": "Oldenburg",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Oldenburg Aktenzeichen: HRB 150703 \nBekannt gemacht am: 09.04.2010 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n08.04.2010\n\nSeLog GmbH, Oldenburg, Julius-Mosen-Platz 3, 26122 Oldenburg.Geändert, nun: Geschäftsführer: Kelbch, Carsten, Reinfeld, *05.05.1962, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "123547",
+        "posted_on": "2010-04-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=123547&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Reinfeld",
+                "dob": "1962-05-05",
+                "flag": "sole representation",
+                "lastname": "Kelbch",
+                "name": "Carsten"
+            },
+            "text": " Kelbch , Carsten , Reinfeld , * 05.05.1962 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

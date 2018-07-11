@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 92895",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 92895 \nBekannt gemacht am: 25.08.2010 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n18.08.2010\n\nFidesSecur Versicherungs- und Wirtschaftsdienst Versicherungsmakler GmbH, München, Ottostraße 21/Ecke Brienner Straße, 80333 München.Personendaten geändert, nun: Geschäftsführer: Hartig, Jörg, Starnberg, *02.03.1960.",
+        "notice_id": "437111",
+        "posted_on": "2010-08-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=437111&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Starnberg",
+                "dob": "1960-02-03",
+                "lastname": "Hartig",
+                "name": "Jörg"
+            },
+            "text": " Hartig , Jörg , Starnberg , * 02.03.1960 ."
+        }
+    ]
+}

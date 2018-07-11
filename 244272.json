@@ -1,0 +1,32 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 703682",
+        "amtsgericht": "Freiburg",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Freiburg Aktenzeichen: HRB 703682 \nBekannt gemacht am: 27.04.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n26.04.2011\n\nWeingut Karl Karle GmbH, Ihringen, Am Krebsbach 3, 79241 Ihringen. Bestellt als Geschäftsführer: Faubel, Herbert Friedrich, Ennetbaden (Schweiz), *15.08.1943, einzelvertretungsberechtigt mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Karle, Edgar, Ihringen, *25.11.1954. Mit der \"Royal Vinum Verwaltungs- und Betriebsgesellschaft mbH\", Müllheim (Amtsgericht Freiburg HRB 300802) wurde am 14.04.2011 ein Gewinnabführungsvertrag abgeschlossen, dem die Gesellschafterversammlungen am 14.04.2011 zugestimmt haben.",
+        "notice_id": "244272",
+        "posted_on": "2011-04-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=244272&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Faubel , Herbert Friedrich , Ennetbaden ( Schweiz ) , * 15.08.1943 , einzelvertretungsberechtigt mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Ihringen",
+                "dob": "1954-11-25",
+                "lastname": "Karle",
+                "name": "Edgar"
+            },
+            "text": " Karle , Edgar , Ihringen , * 25.11.1954 ."
+        }
+    ]
+}

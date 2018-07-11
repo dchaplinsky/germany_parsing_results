@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 10767",
+        "amtsgericht": "Coesfeld",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Coesfeld Aktenzeichen: HRB 10767 \nBekannt gemacht am: 31.08.2007 06:40 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n22.08.2007\n\nH & P Nummer Dreiundfünfzig GmbH, Stadtlohn (Solmsstraße 46, 48683 Ahaus). Die Gesellschafterversammlung vom 20.08.2007 hat eine Neufassung des Gesellschaftsvertrages und mit ihr die Änderung der Firma und des Unternehmensgegenstandes sowie die Sitzverlegung nach Ahaus beschlossen. Neue Firma: Terhalle Immobilien Verwaltungs GmbH. Ahaus. Neuer Unternehmensgegenstand: Die Geschäftsführung und Vertretung der Terhalle Immobilien GmbH & Co. Kommanditgesellschaft. Der Gegenstand des Unternehmens der KG besteht in dem Erwerb und Besitz ausschließlich eigenen Vermögens (vor allem Immobilien, aber auch zB Geld, Wertpapiere, Mobilien, Gesellschaftsbeteiligungen) und in der Verwaltung dieses Eigenvermögens auschließlich im eigenen Namen und für eigene Rechnung. Die KG ist auch berechtigt, das Vermögen oder Teile ihres Vermögens an nahe stehende Unternehmen zu verpachten oder in sonstiger Weise zur Nutzung zu überlassen und Betriebe mit gleichem oder ähnlichem Unternehmensgegenständen ganz oder teilweise zu pachten oder zu erwerben. Allgemeine Vertretungsregelung geändert: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Nunmehr Geschäftsführer: Terhalle, Josef, geb. Terhalle, Ahaus, *01.06.1959, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführerin: Almering, Eva-Maria, Stadtlohn, *17.09.1974.",
+        "notice_id": "250944",
+        "posted_on": "2007-08-31",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=250944&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "dob": "geb",
+                "lastname": "Terhalle",
+                "name": "Josef"
+            },
+            "text": " Terhalle , Josef , geb ."
+        }
+    ]
+}

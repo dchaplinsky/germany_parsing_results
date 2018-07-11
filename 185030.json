@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 119919",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 119919   \nBekannt gemacht am: 31.10.2012 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n30.10.2012\n\nMabanaft Tanklager Hamburg Invest Beteiligungs GmbH, Hamburg, Admiralitätstraße 55, 20459 Hamburg. Ausgeschieden Geschäftsführer: Dr. Flach, Christian, Bad Schwartau, *09.01.1968; Dr. Nette, Claus-Georg, Hamburg, *05.08.1955. Bestellt Geschäftsführer: Tellechea, Julio Nestor, Hamburg, *08.11.1955, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "185030",
+        "posted_on": "2012-10-31",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=185030&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Bad Schwartau",
+                "dob": "1968-09-01",
+                "lastname": "Dr . Flach",
+                "name": "Christian"
+            },
+            "text": " Dr . Flach , Christian , Bad Schwartau , * 09.01.1968"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1955-08-11",
+                "flag": "sole representation",
+                "lastname": "Tellechea",
+                "name": "Julio Nestor"
+            },
+            "text": " Tellechea , Julio Nestor , Hamburg , * 08.11.1955 , einzelvertretungsberechtigt"
+        }
+    ]
+}

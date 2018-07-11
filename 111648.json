@@ -1,0 +1,47 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 115589 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 115589 B  \nBekannt gemacht am: 22.10.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n20.10.2009\n\ne & d multimedia GmbH, Berlin, Kantstraße 17, 10623 Berlin. Sitz / Zweigniederlassung: Geschäftsanschrift:; Kantstraße 17, 10623 Berlin Nicht mehr Geschäftsführer:; 1. Janzen, Boris; Geschäftsführer:; 2. Janzen, Konstantin, *10.01.1962, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen Prokura: 1. Janzen, Boris, *17.02.1972, Berlin; Einzelprokura.",
+        "notice_id": "111648",
+        "posted_on": "2009-10-22",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=111648&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "company",
+            "text": " Geschäftsanschrift :"
+        },
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        },
+        {
+            "flag": "Single procuration",
+            "text": "Einzelprokura"
+        }
+    ]
+}

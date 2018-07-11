@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 29208",
+        "amtsgericht": "Köln",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Köln Aktenzeichen: HRA 29208   \nBekannt gemacht am: 13.07.2012 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n12.07.2012\n\nBarzew Familien KG, Köln, Speyerer Straße 43, c/o Holitzner, 50739 Köln. (Verwaltung eigenen Vermögens, insbesondere von Grundbesitz). Kommanditgesellschaft. Geschäftsanschrift: Speyerer Straße 43, c/o Holitzner, 50739 Köln. Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftender Gesellschafter: Holitzner, Dieter, Köln, *27.05.1947, mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "813851",
+        "posted_on": "2012-07-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=813851&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " Speyerer Straße 43 , c / o Holitzner , 50739 Köln ."
+        }
+    ]
+}

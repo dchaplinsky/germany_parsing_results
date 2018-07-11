@@ -1,0 +1,40 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 72088",
+        "amtsgericht": "Düsseldorf",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Düsseldorf Aktenzeichen: HRB 72088 \nBekannt gemacht am: 28.02.2014 19:58 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n28.02.2014\n\nHRB 72088:Loomiloo UG (haftungsbeschränkt), Düsseldorf, Suitbertusstraße 91g, 40223 Düsseldorf.Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 30.01.2014 mit Änderung vom 25.02.2014. Geschäftsanschrift: Suitbertusstraße 91g, 40223 Düsseldorf. Gegenstand: Der Verkauf oder die Vermittlung von erlaubnisfreien Waren, insbesondere Damen- oder Herrenbekleidung, Schuhe und Accessoires an gewerbliche Kunden oder Endkunden, insbesondere mittels einer online-basierten Internetplattform oder durch stationäre Ladenlokale; ferner die Erbringung von Dienstleistungen im Bereich Import von Bekleidung und Accessoires. Stammkapital: 1.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Jedem Geschäftsführer kann Einzelvertretungsbefugnis und/oder Befreiung von den Beschränkungen des § 181 BGB erteilt werden. Geschäftsführer: Shorish, Hywad, Düsseldorf, *06.08.1988, einzelvertretungsberechtigt.",
+        "notice_id": "1011483",
+        "posted_on": "2014-02-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1011483&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Suitbertusstraße 91 g , 40223 Düsseldorf ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Düsseldorf",
+                "dob": "1988-06-08",
+                "flag": "sole representation",
+                "lastname": "Shorish",
+                "name": "Hywad"
+            },
+            "text": " Shorish , Hywad , Düsseldorf , * 06.08.1988 , einzelvertretungsberechtigt ."
+        }
+    ]
+}

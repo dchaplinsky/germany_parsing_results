@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 20509",
+        "amtsgericht": "Leipzig",
+        "federal_state": "sn",
+        "full_text": "Amtsgericht Leipzig Aktenzeichen: HRB 20509 \nBekannt gemacht am: 17.03.2005 13:08 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n10.03.2005\n\nKöhler-Service-Management GmbH, Leipzig (Dittrichring 17, 04109 Leipzig). Ausgeschieden: Geschäftsführer: Lange, Madeleine, Berlin, *07.01.1979. Bestellt: Geschäftsführer: Gulbys, Gediminas, Leipzig, *23.07.1976, einzelvertretungsberechtigt; mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "3951",
+        "posted_on": "2005-03-17",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=3951&land_abk=sn"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Berlin",
+                "dob": "1979-07-01",
+                "lastname": "Lange",
+                "name": "Madeleine"
+            },
+            "text": " Lange , Madeleine , Berlin , * 07.01.1979 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Leipzig",
+                "dob": "1976-07-23",
+                "flag": "sole representation",
+                "lastname": "Gulbys",
+                "name": "Gediminas"
+            },
+            "text": " Gulbys , Gediminas , Leipzig , * 23.07.1976 , einzelvertretungsberechtigt"
+        }
+    ]
+}

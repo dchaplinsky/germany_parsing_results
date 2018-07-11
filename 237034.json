@@ -1,0 +1,25 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 726179",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRA 726179 \nBekannt gemacht am: 14.03.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n08.03.2011\n\nUniprint Knauer GmbH & Co. KG, Dettingen an der Erms, Fabrikstr. 2-18, 72581 Dettingen an der Erms. (Herstellung und Bedruckung von Primärpackstoffen sowie der Handel mit diesen Produkten.). Kommanditgesellschaft. Geschäftsanschrift: Fabrikstr. 2-18, 72581 Dettingen an der Erms. Allgemeine Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftender Gesellschafter: Uniprint Knauer Verwaltungs GmbH, Dettingen an der Erms (Stuttgart HRB 731616), mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Die Gesellschaft ist entstanden durch formwechselnde Umwandlung der Gesellschaft mit beschränkter Haftung \"Uniprint Knauer GmbH\", Dettingen an der Erms (Amtsgericht Stuttgart HRB 723036) gemäß § 190 ff. UmwG. Auf die bei Gericht eingereichten Urkunden wird Bezug genommen.",
+        "notice_id": "237034",
+        "posted_on": "2011-03-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=237034&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " Fabrikstr ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

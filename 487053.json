@@ -1,0 +1,37 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 14897",
+        "amtsgericht": "Aachen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Aachen Aktenzeichen: HRB 14897 \nBekannt gemacht am: 02.11.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n19.10.2009\n\nutilicount Verwaltungs-GmbH, Aachen, Grüner Weg 1, 52070 Aachen.Ergänzend eingetagen: Geschäftsanschrift: Grüner Weg 1, 52070 Aachen. Nicht mehr Geschäftsführer: Goethe, Reinhard, Aachen, *30.04.1953. Bestellt als einzelvertretungsberechtigter Geschäftsführer: Frings, Christoph, Neuwied, *02.06.1961.",
+        "notice_id": "487053",
+        "posted_on": "2009-11-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=487053&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Grüner Weg 1 , 52070 Aachen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Aachen",
+                "dob": "1953-04-30",
+                "lastname": "Goethe",
+                "name": "Reinhard"
+            },
+            "text": " Goethe , Reinhard , Aachen , * 30.04.1953 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Neuwied",
+                "dob": "1961-02-06",
+                "lastname": "Frings",
+                "name": "Christoph"
+            },
+            "text": " Frings , Christoph , Neuwied , * 02.06.1961 ."
+        }
+    ]
+}

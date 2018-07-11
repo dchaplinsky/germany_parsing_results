@@ -1,0 +1,44 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 22899",
+        "amtsgericht": "Traunstein",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Traunstein Aktenzeichen: HRB 22899   \nBekannt gemacht am: 14.08.2013 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n08.08.2013\n\nNarisol GmbH, Töging a. Inn, Amperstr. 4-6, 84513 Töging a. Inn. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 14.01.2013. Die Gesellschafterversammlung vom 18.07.2013 hat die Änderung der §§ 1 Nr. 2 (Sitz, bisher Erftstadt, Amtsgericht Köln HRB 77773) sowie 2 Nr. 1 (Gegenstand des Unternehmens) der Satzung beschlossen. Geschäftsanschrift: Amperstr. 4-6, 84513 Töging a. Inn. Gegenstand des Unternehmens: Die Übernahme von Handelsvertretungen als Handelsvertreter gem. §§ 84 ff HGB, Handel und Consulting in Zusammenhang mit Maschinen, Anlagen und Zubehör. Stammkapital: 50.000,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Geschäftsführer: Meghrazi, Kambiz, Erftstadt, *14.07.1972, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "712097",
+        "posted_on": "2013-08-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=712097&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Amperstr ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Erftstadt",
+                "dob": "1972-07-14",
+                "flag": "sole representation",
+                "lastname": "Meghrazi",
+                "name": "Kambiz"
+            },
+            "text": " Meghrazi , Kambiz , Erftstadt , * 14.07.1972 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

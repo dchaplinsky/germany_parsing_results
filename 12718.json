@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 8541",
+        "amtsgericht": "Fürth",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Fürth Aktenzeichen: HRB 8541 \nBekannt gemacht am: 01.03.2005 08:55 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n17.02.2005\n\nSVV - Mediastar GmbH, Fürth (Nordring 11, 90765 Fürth). Ausgeschieden Geschäftsführer: Walchhofer, Johann, Obermichelbach, *05.11.1956. Bestellt Geschäftsführer: Walchhofer, Anita, Obermichelbach, *24.08.1954, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "12718",
+        "posted_on": "2005-03-01",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=12718&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Obermichelbach",
+                "dob": "1956-05-11",
+                "lastname": "Walchhofer",
+                "name": "Johann"
+            },
+            "text": " Walchhofer , Johann , Obermichelbach , * 05.11.1956 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Obermichelbach",
+                "dob": "1954-08-24",
+                "flag": "sole representation",
+                "lastname": "Walchhofer",
+                "name": "Anita"
+            },
+            "text": " Walchhofer , Anita , Obermichelbach , * 24.08.1954 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 7727",
+        "amtsgericht": "Kleve",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Kleve Aktenzeichen: HRB 7727 \nBekannt gemacht am: 27.05.2005 10:28 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nNeueintragungen\n20.05.2005\n\nNähr-Engel GmbH, Goch (Klever Straße 48, 47574 Goch). Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 23.11.1946, mehrfach geändert. Die Gesellschafterversammlung vom 24.03.2005 hat die Sitzverlegung von Frankfurt am Main (bisher Amtsgericht Frankfurt am Main HRB 46021) nach Goch, die Umstellung des Stammkapitals (DEM 12.500.000,00) auf Euro, die Erhöhung des Stammkapitals von dann EUR 6.391.148,50 um EUR 1.851,50 auf EUR 6.393.000,00 sowie die vollständige Neufassung des Gesellschaftsvertrages, insbesondere in den §§ 1 (Sitz), 2 (Gegenstand), 3 (Stammkapital), 5 (Geschäftsführung und Vertretung), 6, 7 und 10 beschlossen. Zugleich ist der Gesellschaftsvertrag um die neuen §§ 12 und 13 ergänzt und der bisherige § 12 in § 14 umbenannt worden. Gegenstand: Herstellung und Vertrieb von Lebensmitteln aller Art für eigene und fremde Rechnung. Die Gesellschaft kann zur Erreichung des Gesellschaftszwecks auch Dienstleistungen aller Art erbringen und sonstige Rechtshandlungen vornehmen. Dazu gehört unter anderem, sich an Unternehmen zu beteiligen, solche zu erwerben, Geschäfte anderer Gesellschaften zu führen oder Zweigniederlassungen im In- und Ausland zu errichten. Die Gesellschaft kann ihre Tätigkeit auch im Rahmen eines Organverhältnisses betreiben. Stammkapital: 6.393.000,00 EUR. Allgemeine Vertretungsregelung: Die Gesellschaft hat einen oder mehrere Geschäftsführer. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten. Durch Beschluss der Gesellschafterversammlung kann die Vertretungsmacht der Geschäftsführer abweichend geregelt werden, insbesondere Einzelvertretungsberechtigung statt Gesamtvertretungsberechtigung angeordnet werden. Jeder Geschäftsführer kann durch Gesellschafterbeschluss von den Beschränkungen des § 181 BGB befreit werden. Geschäftsführer: Topp, Wolfgang, Mühltal, *29.09.1948; van den Boom, Johannes, Kleve, *01.11.1946; Wolf, Georg, Brensbach, *18.05.1954. Gesamtprokura gemeinsam mit einem Geschäftsführer oder einem anderen Prokuristen: Hafner, Gerhard, Goch, *30.04.1960; Jung, Klaus, Lüdinghausen, *10.04.1967; Storck, Peter, Einbeck, *23.08.1965. Als nicht eingetragen wird bekanntgemacht: Die Bekanntmachungen der Gesellschaft erfolgen im Bundesanzeiger.",
+        "notice_id": "37236",
+        "posted_on": "2005-05-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=37236&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mühltal",
+                "dob": "1948-09-29",
+                "lastname": "Topp",
+                "name": "Wolfgang"
+            },
+            "text": " Topp , Wolfgang , Mühltal , * 29.09.1948"
+        }
+    ]
+}

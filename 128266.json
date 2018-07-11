@@ -1,0 +1,26 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 205949",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRB 205949 \nBekannt gemacht am: 04.05.2009 13:20 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n27.04.2009\n\nMedia Cluster GmbH, Ludwigsburg, Alt-Württemberg-Allee 42, 71638 Ludwigsburg.Geschäftsanschrift: Alt-Württemberg-Allee 42, 71638 Ludwigsburg. Bestellt als Geschäftsführer: Hoffmann, Andreas, Ludwigsburg, *12.07.1974, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Prokura erloschen: Hoffmann, Andreas, Ludwigsburg, *12.07.1974.",
+        "notice_id": "128266",
+        "posted_on": "2009-05-04",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=128266&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Alt - Württemberg - Allee 42 , 71638 Ludwigsburg ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Hoffmann , Andreas , Ludwigsburg , * 12.07.1974 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

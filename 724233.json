@@ -1,0 +1,18 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 45324",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 45324   \nBekannt gemacht am: 02.10.2013 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n25.09.2013\n\nNeubo Hausverwaltung Gesellschaft mit beschränkter Haftung, München, Hildegardstr. 2, 80539 München. Ausgeschieden: Geschäftsführer: Kahlenberg, Roland, Kaufmann, München.",
+        "notice_id": "724233",
+        "posted_on": "2013-10-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=724233&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Kahlenberg , Roland , Kaufmann , München ."
+        }
+    ]
+}

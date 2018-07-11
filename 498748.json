@@ -1,0 +1,31 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 47879",
+        "amtsgericht": "Offenbach am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Offenbach am Main Aktenzeichen: HRB 47879 \nBekannt gemacht am: 03.08.2016 22:02 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Offenbach am Main\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n03.08.2016\n\nHRB 47879: pl4you GmbH, Offenbach am Main, Ludwigstraße 8, 80539 München. Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch die Liquidatoren gemeinsam vertreten. Liquidator: Magister Roth, Marcus, Krumpendorf / Österreich, *14.11.1976, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Zechner, Lorenz, Villach / Österreich, *09.05.1952. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "498748",
+        "posted_on": "2016-08-03",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=498748&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Villach / Österreich",
+                "dob": "1952-09-05",
+                "lastname": "Zechner",
+                "name": "Lorenz"
+            },
+            "text": " Zechner , Lorenz , Villach / Österreich , * 09.05.1952 ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

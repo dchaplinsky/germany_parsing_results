@@ -1,0 +1,54 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 147796",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 147796 \nBekannt gemacht am: 25.08.2017 12:06 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n25.08.2017\n\nHRB 147796: PitPoint.DE GmbH, Hamburg, Mittelweg 144, 20148 Hamburg. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 19.11.2015 mit Änderung vom 10.03.2016. Die Gesellschafterversammlung vom 07.08.2017 hat die Änderung des Gesellschaftsvertrages in § 1 Abs. 2 und mit ihr die Sitzverlegung von Frankfurt am Main (bisher: Amtsgericht Frankfurt am Main HRB 104989) nach Hamburg beschlossen. Geschäftsanschrift: Mittelweg 144, 20148 Hamburg. Gegenstand: Unternehmensgegenstand ist der Kauf, der Verkauf, das Halten und das Betreiben von CNG Tankstellen und jedweden hierauf bezogenen Geschäften. Unternehmensgegenstand ist ferner: a) die Gestaltung, die Ausführung und Nutzung von Erdgasanlagen und der Kauf und Verkauf von Erdgas sowie die Entwicklung von Techniken und Methoden für diesen Zweck; b) die Beteiligung an, Übernahme von, die Kooperation mit, die Finanzierung, die Durchführung der Leitung von und in jeder Hinsicht die Zurverfügungstellung von Sicherheiten für andere Gesellschaften und Unternehmen, unabhängig von deren Rechtsform, Art oder Geschäftszweck; und c) die Aufnahme und Vergabe von Darlehen, Zurverfügungsstellung von Sicherheiten (einschließlich Bürgschaften und Grundpfandrechten) für die Schulden der Gesellschaft oder von Gruppengesellschaften. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam vertreten. Alleinvertretungsbefugnis kann erteilt werden. Geschäftsführer können ermächtigt werden, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen. Geschäftsführer: Kemink, Erik, Voorburg / Niederlande, *16.09.1976; Lambers, Thieo Harm, Beekbergen / Niederlande, *17.01.1982, jeweils vertretungsberechtigt gemäß allgemeiner Vertretungsregelung; mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Bestellt Geschäftsführer: Janke, Benjamin Reinhard, Hamburg, *28.06.1978, vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen. mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "340247",
+        "posted_on": "2017-08-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=340247&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Mittelweg 144 , 20148 Hamburg ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Voorburg / Niederlande",
+                "dob": "1976-09-16",
+                "lastname": "Kemink",
+                "name": "Erik"
+            },
+            "text": " Kemink , Erik , Voorburg / Niederlande , * 16.09.1976"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1978-06-28",
+                "flag": "vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen",
+                "lastname": "Janke",
+                "name": "Benjamin Reinhard"
+            },
+            "text": " Janke , Benjamin Reinhard , Hamburg , * 28.06.1978 , vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

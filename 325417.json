@@ -1,0 +1,32 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 90223",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 90223   \nBekannt gemacht am: 02.04.2013 12:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n28.03.2013\n\nXenna Services GmbH, Frankfurt am Main, c/o Citco Deutschland GmbH, Mainzer Landstraße 46, 60325 Frankfurt am Main. Nicht mehr Geschäftsführer: Yildiz, Aydin, Amsterdam/ Niederlande, *24.12.1977. Bestellt als Geschäftsführer: Muhlenbaumer, Michiel, Rotterdam/ Niederlande, *20.05.1985, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "325417",
+        "posted_on": "2013-04-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=325417&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Amsterdam / Niederlande",
+                "dob": "1977-12-24",
+                "lastname": "Yildiz",
+                "name": "Aydin"
+            },
+            "text": " Yildiz , Aydin , Amsterdam / Niederlande , * 24.12.1977 ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Muhlenbaumer , Michiel , Rotterdam / Niederlande , * 20.05.1985 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

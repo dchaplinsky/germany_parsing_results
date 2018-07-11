@@ -1,0 +1,44 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 190110",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 190110 \nBekannt gemacht am: 26.01.2011 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n24.01.2011\n\nArgon GmbH, München, Promenadeplatz 8, c/o Carlyle Beratungs GmbH, 80333 München. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 29.12.2010. Geschäftsanschrift: Promenadeplatz 8, c/o Carlyle Beratungs GmbH, 80333 München. Gegenstand des Unternehmens: Erwerb, Halten, Verwalten und Veräußerung von Beteiligungen jeder Art, gewerbliche Erbringung von Dienstleistungen an verbundene und nicht verbundene Unternehmen, sowie alle Tätigkeiten, die zu den Aktivitäten einer geschäftsleitenden Holding gehören. Stammkapital: 25.000,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Geschäftsführer: Schuster, Michael, München, *16.02.1971, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Entstanden durch formwechselnde Umwandlung der Argon GmbH & Co. KG mit dem Sitz in München (Amtsgericht München HRA 93840). Nicht eingetragen: Den Gläubigern des formwechselnden Rechtsträgers ist, wenn sie binnen sechs Monaten nach dem Tag, an dem die Eintragung des Formwechsels nach § 201 UmwG bekannt gemacht worden ist, ihren Anspruch nach Grund und Höhe schriftlich anmelden, Sicherheit zu leisten, soweit sie nicht Befriedigung verlangen können. Dieses Recht steht ihnen jedoch nur zu, wenn sie glaubhaft machen, dass durch den Formwechsel die Erfüllung ihrer Forderung gefährdet wird.",
+        "notice_id": "476522",
+        "posted_on": "2011-01-26",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=476522&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Promenadeplatz 8 , c / o Carlyle Beratungs GmbH , 80333 München ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "München",
+                "dob": "1971-02-16",
+                "flag": "sole representation",
+                "lastname": "Schuster",
+                "name": "Michael"
+            },
+            "text": " Schuster , Michael , München , * 16.02.1971 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

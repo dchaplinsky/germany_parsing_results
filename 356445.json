@@ -1,0 +1,29 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 704870",
+        "amtsgericht": "Mannheim",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Mannheim Aktenzeichen: HRA 704870   \nBekannt gemacht am: 28.03.2013 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n25.03.2013\n\nBALINGI FASHION KG, Karlsruhe, Blücherstraße 6, 76185 Karlsruhe. (Handel mit Bekleidung, insebesondere mit Schuhen, Textilien und Accessoires.). Kommanditgesellschaft. Geschäftsanschrift: Blücherstraße 6, 76185 Karlsruhe. Allgemeine Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftender Gesellschafter: van-Dúnem, Ablavie, Karlsruhe, *18.09.1990, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Einzelprokura: Baldeh, David, Karlsruhe, *26.10.1987.",
+        "notice_id": "356445",
+        "posted_on": "2013-03-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=356445&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " Blücherstraße 6 , 76185 Karlsruhe ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "flag": "Single procuration",
+            "text": "Einzelprokura"
+        }
+    ]
+}

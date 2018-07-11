@@ -1,0 +1,50 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 136457 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 136457 B   \nBekannt gemacht am: 13.09.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n02.09.2011\n\nMSQ-Trading GmbH, Berlin, Glienicker Str. 39, 12557 Berlin. Firma: MSQ-Trading GmbH Sitz / Zweigniederlassung: Berlin; Geschäftsanschrift:; Glienicker Str. 39, 12557 Berlin Gegenstand: Handel mit sowie der Import udn Export von LKW und PKW sowie KFZ-Ersatzteilen wie auch Baumaschinen und Baumaschinenersatzteilen. Stamm- bzw. Grundkapital: 25.000,00 EUR Vertretungsregelung: Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten. Alleinvertretungsbefugnis kann erteilt werden. Geschäftsführer:; 1. Alqathani, Majed Saleh H, *21.07.1974, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen Rechtsform: Gesellschaft mit beschränkter Haftung; Gesellschaftsvertrag vom: 17.08.2011.",
+        "notice_id": "180674",
+        "posted_on": "2011-09-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=180674&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "company",
+            "text": " Berlin"
+        },
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "label": "misc",
+            "text": " 25.000,00 EUR Vertretungsregelung : Ist ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
+            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

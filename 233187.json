@@ -1,0 +1,35 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 102138 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 102138 B   \nBekannt gemacht am: 09.01.2013 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n07.01.2013\n\nACS Hotel Verwaltungsgesellschaft mbH, Berlin, Glockenturmstraße 30, 14055 Berlin. Nicht mehr Geschäftsführer:; 2. Hehn, Roland; Geschäftsführer:; 3. Hartmann-Hehn, Alecsandra, *04.02.1969, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen.",
+        "notice_id": "233187",
+        "posted_on": "2013-01-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=233187&land_abk=be"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

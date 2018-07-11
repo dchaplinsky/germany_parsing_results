@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 5649 HL",
+        "amtsgericht": "Lübeck",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Lübeck Aktenzeichen: HRA 5649 HL \nBekannt gemacht am: 06.03.2009 12:00 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nVeränderungen\n27.02.2009\n\nFernseh-Kundendienst Reinhold Schulz e. K., AhrensburgAm Weinberg 17, 22926 Ahrensburg. Name der Firma: Fernseh-Kundendienst Reinhold Schulz e. K. Inh. Thomas Witte Sitz der Firma: Geschäftsanschrift:; Am Weinberg 17, 22926 Ahrensburg Inhaber: Nicht mehr Inhaber:; 1. Schulz, Reinhold Leonhard; Inhaber:; 2. Witte, Thomas, *06.06.1956, Pölitz Rechtsverhaeltnis: Der Übergang der in dem Betrieb des Geschäfts begründeten Forderungen und Verbindlichkeiten des bisherigen Inhabers ist ausgeschlossen..",
+        "notice_id": "49909",
+        "posted_on": "2009-03-06",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=49909&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "class": "Owner",
+            "payload": {},
+            "text": " Nicht mehr Inhaber :"
+        },
+        {
+            "class": "Owner",
+            "payload": {},
+            "text": ""
+        }
+    ]
+}

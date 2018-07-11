@@ -1,0 +1,42 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 19216",
+        "amtsgericht": "Duisburg",
+        "event_date": "2016-11-14",
+        "event_type": "Berichtigungen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Duisburg Aktenzeichen: HRB 19216 \nBekannt gemacht am: 14.11.2016 20:02 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nBerichtigungen\n14.11.2016\n\nHRB 19216: Sivas GmbH, Duisburg, Arnold-Dehnen-Str. 39, 47138 Duisburg. Nach Berichtigung des Vornamens weiterhin Geschäftsführer: Yildiz, Genc Osman, Duisburg, *25.12.1973, mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nach Berichtigung des Vornamens und des Geburtsdatums weiterhin Geschäftsführer: Kurt, Coscun, Duisburg, *08.12.1977, mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "gesellschafter": null,
+        "inhaber": null,
+        "name": "HRB 19216: Sivas GmbH",
+        "notice_id": "1344163",
+        "posted_on": "2016-11-14",
+        "rechtsform": null,
+        "sitz": null,
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1344163&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Duisburg",
+                "dob": "1973-12-25",
+                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Yildiz",
+                "name": "Genc Osman"
+            },
+            "text": " Yildiz , Genc Osman , Duisburg , * 25.12.1973 , mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Duisburg",
+                "dob": "1977-08-12",
+                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Kurt",
+                "name": "Coscun"
+            },
+            "text": " Kurt , Coscun , Duisburg , * 08.12.1977 , mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

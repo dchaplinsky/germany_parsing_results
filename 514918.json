@@ -1,0 +1,37 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 40976",
+        "amtsgericht": "Offenbach am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Offenbach am Main Aktenzeichen: HRB 40976 \nBekannt gemacht am: 01.12.2016 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Offenbach am Main\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n01.12.2016\n\nHRB 40976: Xura Germany GmbH, Neu-Isenburg, Siemensstraße 3, 63263 Neu-Isenburg. Geschäftsanschrift: Dornhofstraße 34, 63263 Neu-Isenburg. Nicht mehr Geschäftsführer: Mc Dermott, Paul Kevin; Wu, Jacky, Boston, MA 02127 / USA - Vereinigte Staaten, *21.03.1983. Bestellt als Geschäftsführer: Murray, Glen, Berkshire / Vereinigtes Königreich, *20.05.1965, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "514918",
+        "posted_on": "2016-12-01",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=514918&land_abk=he"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Dornhofstraße 34 , 63263 Neu - Isenburg ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Mc Dermott , Paul Kevin"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Berkshire / Vereinigtes Königreich",
+                "dob": "1965-05-20",
+                "flag": "sole representation",
+                "lastname": "Murray",
+                "name": "Glen"
+            },
+            "text": " Murray , Glen , Berkshire / Vereinigtes Königreich , * 20.05.1965 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

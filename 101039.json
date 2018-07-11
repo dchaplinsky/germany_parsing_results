@@ -1,0 +1,18 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 1487 OD",
+        "amtsgericht": "Lübeck",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Lübeck Aktenzeichen: HRB 1487 OD \nBekannt gemacht am: 28.09.2011 11:24 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n27.09.2011\n\nHRB 1487 OD: Delikatessen Peters GmbH, Bad Oldesloe, Mühlenstraße 4, 23843 Bad Oldesloe. Vorstand: Geschäftsführer: 2.\nStechhöfer, Klaus, *26.02.1962, Kiel",
+        "notice_id": "101039",
+        "posted_on": "2011-09-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=101039&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 2 ."
+        }
+    ]
+}

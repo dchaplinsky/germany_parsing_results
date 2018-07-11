@@ -1,0 +1,44 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 80764",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 80764 \nBekannt gemacht am: 11.08.2008 12:00 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n08.08.2008\n\nRP Beteiligungs GmbH, Hamburg (ABC-Str. 19, 20354 Hamburg). Ausgeschieden: Geschäftsführer: Björnberg, Hendrik Geronimo, Amsterdam /Niederlande, *02.09.1969. Bestellt und wieder abberufen: Geschäftsführer: Sterk, Michael, Albbruck, *16.12.1959. Bestellt Geschäftsführer: Nikkanen, Matti, Niederroth, *06.06.1943, einzelvertretungsberechtigt. Prokura erloschen Huber, Robert, Murg, *26.08.1952.",
+        "notice_id": "58751",
+        "posted_on": "2008-08-11",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=58751&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Amsterdam / Niederlande",
+                "dob": "1969-02-09",
+                "lastname": "Björnberg",
+                "name": "Hendrik Geronimo"
+            },
+            "text": " Björnberg , Hendrik Geronimo , Amsterdam / Niederlande , * 02.09.1969 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Albbruck",
+                "dob": "1959-12-16",
+                "lastname": "Sterk",
+                "name": "Michael"
+            },
+            "text": " Sterk , Michael , Albbruck , * 16.12.1959 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Niederroth",
+                "dob": "1943-06-06",
+                "flag": "sole representation",
+                "lastname": "Nikkanen",
+                "name": "Matti"
+            },
+            "text": " Nikkanen , Matti , Niederroth , * 06.06.1943 , einzelvertretungsberechtigt ."
+        }
+    ]
+}

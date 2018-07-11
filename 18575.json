@@ -1,0 +1,31 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 11173 FF",
+        "amtsgericht": "Frankfurt/Oder",
+        "federal_state": "br",
+        "full_text": "Amtsgericht Frankfurt/Oder Aktenzeichen: HRB 11173 FF \nBekannt gemacht am: 24.10.2007 12:00 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nVeränderungen\n10.10.2007\n\nSYNTHOS GmbH, Strausberg(Ernst-Thälmann-Straße 56, 15344  Strausberg). Nicht mehr Geschäftsführer: Henoch, Mario. Geschäftsführer: Völpel, Holger, *13.05.1976, Finowfurt OT Lichterfelde; mit der Befugnis die Gesellschaft allein zu vertreten, mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen.",
+        "notice_id": "18575",
+        "posted_on": "2007-10-24",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=18575&land_abk=br"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Henoch , Mario ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Völpel , Holger , * 13.05.1976 , Finowfurt OT Lichterfelde"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

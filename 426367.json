@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 729847",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRA 729847 \nBekannt gemacht am: 13.05.2014 15:09 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nNeueintragungen\n13.05.2014\n\nHRA 729847:Blue Shop GmbH & Co. KG, Neckarsulm, Marktplatz 1, 74172 Neckarsulm.(Textileinzelhandel inklusive Verkauf von Schuhen.). Kommanditgesellschaft. Geschäftsanschrift: Marktplatz 1, 74172 Neckarsulm. Allgemeine Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt einzeln. Jeder persönlich haftende Gesellschafter sowie dessen jeweilige Geschäftsführer sind befugt, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen. Persönlich haftender Gesellschafter: Blue Shop Verwaltungs GmbH, Neckarsulm (Amtsgericht Stuttgart HRB 748876).",
+        "notice_id": "426367",
+        "posted_on": "2014-05-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=426367&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " Marktplatz 1 , 74172 Neckarsulm ."
+        }
+    ]
+}

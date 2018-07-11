@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 28873 HB",
+        "amtsgericht": "Bremen",
+        "federal_state": "hb",
+        "full_text": "Amtsgericht Bremen Aktenzeichen: HRB 28873 HB \nBekannt gemacht am: 21.01.2016 20:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nVeränderungen\n20.01.2016\n\nHRB 28873 HB: In-ternational Consulting A & A UG (haftungsbeschränkt), Bremen, c/o Hakim AIT AMAR, Langenstr. 68, 28195 Bremen. Geschäftsanschrift: c/o Hakim AIT AMAR, Langenstr. 68, 28195 Bremen. Die Liquidation ist beendet. Die Gesellschaft ist erloschen.",
+        "notice_id": "59119",
+        "posted_on": "2016-01-21",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=59119&land_abk=hb"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " In - ternational Consulting A & A UG ( haftungsbeschränkt ) , Bremen , c / o Hakim AIT AMAR , Langenstr ."
+        },
+        {
+            "label": "address",
+            "text": " c / o Hakim AIT AMAR , Langenstr ."
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 3992",
+        "amtsgericht": "Limburg a. d. Lahn",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Limburg a. d. Lahn Aktenzeichen: HRB 3992 \nBekannt gemacht am: 05.10.2006 10:03 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Limburg a. d. Lahn\r\r\rDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n22.09.2006\n\nDT Dichtungstechnik und Handel GmbH, Löhnberg (Hochstr. 21, 35792 Löhnberg). Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 15.03.2006 Die Gesellschafterversammlung vom 30.08.2006 hat die Änderung des Gesellschaftsvertrages in § 1 (Firma und Sitz) und mit ihr die Änderung der Firma und die Sitzverlegung von Niederneisen (bisher Amtsgericht Montabaur, HRB 20279) nach Löhnberg beschlossen. Gegenstand: Die Herstellung und der Handel mit Waren aus polymeren und plastischen Werkstoffen, Herstellungs-, Be- und Verarbeitungsmaschinen und -geräten sowie Produkte und Hilfsmittel aus unterschiedlichen Werkstoffen die zur Herstellung, zum Einbau oder Einsatz von Produkten notwendig sind, die bei dem Rohrleitungs-, Kanal- und Straßenbau im Bereich der Ver- und Entsorgungen sowie im Verkehrswesen eingesetzt werden. Endlich ist Gegenstand des Unternehmens die Beratungstätigkeiten und ingenieurmäßige Unterstützung in Form von Beratungen, Gutachten und nationalen und internationalen Normarbeiten. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer gemeinsam vertreten. Durch Gesellschafterbeschluss kann Geschäftsführern Einzelvertretungsbefugnis erteilt werden. Auch können Geschäftsführer durch Gesellschafterbeschluss ermächtigt werden, die Gesellschaft bei der Vornahme von Rechtsgeschäften mit sich im eigenen Namen oder als Vertreter eines Dritten uneingeschränkt zu vertreten. Geschäftsführer: Hasselbach, Christel, geb. Friedrich, Niederneisen, *13.02.1948, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "19341",
+        "posted_on": "2006-10-05",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=19341&land_abk=he"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "dob": "geb",
+                "lastname": "Hasselbach",
+                "name": "Christel"
+            },
+            "text": " Hasselbach , Christel , geb ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

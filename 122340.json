@@ -1,0 +1,42 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4886",
+        "amtsgericht": "Oldenburg",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Oldenburg Aktenzeichen: HRB 4886 \nBekannt gemacht am: 26.03.2010 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n18.03.2010\n\nDADASCH Putzbetrieb GmbH, Oldenburg, Bahndamm 49, 26135 Oldenburg.Geschäftsanschrift: Bahndamm 49, 26135 Oldenburg. Nicht mehr Geschäftsführer: Kutucuoglu, Halis, Oldenburg, *02.04.1962. Bestellt als Geschäftsführer: Kutucuoglu, Elif, Oldenburg, *01.10.1970, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "122340",
+        "posted_on": "2010-03-26",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=122340&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Bahndamm 49 , 26135 Oldenburg ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Oldenburg",
+                "dob": "1962-02-04",
+                "lastname": "Kutucuoglu",
+                "name": "Halis"
+            },
+            "text": " Kutucuoglu , Halis , Oldenburg , * 02.04.1962 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Oldenburg",
+                "dob": "1970-01-10",
+                "flag": "sole representation",
+                "lastname": "Kutucuoglu",
+                "name": "Elif"
+            },
+            "text": " Kutucuoglu , Elif , Oldenburg , * 01.10.1970 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

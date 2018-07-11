@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 18842",
+        "amtsgericht": "Wiesbaden",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Wiesbaden Aktenzeichen: HRB 18842   \nBekannt gemacht am: 11.01.2013 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Wiesbaden\r\r\rIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n08.01.2013\n\nWildparkhotel Niedermayer GmbH, Niedernhausen, Trompeter Straße 21, 65527 Niedernhausen. Geschäftsanschrift: Trompeter Straße 21, 65527 Niedernhausen. Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch die Liquidatoren gemeinsam vertreten. Geändert, nun: Liquidator: Niedermayer, Hans-Jürgen, Niedernhausen, *01.08.1961. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "312980",
+        "posted_on": "2013-01-11",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=312980&land_abk=he"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Trompeter Straße 21 , 65527 Niedernhausen ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4794",
+        "amtsgericht": "Lemgo",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Lemgo Aktenzeichen: HRB 4794 \nBekannt gemacht am: 10.11.2005 09:47 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n04.11.2005\n\nRodi Petfood GmbH, Lage (Detmolder Str. 48, 32791 Lage). Nicht mehr Geschäftsführer: Holz, Joachim, Bad Salzuflen, *15.05.1939. Bestellt als Geschäftsführer: de Witte, Sjoerd, AB Colmschate, *26.07.1943, einzelvertretungsberechtigt. Nach Änderung der Vertretungsbefugnis: Einzelprokura mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen: Sundermann, Dirk, Bad Salzuflen, *10.11.1967.",
+        "notice_id": "78710",
+        "posted_on": "2005-11-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=78710&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Bad Salzuflen",
+                "dob": "1939-05-15",
+                "lastname": "Holz",
+                "name": "Joachim"
+            },
+            "text": " Holz , Joachim , Bad Salzuflen , * 15.05.1939 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "AB Colmschate",
+                "dob": "1943-07-26",
+                "flag": "sole representation",
+                "lastname": "de Witte",
+                "name": "Sjoerd"
+            },
+            "text": " de Witte , Sjoerd , AB Colmschate , * 26.07.1943 , einzelvertretungsberechtigt ."
+        },
+        {
+            "flag": "Single procuration",
+            "text": "Einzelprokura"
+        }
+    ]
+}

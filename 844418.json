@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 49274",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 49274 \nBekannt gemacht am: 09.01.2015 02:01 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n08.01.2015\n\nHRB 49274:Dr. Reich GmbH, Feldafing, Landkreis Starnberg, Hans-Albers-Weg 4, 82340 Feldafing.Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch zwei Liquidatoren oder durch einen Liquidator gemeinsam mit einem Prokuristen vertreten. Geändert, nun: Liquidator: Dr. Reich, Herbert, Industriekaufmann, Feldafing, *18.07.1938, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "844418",
+        "posted_on": "2015-01-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=844418&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

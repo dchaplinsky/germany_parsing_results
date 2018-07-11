@@ -1,0 +1,43 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 124153",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 124153   \nBekannt gemacht am: 20.08.2012 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n17.08.2012\n\nSBG Generalübernehmer GmbH, Hamburg, Tangstedter Landstraße 108, 22415 Hamburg. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 14.08.2012. Geschäftsanschrift: Tangstedter Landstraße 108, 22415 Hamburg. Gegenstand: der Hochbau, der Tiefbau und die Sanierung im Rahmen des Maurer-, Beton- und Stahlbetonhandwerks, der Trockenbau, die Vermittlung von weiteren Bauausführungen und Leistungen an Subunternehmer sowie als Generalübernehmer für die Errichtung von Bauvorhaben sowie die Bauträgertätigkeit im Sinne des § 34 c Abs. 1 Nr. 1. u. 4. GewO. Stammkapital: 50.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Alleinvertretungsbefugnis kann erteilt werden. Geschäftsführer können ermächtigt werden, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen. Geschäftsführer: Burak, Nesim, Hamburg, *11.08.1957; Dr. Subay, Metin, Berlin, *10.03.1970, jeweils einzelvertretungsberechtigt.",
+        "notice_id": "179276",
+        "posted_on": "2012-08-20",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=179276&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Tangstedter Landstraße 108 , 22415 Hamburg ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1957-11-08",
+                "lastname": "Burak",
+                "name": "Nesim"
+            },
+            "text": " Burak , Nesim , Hamburg , * 11.08.1957"
+        }
+    ]
+}

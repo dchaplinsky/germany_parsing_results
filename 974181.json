@@ -1,0 +1,42 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4650",
+        "amtsgericht": "Landshut",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Landshut Aktenzeichen: HRB 4650 \nBekannt gemacht am: 14.05.2016 02:02 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n13.05.2016\n\nHRB 4650: MHV Vermittlungs GmbH, Landshut, Marschallstr. 1, 84028 Landshut. Die Gesellschafterversammlung vom 11.05.2016 hat die Änderung des § 1 (Sitz) der Satzung beschlossen. Neuer Sitz: Ergolding. Geschäftsanschrift: Mendelstraße 9, 84030 Ergolding. Ausgeschieden: Geschäftsführer: Kaschel, Petra, Landshut, *01.11.1962. Bestellt: Geschäftsführer: Nix, Rainer, Mönchengladbach, *14.08.1958, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Prokura erloschen: Dreßen, Michael, Kitzbühel/Österreich, *08.05.1963.",
+        "notice_id": "974181",
+        "posted_on": "2016-05-14",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=974181&land_abk=by"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Mendelstraße 9 , 84030 Ergolding ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Landshut",
+                "dob": "1962-01-11",
+                "lastname": "Kaschel",
+                "name": "Petra"
+            },
+            "text": " Kaschel , Petra , Landshut , * 01.11.1962 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mönchengladbach",
+                "dob": "1958-08-14",
+                "flag": "sole representation",
+                "lastname": "Nix",
+                "name": "Rainer"
+            },
+            "text": " Nix , Rainer , Mönchengladbach , * 14.08.1958 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

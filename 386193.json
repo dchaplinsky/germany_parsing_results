@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 24921",
+        "amtsgericht": "Augsburg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Augsburg Aktenzeichen: HRB 24921 \nBekannt gemacht am: 02.02.2010 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n01.02.2010\n\nCastle Diner GmbH, Augsburg, Kurt-Schumacher-Straße 4, 86165 Augsburg.Bestellt: Geschäftsführer: Frühauf, Norman, Erbach, *16.03.1964, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Ausgeschieden: Geschäftsführer: Brinke, Norbert, Neu-Ulm, *05.06.1953; Brinke, Annette, Neu-Ulm, *21.11.1956. Prokura erloschen: Brinke, Melanie, Neu-Ulm, *06.04.1983.",
+        "notice_id": "386193",
+        "posted_on": "2010-02-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=386193&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Erbach",
+                "dob": "1964-03-16",
+                "flag": "sole representation",
+                "lastname": "Frühauf",
+                "name": "Norman"
+            },
+            "text": " Frühauf , Norman , Erbach , * 16.03.1964 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Neu - Ulm",
+                "dob": "1953-05-06",
+                "lastname": "Brinke",
+                "name": "Norbert"
+            },
+            "text": " Brinke , Norbert , Neu - Ulm , * 05.06.1953"
+        }
+    ]
+}

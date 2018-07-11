@@ -1,0 +1,25 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 6304 PI",
+        "amtsgericht": "Pinneberg",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Pinneberg Aktenzeichen: HRA 6304 PI \nBekannt gemacht am: 04.03.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n22.02.2011\n\nBarnekow Wind 1 GmbH & Co. KG, Neufeld, Niendieker Strot 40, 25724 Neufeld, (der Erwerb und das Betreiben von Windkraftanlagen insbesondere in Barnekow sowie die Beteiligung an Gesellschaften zum Erwerb von Grundstücken.). Geschäftsanschrift: Niendieker Strot 40, 25724 Neufeld. Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt die Gesellschaft allein. Persönlich haftender Gesellschafter: Peters Wind GmbH, Neufeld (Amtsgericht Pinneberg, HRB 9154 PI); mit der Befugnis die Gesellschaft allein zu vertreten und mit der für sich sowie ihre Geschäftsführer geltenden Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen. Rechtsform: Kommanditgesellschaft..",
+        "notice_id": "89896",
+        "posted_on": "2011-03-04",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=89896&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Niendieker Strot 40 , 25724 Neufeld ."
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        },
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        }
+    ]
+}

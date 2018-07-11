@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 207250",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 207250   \nBekannt gemacht am: 11.09.2013 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n06.09.2013\n\nACP IT Solutions GmbH, München, Stuttgarter Str. 3-5, 80807 München. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 28.06.2013. Geschäftsanschrift: Stuttgarter Str. 3-5, 80807 München. Gegenstand des Unternehmens: Handel mit Waren aller Art, insbesondere mit Computerhard- und Software samt Zubehör, sowie sämtliche damit in Verbindung stehenden Dienstleistungen, Service, Schulung von EDV-Anwendern, Handel mit Büromaterial, Bürobedarfsartikeln und Büromaschinen, sowie Import- und Export all dieser Waren; Entwicklung von Computerhard- und Software, Dienstleistungen auf dem Gebiet der Informationstechnik. Stammkapital: 25.000,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Geschäftsführer: Schiller, Günther, Rohrdorf, *28.09.1966, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "718839",
+        "posted_on": "2013-09-11",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=718839&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Stuttgarter Str ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Schiller , Günther , Rohrdorf , * 28.09.1966 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

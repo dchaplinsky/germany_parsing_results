@@ -1,0 +1,46 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 32802 HB",
+        "amtsgericht": "Bremen",
+        "federal_state": "hb",
+        "full_text": "Amtsgericht Bremen Aktenzeichen: HRB 32802 HB \nBekannt gemacht am: 29.09.2017 20:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nNeueintragungen\n28.09.2017\n\nHRB 32802 HB: Alphascaling GmbH, Bremen, Konsul-Smidt-Str. 8r, 28217 Bremen. Geschäftsanschrift: Konsul-Smidt-Str. 8r, 28217 Bremen.\nGegenstand: Die Erbringung von Internet Marketing- und Vertriebsleistungen, insbesondere die Beratung und Unterstützung von Firmen für optimierte Internet-Auftritte sowie die Gestaltung und Entwicklung von Internet-Webseiten und -Portalen und alle damit in Zusammenhang stehenden Dienstleistungen.\nStammkapital: 25.000 EUR.\nDie Gesellschaft hat einen oder mehrere Geschäftsführer. Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten.\nAlleinvertretungsbefugnis kann erteilt werden.\nJeder Geschäftsführer kann von dem Verbot, Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen, befreit werden.\nGeschäftsführer: 1. Bekar, Ömer, *18.09.1974, Bremen;\nmit der Befugnis die Gesellschaft allein zu vertreten\nmit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen.\nGesellschaft mit beschränkter Haftung; Gesellschaftsvertrag vom: 05.07.2017.",
+        "notice_id": "71754",
+        "posted_on": "2017-09-29",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=71754&land_abk=hb"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " Alphascaling GmbH , Bremen , Konsul - Smidt - Str ."
+        },
+        {
+            "label": "address",
+            "text": " Konsul - Smidt - Str ."
+        },
+        {
+            "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
+            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 1 ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

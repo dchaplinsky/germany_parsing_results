@@ -1,0 +1,28 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 102410",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 102410 \nBekannt gemacht am: 25.08.2017 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n25.08.2017\n\nHRB 102410: Ramen Jun International GmbH, Frankfurt am Main, Wilhelm Hauff Straße 10, 60325 Frankfurt am Main. Bestellt als Geschäftsführer: Matsumoto, Junichi, Niigata-ken / Japan, *11.08.1965, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "554173",
+        "posted_on": "2017-08-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=554173&land_abk=he"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Niigata - ken / Japan",
+                "dob": "1965-11-08",
+                "flag": "sole representation",
+                "lastname": "Matsumoto",
+                "name": "Junichi"
+            },
+            "text": " Matsumoto , Junichi , Niigata - ken / Japan , * 11.08.1965 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

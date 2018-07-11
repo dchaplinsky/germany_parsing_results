@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 31801",
+        "amtsgericht": "Dresden",
+        "federal_state": "sn",
+        "full_text": "Amtsgericht Dresden Aktenzeichen: HRB 31801 \nBekannt gemacht am: 12.05.2014 18:30 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des  Unternehmensgegenstandes erfolgen ohne Gewähr.\nVeränderungen\n12.05.2014\n\nHRB 31801:\"SACHSE - Personaldienstleistungen\" GmbH, Görlitz, Landeskronstr. 33, 02826 Görlitz.Die Gesellschafterversammlung vom 07.05.2014 hat die Änderung des § 1 (Firma und Sitz - bzgl. Firma) des Gesellschaftsvertrages beschlossen. Neue Firma: SACHSE - Personaldienstleistungen GmbH. Ausgeschieden: Geschäftsführer: Feichtenschlager, Michael, Piding, *05.05.1978.",
+        "notice_id": "170932",
+        "posted_on": "2014-05-12",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=170932&land_abk=sn"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Piding",
+                "dob": "1978-05-05",
+                "lastname": "Feichtenschlager",
+                "name": "Michael"
+            },
+            "text": " Feichtenschlager , Michael , Piding , * 05.05.1978 ."
+        }
+    ]
+}

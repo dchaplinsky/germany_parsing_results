@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 20215",
+        "amtsgericht": "Stendal",
+        "federal_state": "st",
+        "full_text": "Amtsgericht Stendal Aktenzeichen: HRB 20215 \nBekannt gemacht am: 19.02.2014 11:41 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n10.01.2014\n\nHRB 20215:Rosenkranz Bedachungen GmbH, Nienburg (Saale), Rudolf-Breitscheid-Straße 37, 06429 Nienburg (Saale).Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 07.01.2014. Geschäftsanschrift: Rudolf-Breitscheid-Straße 37, 06429 Nienburg (Saale). Gegenstand des Unternehmens: Dachdeckerarbeiten aller Art. Stammkapital: 25.000,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch die Geschäftsführer gemeinsam vertreten. Geschäftsführer: Rosenkranz, Jörg, Nienburg (Saale), *17.08.1961, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Einzelprokura mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen mit der Ermächtigung zur Veräußerung und Belastung von Grundstücken: Rosenkranz, Marita, Nienburg (Saale), *21.01.1957.",
+        "notice_id": "71579",
+        "posted_on": "2014-02-19",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=71579&land_abk=st"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Rudolf - Breitscheid - Straße 37 , 06429 Nienburg ( Saale ) ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Rosenkranz , Jörg , Nienburg ( Saale ) , * 17.08.1961 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "flag": "Single procuration",
+            "text": "Einzelprokura"
+        }
+    ]
+}

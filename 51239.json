@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 8943",
+        "amtsgericht": "Neuruppin",
+        "federal_state": "br",
+        "full_text": "Amtsgericht Neuruppin Aktenzeichen: HRB 8943 \nBekannt gemacht am: 16.08.2010 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n30.07.2010\n\nWunderbar Party-, Event- & Catering UG (haftungsbeschränkt), Glienicke/Nordbahn, Hauptstraße 70, 16548 Glienicke/Nordbahn. Geschäftsanschrift: Hauptstraße 70, 16548 Glienicke/Nordbahn. Gegenstand: Die Erbringung von Party-, Event- und Cateringservice-Dienstleistungen. Grund- oder Stammkapital: 2.500,00 EUR. Vertretungsregelung: Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten. Geschäftsführer: Miram, Sven, *16.12.1968, Glienicke, mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom: 26.03.2010.",
+        "notice_id": "51239",
+        "posted_on": "2010-08-16",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=51239&land_abk=br"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Hauptstraße 70 , 16548 Glienicke / Nordbahn ."
+        },
+        {
+            "flag": "If several managing directors are appointed, the company is jointly represented by all managing directors.",
+            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten ."
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Miram , Sven , * 16.12.1968 , Glienicke , mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen ."
+        },
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        }
+    ]
+}

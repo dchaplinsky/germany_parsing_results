@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 107690",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRB 107690 \nBekannt gemacht am: 08.12.2015 08:27 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n08.12.2015\n\nHRB 107690: KL-131-Geschäftsführungs-GmbH, Neckarsulm, Rötelstr. 35, 74172 Neckarsulm. Bestellt als Geschäftsführer: Hauschild, Ralf, Obernheim, *25.05.1966; Krauss, Nicole, Ebertsheim, *02.06.1978; Köhler, Martin, Fichtenau, *10.09.1976, jeweils mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Weigand, Andreas Ludwig, Landsberg, *01.04.1967. Prokura erloschen: Krauss, Nicole, Ebertsheim, *02.06.1978.",
+        "notice_id": "521846",
+        "posted_on": "2015-12-08",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=521846&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Obernheim",
+                "dob": "1966-05-25",
+                "lastname": "Hauschild",
+                "name": "Ralf"
+            },
+            "text": " Hauschild , Ralf , Obernheim , * 25.05.1966"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Landsberg",
+                "dob": "1967-01-04",
+                "lastname": "Weigand",
+                "name": "Andreas Ludwig"
+            },
+            "text": " Weigand , Andreas Ludwig , Landsberg , * 01.04.1967 ."
+        }
+    ]
+}

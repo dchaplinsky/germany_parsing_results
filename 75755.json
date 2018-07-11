@@ -1,0 +1,38 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 87101",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 87101 \nBekannt gemacht am: 06.03.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n05.03.2009\n\nVerwaltung Schiffahrts-Gesellschaft \"HS AMUNDSEN\" mbH, Hamburg, Ballindamm 17, 20095 Hamburg.Geschäftsanschrift: Ballindamm 17, 20095 Hamburg. Bestellt Geschäftsführer: Mackeprang, Peter Hans Otto, Hamburg, *01.05.1967, vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen. mit der Befugnis, im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Ausgeschieden Geschäftsführer: Franz, Bodo, Hamburg, *27.12.1941.",
+        "notice_id": "75755",
+        "posted_on": "2009-03-06",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=75755&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Ballindamm 17 , 20095 Hamburg ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1967-01-05",
+                "flag": "vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen",
+                "lastname": "Mackeprang",
+                "name": "Peter Hans Otto"
+            },
+            "text": " Mackeprang , Peter Hans Otto , Hamburg , * 01.05.1967 , vertretungsberechtigt gemeinsam mit einem anderen Geschäftsführer oder einem Prokuristen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1941-12-27",
+                "lastname": "Franz",
+                "name": "Bodo"
+            },
+            "text": " Franz , Bodo , Hamburg , * 27.12.1941 ."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 105072",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRA 105072 \nBekannt gemacht am: 01.03.2016 02:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nNeueintragungen\n29.02.2016\n\nHRA 105072: erfitel e.K., Vaterstetten, Landkreis Ebersberg, Karl-Böhm-Str. 95, 85598 Baldham. (Vertrieb von Fenstern). Einzelkaufmann / Einzelkauffrau. Geschäftsanschrift: Karl-Böhm-Str. 95, 85598 Baldham. Inhaber: Funke, Ottmar, Vaterstetten, *13.10.1946.",
+        "notice_id": "954756",
+        "posted_on": "2016-03-01",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=954756&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Sole trader",
+            "text": "Einzelkaufmann"
+        },
+        {
+            "label": "address",
+            "text": " Karl - Böhm - Str ."
+        },
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Vaterstetten",
+                "dob": "1946-10-13",
+                "lastname": "Funke",
+                "name": "Ottmar"
+            },
+            "text": " Funke , Ottmar , Vaterstetten , * 13.10.1946 ."
+        }
+    ]
+}

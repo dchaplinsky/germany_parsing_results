@@ -1,0 +1,17 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 760",
+        "amtsgericht": "Aschaffenburg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Aschaffenburg Aktenzeichen: HRA 760   \nBekannt gemacht am: 30.05.2012 22:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n29.05.2012\n\nSt. Josef - Apotheke Inh. Christoph Engelhard e.K., Aschaffenburg, Glattbacher Straße 21 b, 63741 Aschaffenburg. Geschäftsanschrift: Dämmer Tor 6, 63741 Aschaffenburg.",
+        "notice_id": "602206",
+        "posted_on": "2012-05-30",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=602206&land_abk=by"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Dämmer Tor 6 , 63741 Aschaffenburg ."
+        }
+    ]
+}

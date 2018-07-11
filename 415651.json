@@ -1,0 +1,50 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 21187",
+        "amtsgericht": "Essen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Essen Aktenzeichen: HRB 21187 \nBekannt gemacht am: 19.03.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n10.02.2009\n\nFlex Work Rhein Ruhr GmbH, Essen, Gänsemarkt 2, 45127 Essen.Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 14.04.2008. Die Gesellschafterversammlung hat am 18.12.2008 beschlossen, den Sitz der Gesellschaft von Düsseldorf (bisher Amtsgericht Düsseldorf, HRB 59995) nach Essen zu verlegen, die Firma (bisher Blitz D08-sieben-fünf-null GmbH ) und entsprechend den Gesellschaftsvertrag in §§ 1 (Firma) und 2 (Sitz) zu ändern. Geschäftsanschrift: Gänsemarkt 2, 45127 Essen. Gegenstand: Die Verwaltung des eigenen Vermögens. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Bestellt zum Geschäftsführer: Schneider, Achim, Essen, *15.03.1973, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Lotz, Nicole, München, *07.06.1969.",
+        "notice_id": "415651",
+        "posted_on": "2009-03-19",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=415651&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Gänsemarkt 2 , 45127 Essen ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Essen",
+                "dob": "1973-03-15",
+                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                "lastname": "Schneider",
+                "name": "Achim"
+            },
+            "text": " Schneider , Achim , Essen , * 15.03.1973 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "München",
+                "dob": "1969-07-06",
+                "lastname": "Lotz",
+                "name": "Nicole"
+            },
+            "text": " Lotz , Nicole , München , * 07.06.1969 ."
+        }
+    ]
+}

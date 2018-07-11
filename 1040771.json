@@ -1,0 +1,24 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 11527",
+        "amtsgericht": "Paderborn",
+        "event_date": "2014-05-30",
+        "event_type": "Berichtigungen",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Paderborn Aktenzeichen: HRB 11527 \nBekannt gemacht am: 30.05.2014 20:01 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nBerichtigungen\n30.05.2014\n\nHRB 11527:Adtargeting GmbH, Paderborn,  Paderborn.Von Amts wegen ergänzt: Geschäftsanschrift: Frankfurter Weg 6, 33106 Paderborn. Gegenstand von Amts wegen ergänzt: Agentur-Dienstleistungen im Werbe- und Marketing-Umfeld, Aufbau von Kommunikationsnetzen aller Art, Vermarktung und Vermittlung von digitalen Werbeflächen.",
+        "gesellschafter": null,
+        "inhaber": null,
+        "name": "HRB 11527:Adtargeting GmbH",
+        "notice_id": "1040771",
+        "posted_on": "2014-05-30",
+        "rechtsform": null,
+        "sitz": null,
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1040771&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Frankfurter Weg 6 , 33106 Paderborn ."
+        }
+    ]
+}

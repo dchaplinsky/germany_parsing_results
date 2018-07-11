@@ -1,0 +1,17 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 1990",
+        "amtsgericht": "Neuss",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Neuss Aktenzeichen: HRB 1990 \nBekannt gemacht am: 02.07.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n25.06.2009\n\nCity-Parkhaus Gesellschaft mit beschränkter Haftung, Neuss, Rheinstraße 18, 41460 Neuss.Änderung zur Geschäftsanschrift: Am Zollhafen 1, 41460 Neuss.",
+        "notice_id": "446552",
+        "posted_on": "2009-07-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=446552&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Am Zollhafen 1 , 41460 Neuss ."
+        }
+    ]
+}

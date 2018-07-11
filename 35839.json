@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 10672",
+        "amtsgericht": "Traunstein",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Traunstein Aktenzeichen: HRB 10672 \nBekannt gemacht am: 30.06.2005 10:36 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n28.06.2005\n\nFRITZMEIER Composite Verwaltungsgesellschaft mit beschränkter Haftung, Bruckmühl, OT Hinrichss. (Heimatweg 84, 83052 Bruckmühl, OT Hinrichss.). Ausgeschieden Geschäftsführer: Bock, Alfred, Glonn, *06.06.1958.",
+        "notice_id": "35839",
+        "posted_on": "2005-06-30",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=35839&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Glonn",
+                "dob": "1958-06-06",
+                "lastname": "Bock",
+                "name": "Alfred"
+            },
+            "text": " Bock , Alfred , Glonn , * 06.06.1958 ."
+        }
+    ]
+}

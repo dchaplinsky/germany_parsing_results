@@ -1,0 +1,45 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 94346",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 94346 \nBekannt gemacht am: 07.05.2015 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n07.05.2015\n\nHRB 94346: Projekt SPV 11 GmbH, Frankfurt am Main, Schillerstraße 20, 60313 Frankfurt am Main. Geändert, nun: Geschäftsanschrift: c/o bhp Bögner Hensel & Partner, Zeppelinallee 47, 60487 Frankfurt am Main. Bestellt als Geschäftsführer: Dr. Fischer, Carsten, Hamburg, *15.09.1970; Schubert, Lothar, Münsterdorf, *10.06.1971, jeweils mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Bestellt als Geschäftsführer: Klein, Jürgen, Stuttgart, *21.12.1968, vertretungsberechtigt gemeinsam mit dem Geschäftsführer Lothar Schubert, dem Geschäftsführer Dr. Carsten Fischer, dem Prokuristen Nicky Georg Kisitzky oder dem Prokuristen Karsten Nagel; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Blüm, Nicolaas A. F., Baarn / Niederlande, *29.09.1950; Eijkemans, Johannes G. F., Zeist / Niederlande, *14.01.1954. Gesamtprokura gemeinsam mit einem Geschäftsführer oder einem anderen Prokuristen mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen: Kisitzky, Nicky Georg, Hamburg, *01.07.1979; Nagel, Karsten Philipp, Hamburg, *31.07.1975. Gesamtprokura gemeinsam mit dem Geschäftsführer Lothar Schubert, dem Geschäftsführer Dr. Carsten Fischer, dem Prokuristen Nicky Georg Kisitzky oder dem Prokuristen Karsten Nagel; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen: Schwarz, Daniela, Stuttgart, *21.10.1976.",
+        "notice_id": "434388",
+        "posted_on": "2015-05-07",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=434388&land_abk=he"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " c / o bhp Bögner Hensel & Partner , Zeppelinallee 47 , 60487 Frankfurt am Main ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1970-09-15",
+                "lastname": "Dr . Fischer",
+                "name": "Carsten"
+            },
+            "text": " Dr . Fischer , Carsten , Hamburg , * 15.09.1970"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Klein , Jürgen , Stuttgart , * 21.12.1968 , vertretungsberechtigt gemeinsam mit dem Geschäftsführer Lothar Schubert , dem Geschäftsführer Dr . Carsten Fischer , dem Prokuristen Nicky Georg Kisitzky oder dem Prokuristen Karsten Nagel"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Blüm , Nicolaas A ."
+        }
+    ]
+}

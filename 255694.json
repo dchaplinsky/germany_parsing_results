@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 203652",
+        "amtsgericht": "Oldenburg",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Oldenburg Aktenzeichen: HRA 203652   \nBekannt gemacht am: 17.05.2013 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n13.05.2013\n\nWeiss Heuer GmbH & Co. KG, Oldenburg, Donnerschweer Straße 88, 26123 Oldenburg. (Gegenstand: Unternehmensberatung für kluge Handelsstrategien). Kommanditgesellschaft. Geschäftsanschrift: Donnerschweer Straße 88, 26123 Oldenburg. Allgemeine Vertretungsregelung: Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftender Gesellschafter: Weiss Heuer Beteiligungs-GmbH, Oldenburg (Amtsgericht Oldenburg HRB 207732), mit der Befugnis -auch für jeden Geschäftsführer-, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "255694",
+        "posted_on": "2013-05-17",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=255694&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " Donnerschweer Straße 88 , 26123 Oldenburg ."
+        }
+    ]
+}

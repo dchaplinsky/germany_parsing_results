@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 7378",
+        "amtsgericht": "Lemgo",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Lemgo Aktenzeichen: HRB 7378 \nBekannt gemacht am: 10.03.2015 20:03 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n10.03.2015\n\nHRB 7378: Kreissenioreneinrichtungen Lippe GmbH, Detmold, Röntgenstraße 18, 32756 Detmold. Die fehlerhafte Vertretungsregelung wurde von Amts wegen berichtigt. Geschäftsführer: Breitmeier, Ingo, Hamburg, *29.02.1960.",
+        "notice_id": "1137063",
+        "posted_on": "2015-03-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1137063&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1960-02-29",
+                "lastname": "Breitmeier",
+                "name": "Ingo"
+            },
+            "text": " Breitmeier , Ingo , Hamburg , * 29.02.1960 ."
+        }
+    ]
+}

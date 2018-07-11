@@ -1,0 +1,26 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 43931 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRA 43931 B  \nBekannt gemacht am: 09.06.2010 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n07.06.2010\n\nAlert-Verlag e.K., Berlin, Rheinstraße 46, 12161 Berlin, (sind sämtliche Tätigkeiten, die mit dem Betrieb eines Verlages im Zusammenhang stehen.). Firma: Alert-Verlag e.K. Sitz / Zweigniederlassung: Berlin; Geschäftsanschrift:; Rheinstraße 46, 12161 Berlin Inhaber:; 1. Dr. Huffmann, Johann-Friedrich, *19.02.1954, Berlin Rechtsform: Einzelunternehmen.",
+        "notice_id": "133328",
+        "posted_on": "2010-06-09",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=133328&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "company",
+            "text": " Berlin"
+        },
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "class": "Owner",
+            "payload": {},
+            "text": ""
+        }
+    ]
+}

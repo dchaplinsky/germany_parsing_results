@@ -1,0 +1,37 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4324",
+        "amtsgericht": "Bad Kreuznach",
+        "federal_state": "rp",
+        "full_text": "Amtsgericht Bad Kreuznach Aktenzeichen: HRB 4324 \nBekannt gemacht am: 19.07.2017 20:06 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n19.07.2017\n\nHRB 4324: Fliesen Kemmer GmbH, Kirchberg, Herbert-Kühn-Str. 8, 55481 Kirchberg. Bestellt als Geschäftsführer: Kemmer, Andreas, Kirchberg, *10.04.1979; Theiß, Tamara, Kirchberg, *22.06.1982, jeweils einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Kemmer, Hans Peter, Kirchberg, *20.06.1951. Einzelprokura mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen: Kemmer, Hans Peter, Kirchberg, *20.06.1951.",
+        "notice_id": "225704",
+        "posted_on": "2017-07-19",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=225704&land_abk=rp"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Kirchberg",
+                "dob": "1979-10-04",
+                "lastname": "Kemmer",
+                "name": "Andreas"
+            },
+            "text": " Kemmer , Andreas , Kirchberg , * 10.04.1979"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Kirchberg",
+                "dob": "1951-06-20",
+                "lastname": "Kemmer",
+                "name": "Hans Peter"
+            },
+            "text": " Kemmer , Hans Peter , Kirchberg , * 20.06.1951 ."
+        },
+        {
+            "flag": "Single procuration",
+            "text": "Einzelprokura"
+        }
+    ]
+}

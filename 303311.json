@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 203357",
+        "amtsgericht": "Hannover",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Hannover Aktenzeichen: HRB 203357 \nBekannt gemacht am: 10.06.2014 19:04 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n10.06.2014\n\nHRB 203357:KabelPlus GmbH, Hannover, Lavesstr. 11, 30159 Hannover.Änderung zur Geschäftsanschrift: Eichstr. 13, 4. OG hinten rechts c/o Jürgen Baumann, 30161 Hannover. Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch die Liquidatoren gemeinsam vertreten. Geändert, nun: Liquidator: Baumann, Jürgen, Hannover, *02.06.1962, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "303311",
+        "posted_on": "2014-06-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=303311&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Eichstr ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

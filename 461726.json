@@ -1,0 +1,35 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 15735",
+        "amtsgericht": "Nürnberg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Nürnberg Aktenzeichen: HRA 15735 \nBekannt gemacht am: 03.12.2010 22:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n01.12.2010\n\nPromalog e.K., Schwaig, Bauhofstraße 10 A, 90571 Schwaig. (- der Betrieb einer internationalen Spedition, - die Erbringung von logistischen Dienstleistungen und Lagerhaltung von Waren aller Art, - der Verkauf, die Reparatur und Vermietung von gebrauchten Fahrzeugen, insbesondere von Nutzfahrzeugen und Baumaschinen, - die Vermittlung von Kraftfahrern, - die Entwicklung und Umsetzung von logistischer Dienstleistung.). Einzelkaufmann / Einzelkauffrau. Geschäftsanschrift: Bauhofstraße 10 A, 90571 Schwaig. Inhaber: Frankowska, Elzbieta Jadwiga, Igensdorf, *11.04.1965. Einzelprokura: Meidt, Holger, Hildburghausen, *06.09.1969; Zolynski, Ryszard, Igensdorf, *24.05.1961.",
+        "notice_id": "461726",
+        "posted_on": "2010-12-03",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=461726&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Sole trader",
+            "text": "Einzelkaufmann"
+        },
+        {
+            "label": "address",
+            "text": " Bauhofstraße 10 A , 90571 Schwaig ."
+        },
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Igensdorf",
+                "dob": "1965-11-04",
+                "lastname": "Frankowska",
+                "name": "Elzbieta Jadwiga"
+            },
+            "text": " Frankowska , Elzbieta Jadwiga , Igensdorf , * 11.04.1965 ."
+        },
+        {
+            "flag": "Single procuration",
+            "text": "Einzelprokura"
+        }
+    ]
+}

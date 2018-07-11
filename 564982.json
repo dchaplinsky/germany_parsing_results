@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 6265",
+        "amtsgericht": "Mannheim",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Mannheim Aktenzeichen: HRB 6265 \nBekannt gemacht am: 08.08.2016 16:41 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n08.08.2016\n\nHRB 6265: S + K Verwaltungs GmbH, Mannheim, Dalbergstr. 30-34, 68159 Mannheim. Die Gesellschafterversammlung vom 21.07.2016 hat die Neufassung des Gesellschaftsvertrages und hierbei insbesondere die Änderung des § 4 (Geschäftsführung, Vertretung, Geschäftsordnung) beschlossen. Allgemeine Vertretungsregelung geändert; nun: Jeder Geschäftsführer vertritt einzeln. Jeder Geschäftsführer ist befugt, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen. Vertretungsbefugnis geändert bei Geschäftsführer: Burger, Andreas, Mannheim, *15.07.1964; Sax, Kai-Uwe, Mannheim, *04.11.1959.",
+        "notice_id": "564982",
+        "posted_on": "2016-08-08",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=564982&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mannheim",
+                "dob": "1964-07-15",
+                "lastname": "Burger",
+                "name": "Andreas"
+            },
+            "text": " Burger , Andreas , Mannheim , * 15.07.1964"
+        }
+    ]
+}

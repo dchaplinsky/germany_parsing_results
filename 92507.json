@@ -1,0 +1,30 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 10996 HL",
+        "amtsgericht": "Lübeck",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Lübeck Aktenzeichen: HRB 10996 HL \nBekannt gemacht am: 21.04.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n13.04.2011\n\nDerman Innen- und Außenputz UG (haftungsbeschränkt), Lübeck, Eisenstraße 2 a, 23569 Lübeck. Name der Firma: Derman Innen- und Außenputz UG (haftungsbeschränkt) Sitz der Firma: Lübeck; Geschäftsanschrift:; Eisenstraße 2 a, 23569 Lübeck Gegenstand: Durchführung von Verputzungsarbeiten aller Art Kapital: 1.000,00 EUR Vertretungsregelung: Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten. Vorstand: Geschäftsführer:; 1. Derman, Cetin, *06.09.1966, Lübeck; mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen Rechtsform: Gesellschaft mit beschränkter Haftung; Gesellschaftsvertrag vom: 21.01.2011.",
+        "notice_id": "92507",
+        "posted_on": "2011-04-21",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=92507&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "flag": "If several managing directors are appointed, the company is jointly represented by all managing directors.",
+            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        }
+    ]
+}

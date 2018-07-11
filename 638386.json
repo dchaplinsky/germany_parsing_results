@@ -1,0 +1,37 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 138728",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 138728   \nBekannt gemacht am: 24.10.2012 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n22.10.2012\n\nKORIN Grundstücks-Verwaltungsgesellschaft Projekt 20 mbH, Grünwald, Tölzer Str. 15, 82031 Grünwald. Ausgeschieden: Geschäftsführer: Holderer, Steffen Kurt, Fürstenfeldbruck, *17.09.1963; Weiß, Dieter, Lenggries, *18.12.1965. Bestellt: Geschäftsführer: Leibold, Wolfgang, Kienberg, *23.02.1957; Stingl, Alexandra, München, *29.06.1970, jeweils mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Gesamtprokura gemeinsam mit einem Geschäftsführer mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen: Klein, Carsten, Poing, *08.01.1969; Modlmayer, Bernd, Geretsried, *23.12.1968; Schmied, Jan, München, *23.11.1978. Prokura erloschen: Leibold, Wolfgang, Kienberg, *23.02.1957. Prokura erloschen: Stingl, Alexandra, München, *29.06.1970.",
+        "notice_id": "638386",
+        "posted_on": "2012-10-24",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=638386&land_abk=by"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Fürstenfeldbruck",
+                "dob": "1963-09-17",
+                "lastname": "Holderer",
+                "name": "Steffen Kurt"
+            },
+            "text": " Holderer , Steffen Kurt , Fürstenfeldbruck , * 17.09.1963"
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Kienberg",
+                "dob": "1957-02-23",
+                "lastname": "Leibold",
+                "name": "Wolfgang"
+            },
+            "text": " Leibold , Wolfgang , Kienberg , * 23.02.1957"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

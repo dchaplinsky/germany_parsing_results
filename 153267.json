@@ -1,0 +1,46 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 131097 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 131097 B \nBekannt gemacht am: 28.12.2010 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n23.12.2010\n\nWARNECKE Verwaltungsgesellschaft mbH, Berlin, Am Großen Wannsee 4, 14109 Berlin. Firma: WARNECKE Verwaltungsgesellschaft mbH Sitz / Zweigniederlassung: Berlin; Geschäftsanschrift:; Am Großen Wannsee 4, 14109 Berlin Gegenstand: Die Verwaltung von eigenen mobilen und immobilen Vermögenswerten, Beteiligungen, Schutzmarken und Patenrechten. Weiterhin Handel mit neuen und gebrauchten Wassersportfahrzeugen und mit Wassersportzubehör aller Art sowie die Vermittlung des An- und Verkaufs von Wassersportfahrzeugen aller Art. Stamm- bzw. Grundkapital: 25.000,00 EUR Vertretungsregelung: Ist ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer vertreten. Alleinvertretungsbefugnis kann erteilt werden. Geschäftsführer:; 1. Warnecke, Holger, *05.04.1957, Potsdam; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen Rechtsform: Gesellschaft mit beschränkter Haftung; Gesellschaftsvertrag vom: 21.02.2000 zuletzt geändert durch Beschluss vom 30.04.2010. Durch Beschluss der Gesellschafterversammlung vom 14.10.2010 ist der Sitz der Gesellschaft von Hamburg (Amtsgericht Hamburg, HRB 90293) nach Berlin verlegt und der Gesellschaftsvertrag geändert in § 1 (Sitz). Bemerkung: Tag der ersten Eintragung: 10.10.2000.",
+        "notice_id": "153267",
+        "posted_on": "2010-12-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=153267&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "company",
+            "text": " Berlin"
+        },
+        {
+            "label": "address",
+            "text": ""
+        },
+        {
+            "label": "misc",
+            "text": " 25.000,00 EUR Vertretungsregelung : Ist ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "Exclusive power of representation can be granted.",
+            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": ""
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

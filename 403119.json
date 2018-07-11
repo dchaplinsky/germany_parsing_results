@@ -1,0 +1,31 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 431114",
+        "amtsgericht": "Stuttgart",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Stuttgart Aktenzeichen: HRB 431114 \nBekannt gemacht am: 02.01.2014 17:30 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n02.01.2014\n\nHRB 431114:RBM-BaWü-Open GmbH, Freudenstadt, Kraibrunnenstraße 6, 72250 Freudenstadt.Allgemeine Vertretungsregelung geändert; nun: Ist nur ein Liquidator bestellt, vertritt er allein. Sind mehrere Liquidatoren bestellt, vertreten zwei gemeinsam. Bestellt als Liquidator: Kutz, Remo, Dietingen, *26.08.1962, einzelvertretungsberechtigt mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Kutz, Remo, Dietingen, *26.08.1962. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "403119",
+        "posted_on": "2014-01-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=403119&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Dietingen",
+                "dob": "1962-08-26",
+                "lastname": "Kutz",
+                "name": "Remo"
+            },
+            "text": " Kutz , Remo , Dietingen , * 26.08.1962 ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 6973",
+        "amtsgericht": "Paderborn",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Paderborn Aktenzeichen: HRA 6973 \nBekannt gemacht am: 20.01.2016 20:08 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n20.01.2016\n\nHRA 6973: Stadtwerke Geseke Netze GmbH & Co. KG, Geseke, An der Abtei 1, 59590 Geseke. (Gegenstand des Unternehmens ist der Betrieb, die Instandhaltung und der Ausbau der örtlichen Energieverteilnetze in Geseke.). Kommanditgesellschaft. Geschäftsanschrift: An der Abtei 1, 59590 Geseke. Jeder persönlich haftende Gesellschafter vertritt einzeln. Persönlich haftender Gesellschafter: Stadtwerke Geseke Netze Verwaltung GmbH, Geseke (Amtsgericht Paderborn HRB 12254), mit der Befugnis -auch für jeden Geschäftsführer-, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "1244087",
+        "posted_on": "2016-01-20",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1244087&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Limited partnership.",
+            "text": "Kommanditgesellschaft ."
+        },
+        {
+            "label": "address",
+            "text": " An der Abtei 1 , 59590 Geseke ."
+        }
+    ]
+}

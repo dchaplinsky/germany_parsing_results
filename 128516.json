@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4192",
+        "amtsgericht": "Ansbach",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Ansbach Aktenzeichen: HRB 4192 \nBekannt gemacht am: 02.11.2006 14:40 Uhr\n\n\n\n\nDie in ( ) gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n12.10.2006\n\nNEUBERGER Engineering und Service GmbH, Rothenburg ob der Tauber (Feuchtwanger Straße 14, 91541 Rothenburg ob der Tauber). Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 22.04.1994. Die Gesellschafterversammlung vom 11.09.2006 hat die Umstellung des Stammkapitals von bisher 900.000,00 DEM auf Euro sowie gleichzeitig eine Erhöhung des Stammkapitals um 837,31 EUR auf 461.000,00 EUR und die Änderung des § 3 (Stammkapital) sowie der §§ 1 Ziff. 2 (Sitz, bisher Darmstadt, Amtsgericht Darmstadt, HRB 5820), 9 Ziff. 3 (Beschlußfassung) und 10 Ziff. 5 und 6 (Genehmigungspflichtige Rechtsgeschäfte) der Satzung beschlossen. Gegenstand des Unternehmens: Ingenieurleistung, Vertrieb von Anlage- Bereich Elektro- Meß- Regeltechnik, Umwelttechnologie und Automatisierung, Serviceleistungen für techn. Gewerke. Stammkapital: 461.000,00 EUR. Jeder Geschäftsführer vertritt einzeln. Jeder Geschäftsführer ist befugt, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte vorzunehmen. Geschäftsführer: Neuberger, Gerhard, Rothenburg ob der Tauber, *05.03.1938.",
+        "notice_id": "128516",
+        "posted_on": "2006-11-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=128516&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Rothenburg ob der Tauber",
+                "dob": "1938-05-03",
+                "lastname": "Neuberger",
+                "name": "Gerhard"
+            },
+            "text": " Neuberger , Gerhard , Rothenburg ob der Tauber , * 05.03.1938 ."
+        }
+    ]
+}

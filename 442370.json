@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 8765",
+        "amtsgericht": "Darmstadt",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Darmstadt Aktenzeichen: HRB 8765 \nBekannt gemacht am: 08.07.2015 22:01 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Darmstadt\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n08.07.2015\n\nHRB 8765: D + D Trockenbau GmbH, Erzhausen, Industriestr. 10, 64390 Erzhausen. Geschäftsanschrift: Industriestr. 10, 64390 Erzhausen. Nicht mehr Geschäftsführer: Dietz, Ralf, Langen (Hessen), *10.08.1953.",
+        "notice_id": "442370",
+        "posted_on": "2015-07-08",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=442370&land_abk=he"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Industriestr ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Langen ( Hessen )",
+                "dob": "1953-10-08",
+                "lastname": "Dietz",
+                "name": "Ralf"
+            },
+            "text": " Dietz , Ralf , Langen ( Hessen ) , * 10.08.1953 ."
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 27058",
+        "amtsgericht": "Köln",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Köln Aktenzeichen: HRA 27058 \nBekannt gemacht am: 25.08.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n21.08.2009\n\nZillgen advertising e.K., Leverkusen, Burscheider Straße 357 b, 51381 Leverkusen.(Marketing-Kommunikation.). Einzelkaufmann. Geschäftsanschrift: Burscheider Straße 357 b, 51381 Leverkusen. Inhaber: Zillgen, Andreas, Leverkusen, *27.07.1971.",
+        "notice_id": "463947",
+        "posted_on": "2009-08-25",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=463947&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "flag": "Sole trader",
+            "text": "Einzelkaufmann"
+        },
+        {
+            "label": "address",
+            "text": " Burscheider Straße 357 b , 51381 Leverkusen ."
+        },
+        {
+            "class": "Owner",
+            "payload": {
+                "city": "Leverkusen",
+                "dob": "1971-07-27",
+                "lastname": "Zillgen",
+                "name": "Andreas"
+            },
+            "text": " Zillgen , Andreas , Leverkusen , * 27.07.1971 ."
+        }
+    ]
+}

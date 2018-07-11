@@ -1,0 +1,30 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 4435 KI",
+        "amtsgericht": "Kiel",
+        "federal_state": "sh",
+        "full_text": "Amtsgericht Kiel Aktenzeichen: HRB 4435 KI \nBekannt gemacht am: 16.10.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n14.10.2009\n\ngoodtimes! GmbH, Schönkirchen, Söhren 45, 24232 Schönkirchen. Geschäftsführer:2. Fischer, André, *06.08.1967, Heikendorf; mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen.",
+        "notice_id": "61359",
+        "posted_on": "2009-10-16",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=61359&land_abk=sh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 2 ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

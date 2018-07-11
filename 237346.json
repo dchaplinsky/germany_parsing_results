@@ -1,0 +1,17 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 115614",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRA 115614 \nBekannt gemacht am: 24.06.2014 14:02 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n24.06.2014\n\nHRA 115614:Bomin Weser GmbH & Co. KG, Hamburg, Große Bäckerstr. 11, 20095 Hamburg.Änderung zur Geschäftsanschrift: Admiralitätstraße 55, 20459 Hamburg.",
+        "notice_id": "237346",
+        "posted_on": "2014-06-24",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=237346&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Admiralitätstraße 55 , 20459 Hamburg ."
+        }
+    ]
+}

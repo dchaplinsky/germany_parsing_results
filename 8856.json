@@ -1,0 +1,50 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 200880",
+        "amtsgericht": "Osnabrück",
+        "federal_state": "ni",
+        "full_text": "Amtsgericht Osnabrück Aktenzeichen: HRB 200880 \nBekannt gemacht am: 02.04.2007 10:00 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr.\nNeueintragungen\n29.03.2007\n\nHBL Lorenz Service Gesellschaft mbH, Quakenbrück (Alenconer Straße 3, 49610 Quakenbrück). Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 23.06.2006 mit Änderung vom 27.12.2006. Gegenstand: Rohrnetzwartung, Armaturenwartung und Sanierung, Rohrnetzdokumentation, vorbeugende Instandhaltung, Ingenieurleistung, Dienstleistung, Leck- und Leitungsortung, Rohrnetzüberprüfung, Rohrnetzüberwachung, Wartungsverträge, Leckortung im Gebäude, Leckortung Fernwärme, Infrarot-Thermografie, TV-Kanaluntersuchung, hydrogeologische und geothermische Bohrungen (Erdwärmesondenanlagen) Kernbohrungen, Baugrunduntersuchungen, Brunnenbohrungen, Horizontalbohrungen und andere Bohrungen im Bauwesen. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten. Geschäftsführer: Lorenz, Christian, Quakenbrück, *24.08.1983, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Nicht mehr Geschäftsführer: Lorenz, Friedrich-Wilhelm, Quakenbrück, *21.10.1953.",
+        "notice_id": "8856",
+        "posted_on": "2007-04-02",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=8856&land_abk=ni"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Quakenbrück",
+                "dob": "1983-08-24",
+                "flag": "sole representation",
+                "lastname": "Lorenz",
+                "name": "Christian"
+            },
+            "text": " Lorenz , Christian , Quakenbrück , * 24.08.1983 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Quakenbrück",
+                "dob": "1953-10-21",
+                "lastname": "Lorenz",
+                "name": "Friedrich - Wilhelm"
+            },
+            "text": " Lorenz , Friedrich - Wilhelm , Quakenbrück , * 21.10.1953 ."
+        }
+    ]
+}

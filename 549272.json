@@ -1,0 +1,42 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 108362",
+        "amtsgericht": "Frankfurt am Main",
+        "federal_state": "he",
+        "full_text": "Amtsgericht Frankfurt am Main Aktenzeichen: HRB 108362 \nBekannt gemacht am: 20.07.2017 22:00 Uhr\n\n\n\n\nVeröffentlichungen des Amtsgerichts Frankfurt am Main\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n20.07.2017\n\nHRB 108362: MH 1701 Vermögensverwaltungs GmbH, Frankfurt am Main, c/o RoosLegal Dr. Michael Roos Rechtsanwaltsgesellschaft mbH, Bretzenheimer Straße 17, 55128 Mainz. Die Gesellschafterversammlung vom 10.07.2017 hat eine Änderung des Gesellschaftsvertrages in § 1 (Firma) beschlossen. Neue Firma: Atrium MarketDialog GmbH. Geändert, nun: Geschäftsanschrift: Bockenheimer Landstraße 68, 60323 Frankfurt am Main. Nicht mehr Geschäftsführer: Herz, Markus Stephan, Mainz, *22.03.1982. Bestellt als Geschäftsführer: Assayesch, Farzin, Frankfurt am Main, *08.07.1952, einzelvertretungsberechtigt; mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "549272",
+        "posted_on": "2017-07-20",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=549272&land_abk=he"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Bockenheimer Landstraße 68 , 60323 Frankfurt am Main ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mainz",
+                "dob": "1982-03-22",
+                "lastname": "Herz",
+                "name": "Markus Stephan"
+            },
+            "text": " Herz , Markus Stephan , Mainz , * 22.03.1982 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Frankfurt am Main",
+                "dob": "1952-08-07",
+                "flag": "sole representation",
+                "lastname": "Assayesch",
+                "name": "Farzin"
+            },
+            "text": " Assayesch , Farzin , Frankfurt am Main , * 08.07.1952 , einzelvertretungsberechtigt"
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

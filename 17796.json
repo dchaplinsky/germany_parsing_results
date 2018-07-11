@@ -1,0 +1,22 @@
+{
+    "orig": {
+        "aktenzeichen": "HRA 38156 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRA 38156 B  \nBekannt gemacht am: 28.06.2006 06:42 Uhr\n\n\n\n\nFür die Angaben in (), die den Unternehmensgegenstand und die Anschrift betreffen, keine Gewähr. In das Handelsregister ist folgendes eingetragen worden.\nNeueintragungen\n22.06.2006\n\nBrilliant Apotheke Irina Agapova e.K., Berlin(Kurfürstendamm 71, 10709  BerlinGegenstand: Betreiben einer Apotheke u. a. mit Handel und Herstellung von Arzneimitteln aller Art sowie Kosmetikprodukten.). Firma: Brilliant Apotheke Irina Agapova e.K. Sitz: Berlin Inhaber: Agapova, Irina, geb. Bavykina, *30.11.1968, Berlin Rechtsform: Einzelunternehmen.",
+        "notice_id": "17796",
+        "posted_on": "2006-06-28",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=17796&land_abk=be"
+    },
+    "parsed": [
+        {
+            "class": "Owner",
+            "payload": {
+                "dob": "geb",
+                "lastname": "Agapova",
+                "name": "Irina"
+            },
+            "text": " Agapova , Irina , geb ."
+        }
+    ]
+}

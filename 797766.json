@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 168919",
+        "amtsgericht": "München",
+        "federal_state": "by",
+        "full_text": "Amtsgericht München Aktenzeichen: HRB 168919 \nBekannt gemacht am: 10.07.2014 02:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nVeränderungen\n09.07.2014\n\nHRB 168919:ME-Logistik GmbH, Olching, Landkreis Fürstenfeldbruck, Roggensteiner Str. 126, 82140 Olching.Die Gesellschafterversammlung vom 22.05.2014 hat die Änderung des § 2 (Sitz) der Satzung beschlossen. Neuer Sitz: Gröbenzell, Landkreis Fürstenfeldbruck. Geschäftsanschrift: Industriestr. 7, 82194 Gröbenzell. Ausgeschieden: Geschäftsführer: Nanini, Gino, Olching, *15.06.1950. Prokura erloschen: Erhart, Michael, Gröbenzell, *18.06.1971.",
+        "notice_id": "797766",
+        "posted_on": "2014-07-10",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=797766&land_abk=by"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Industriestr ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Olching",
+                "dob": "1950-06-15",
+                "lastname": "Nanini",
+                "name": "Gino"
+            },
+            "text": " Nanini , Gino , Olching , * 15.06.1950 ."
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 33890",
+        "amtsgericht": "Köln",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Köln Aktenzeichen: HRB 33890   \nBekannt gemacht am: 12.08.2013 22:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n09.08.2013\n\nPoppernitsch & Hulin Bauunternehmung GmbH, Köln, Marktstr. 13 a, 50968 Köln. Die Gesellschafterversammlung vom 10.07.2013 hat eine Änderung des Gesellschaftsvertrages in § 1 und mit ihr die Änderung der Firma beschlossen. Ferner wurde redaktionell geändert § 3 (Stammkapital). Neue Firma: Poppernitsch Bauunternehmung GmbH. Nicht mehr Geschäftsführer: Hulin, Thomas, Köln, *08.02.1969.",
+        "notice_id": "942213",
+        "posted_on": "2013-08-12",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=942213&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Köln",
+                "dob": "1969-08-02",
+                "lastname": "Hulin",
+                "name": "Thomas"
+            },
+            "text": " Hulin , Thomas , Köln , * 08.02.1969 ."
+        }
+    ]
+}

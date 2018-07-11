@@ -1,0 +1,33 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 96676",
+        "amtsgericht": "Hamburg",
+        "federal_state": "hh",
+        "full_text": "Amtsgericht Hamburg Aktenzeichen: HRB 96676 \nBekannt gemacht am: 22.11.2006 10:22 Uhr\n\n\n\n\nDie in () gesetzten Angaben der Geschäftsanschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n21.11.2006\n\nVerwaltung RERO Schiffsneubau 12 GmbH, Hamburg (Van-der-Smissen-Str. 9, 22767 Hamburg). Ausgeschieden Geschäftsführer: Dr. Teichert, Torsten, Hamburg, *16.04.1957. Geändert, nun Geschäftsführer: Echevarria von Gusovius, Roberto, Hamburg, *27.11.1960; Rößler, Dirk, Hamburg, *12.03.1971, jeweils vertretungsberechtigt gemeinsam mit einem der Geschäftsführer Holger Schmitz oder Jan Hagemann; mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "15518",
+        "posted_on": "2006-11-22",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=15518&land_abk=hh"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1957-04-16",
+                "lastname": "Dr . Teichert",
+                "name": "Torsten"
+            },
+            "text": " Dr . Teichert , Torsten , Hamburg , * 16.04.1957 ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Hamburg",
+                "dob": "1960-11-27",
+                "lastname": "Echevarria von Gusovius",
+                "name": "Roberto"
+            },
+            "text": " Echevarria von Gusovius , Roberto , Hamburg , * 27.11.1960"
+        }
+    ]
+}

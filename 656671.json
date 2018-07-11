@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 717567",
+        "amtsgericht": "Freiburg",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Freiburg Aktenzeichen: HRB 717567 \nBekannt gemacht am: 26.01.2018 11:06 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr:\nNeueintragungen\n26.01.2018\n\nHRB 717567: TT Sport & Training UG (haftungsbeschränkt), Schönau im Schwarzwald, Moosweg 7, 79677 Schönau im Schwarzwald. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 09.01.2018. Geschäftsanschrift: Moosweg 7, 79677 Schönau im Schwarzwald. Gegenstand: Die Erstellung von individuellen Online-Trainingsplänen für Sportler. Stammkapital: 1.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, vertritt er allein. Sind mehrere Geschäftsführer bestellt, vertreten sie gemeinsam. Geschäftsführer: Klingenberger, Thomas, geb. Tegelkamp, Emmendingen, *24.07.1979, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "656671",
+        "posted_on": "2018-01-26",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=656671&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Moosweg 7 , 79677 Schönau im Schwarzwald ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "dob": "geb",
+                "lastname": "Klingenberger",
+                "name": "Thomas"
+            },
+            "text": " Klingenberger , Thomas , geb ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

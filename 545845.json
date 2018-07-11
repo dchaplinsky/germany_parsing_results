@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 12796",
+        "amtsgericht": "Regensburg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Regensburg Aktenzeichen: HRB 12796   \nBekannt gemacht am: 27.10.2011 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n26.10.2011\n\nWR-Schiesssport UG (haftungsbeschränkt), Pemfling, Firstweg 1, 93482 Pemfling. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 19.10.2011. Geschäftsanschrift: Firstweg 1, 93482 Pemfling. Gegenstand des Unternehmens: Handel mit Waffen, Munition, Nitro- und Schwarzpulver, Wiederladeartikeln und -komponenten und sonstigen Schiesssportartikeln sowie die Beratung und Schulung im Schiesssportbereich. Stammkapital: 1.000,00 EUR. Ist nur ein Geschäftsführer bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Geschäftsführer bestellt, so wird die Gesellschaft durch die Geschäftsführer gemeinsam vertreten. Bestellt: Geschäftsführer: Neubig, Maria, Pemfling, *03.07.1971, mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "545845",
+        "posted_on": "2011-10-27",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=545845&land_abk=by"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Firstweg 1 , 93482 Pemfling ."
+        },
+        {
+            "flag": "If only one managing director is appointed, he represents the company alone.",
+            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Neubig , Maria , Pemfling , * 03.07.1971 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

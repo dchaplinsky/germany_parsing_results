@@ -1,0 +1,30 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 707177",
+        "amtsgericht": "Freiburg",
+        "federal_state": "bw",
+        "full_text": "Amtsgericht Freiburg Aktenzeichen: HRB 707177   \nBekannt gemacht am: 08.08.2011 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nNeueintragungen\n04.08.2011\n\nSINNO GmbH, Singen Hohentwiel, Jahnstraße 14, 78224 Singen Hohentwiel. Gesellschaft mit beschränkter Haftung. Gesellschaftsvertrag vom 27.07.2011. Geschäftsanschrift: Jahnstraße 14, 78224 Singen Hohentwiel. Gegenstand: Die Entwicklung, die Produktion und der Vertrieb von innovativen Maschinen und Werkzeugen. Stammkapital: 25.000,00 EUR. Allgemeine Vertretungsregelung: Ist nur ein Geschäftsführer bestellt, vertritt er allein. Sind mehrere Geschäftsführer bestellt, vertreten zwei gemeinsam oder ein Geschäftsführer mit einem Prokuristen. Einzelvertretungsbefugnis kann erteilt werden. Die Geschäftsführer können von den Beschränkungen des § 181 BGB allgemein befreit werden. Geschäftsführer: Schneckenburger, Gerhard, Singen Hohentwiel, *30.01.1966, einzelvertretungsberechtigt mit der Befugnis, im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen.",
+        "notice_id": "259701",
+        "posted_on": "2011-08-08",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=259701&land_abk=bw"
+    },
+    "parsed": [
+        {
+            "flag": "Company with limited liability .",
+            "text": "Gesellschaft mit beschränkter Haftung ."
+        },
+        {
+            "label": "address",
+            "text": " Jahnstraße 14 , 78224 Singen Hohentwiel ."
+        },
+        {
+            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " Schneckenburger , Gerhard , Singen Hohentwiel , * 30.01.1966 , einzelvertretungsberechtigt mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+        }
+    ]
+}

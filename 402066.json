@@ -1,0 +1,34 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 168480 B",
+        "amtsgericht": "Charlottenburg (Berlin)",
+        "federal_state": "be",
+        "full_text": "Amtsgericht Charlottenburg (Berlin) Aktenzeichen: HRB 168480 B \nBekannt gemacht am: 08.11.2016 13:34 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Unternehmensgegenstandes erfolgen ohne Gewähr:\nVeränderungen\n07.11.2016\n\nHRB 168480 B: Firma / Name vormals: SVP mobility Verwaltungs GmbH, Berlin, c/o Olaf Siegel, Waldemarstraße 11, 10179 Berlin. Firma: SVP mobility GmbH; Gegenstand: Der Handel und die Vermittlung von Neu- und Gebrauchtwagen über einen Online-Fahrzeugmarkt sowie die Übernahme der Geschäftsführung und der Stellung als persönlich haftende Gesellschafterin bei der Automotos GmbH & Co. KG mit dem Sitz in Berlin.  Geschäftsführer: 2.\nFähle, Markus, *10.07.1974, Berlin; mit der Befugnis die Gesellschaft allein zu vertreten\nmit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen; Rechtsform: Durch Beschluss der Gesellschafterversammlung vom 30.09.2016 ist der Gesellschaftsvertrag geändert in § 1 (Firma der Gesellschaft), § 4 (Gegenstand des Unternehmens) und ergänzt um einen neuen § 8 (Jahresabschluss/Ergebnisverwendung).",
+        "notice_id": "402066",
+        "posted_on": "2016-11-08",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=402066&land_abk=be"
+    },
+    "parsed": [
+        {
+            "label": "WHUT",
+            "text": " Firma / Name vormals : SVP mobility Verwaltungs GmbH , Berlin , c / o Olaf Siegel , Waldemarstraße 11 , 10179 Berlin ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {},
+            "text": " 2 ."
+        },
+        {
+            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+        },
+        {
+            "flag": "with the power to represent the company alone",
+            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+        }
+    ]
+}

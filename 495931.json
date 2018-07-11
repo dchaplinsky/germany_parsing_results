@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 17476",
+        "amtsgericht": "Bonn",
+        "federal_state": "nw",
+        "full_text": "Amtsgericht Bonn Aktenzeichen: HRB 17476 \nBekannt gemacht am: 30.11.2009 12:00 Uhr\n\n\n\n\nIn () gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n26.11.2009\n\nPROFI Bau GmbH, Bonn, Hausdorffstraße 80, 53129 Bonn.Ist nur ein Liquidator bestellt, so vertritt er die Gesellschaft allein. Sind mehrere Liquidatoren bestellt, so wird die Gesellschaft durch zwei Liquidatoren gemeinsam vertreten. Nicht mehr Geschäftsführer: Boehler, Hans-Thomas, Mülheim an der Ruhr, *17.04.1955. Bestellt zum Liquidator: Weber, Harald Wilhelm, Bonn, *28.05.1950, einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen. Die Gesellschaft ist aufgelöst.",
+        "notice_id": "495931",
+        "posted_on": "2009-11-30",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=495931&land_abk=nw"
+    },
+    "parsed": [
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Mülheim an der Ruhr",
+                "dob": "1955-04-17",
+                "lastname": "Boehler",
+                "name": "Hans - Thomas"
+            },
+            "text": " Boehler , Hans - Thomas , Mülheim an der Ruhr , * 17.04.1955 ."
+        },
+        {
+            "flag": "ignore_for_now",
+            "text": "Die Gesellschaft ist aufgelöst ."
+        }
+    ]
+}

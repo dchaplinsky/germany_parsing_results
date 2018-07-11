@@ -1,0 +1,27 @@
+{
+    "orig": {
+        "aktenzeichen": "HRB 17088",
+        "amtsgericht": "Nürnberg",
+        "federal_state": "by",
+        "full_text": "Amtsgericht Nürnberg Aktenzeichen: HRB 17088 \nBekannt gemacht am: 13.03.2009 12:00 Uhr\n\n\n\n\nIn ( ) gesetzte Angaben der Anschrift und des Geschäftszweiges erfolgen ohne Gewähr.\nVeränderungen\n06.03.2009\n\nRichard W. Ossen Vermögensverwaltung seit 1967 GmbH, Nürnberg, Laufamholzstraße 171, 90482 Nürnberg.Geschäftsanschrift: Laufamholzstraße 171, 90482 Nürnberg. Ausgeschieden: Geschäftsführer: Ossen, Marc-Michael, Nürnberg, *31.03.1984.",
+        "notice_id": "309891",
+        "posted_on": "2009-03-13",
+        "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=309891&land_abk=by"
+    },
+    "parsed": [
+        {
+            "label": "address",
+            "text": " Laufamholzstraße 171 , 90482 Nürnberg ."
+        },
+        {
+            "class": "ManagingDirector",
+            "payload": {
+                "city": "Nürnberg",
+                "dob": "1984-03-31",
+                "lastname": "Ossen",
+                "name": "Marc - Michael"
+            },
+            "text": " Ossen , Marc - Michael , Nürnberg , * 31.03.1984 ."
+        }
+    ]
+}
