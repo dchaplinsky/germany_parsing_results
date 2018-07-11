@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 108362",
         "amtsgericht": "Frankfurt am Main",
@@ -8,35 +9,41 @@
         "posted_on": "2017-07-20",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=549272&land_abk=he"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Bockenheimer Landstraße 68 , 60323 Frankfurt am Main ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Mainz",
-                "dob": "1982-03-22",
-                "lastname": "Herz",
-                "name": "Markus Stephan"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Bockenheimer Landstraße 68 , 60323 Frankfurt am Main ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Mainz",
+                    "dob": "1982-03-22",
+                    "lastname": "Herz",
+                    "name": "Markus Stephan"
+                },
+                "text": " Herz , Markus Stephan , Mainz , * 22.03.1982 ."
             },
-            "text": " Herz , Markus Stephan , Mainz , * 22.03.1982 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Frankfurt am Main",
-                "dob": "1952-08-07",
-                "flag": "sole representation",
-                "lastname": "Assayesch",
-                "name": "Farzin"
-            },
-            "text": " Assayesch , Farzin , Frankfurt am Main , * 08.07.1952 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Frankfurt am Main",
+                    "dob": "1952-08-07",
+                    "flag": "sole representation",
+                    "lastname": "Assayesch",
+                    "name": "Farzin"
+                },
+                "text": " Assayesch , Farzin , Frankfurt am Main , * 08.07.1952 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

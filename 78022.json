@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 12307",
         "amtsgericht": "Wittlich",
@@ -8,27 +9,29 @@
         "posted_on": "2010-05-03",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=78022&land_abk=rp"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Pommersfelden",
-                "dob": "1966-12-10",
-                "lastname": "Grasse",
-                "name": "Steffen"
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Pommersfelden",
+                    "dob": "1966-12-10",
+                    "lastname": "Grasse",
+                    "name": "Steffen"
+                },
+                "text": " Grasse , Steffen , Pommersfelden , * 12.10.1966 ."
             },
-            "text": " Grasse , Steffen , Pommersfelden , * 12.10.1966 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Neuf Chateau / Belgien",
-                "dob": "1970-02-16",
-                "flag": "sole representation",
-                "lastname": "Laus",
-                "name": "Sebastian"
-            },
-            "text": " Laus , Sebastian , Neuf Chateau / Belgien , * 16.02.1970 , einzelvertretungsberechtigt ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Neuf Chateau / Belgien",
+                    "dob": "1970-02-16",
+                    "flag": "sole representation",
+                    "lastname": "Laus",
+                    "name": "Sebastian"
+                },
+                "text": " Laus , Sebastian , Neuf Chateau / Belgien , * 16.02.1970 , einzelvertretungsberechtigt ."
+            }
+        ]
+    }
 }

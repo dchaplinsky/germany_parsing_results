@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "hrb 152508",
         "amtsgericht": "münchen",
@@ -8,5 +9,5 @@
         "posted_on": "2005-02-09",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=9043&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }

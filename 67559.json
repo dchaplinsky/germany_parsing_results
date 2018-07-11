@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "hra 27270 hb",
         "amtsgericht": "bremen",
@@ -8,5 +9,9 @@
         "posted_on": "2017-03-13",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=67559&land_abk=hb"
     },
-    "parsed": []
+    "parsed": {
+        "errors": [
+            "Cannot parse an event type out of text amtsgericht bremen aktenzeichen: hra 27270 hb \nbekannt gemacht am: 13.03.2017 20:00 uhr\n\n\n\n\nin () gesetzte angaben der anschrift und des unternehmensgegenstandes erfolgen ohne gewähr:\nveränderungen\n10.03.2017\nänderung der firma:\nhra 27270 hb: tip leer gmbh & co. kg, bremen, c/o liberty one shipmanagement gmbh & co. kg, domshof 22, 28195 bremen. änderung zu nr. 1: umfirmierung und sitzverlegung. persönlich haftender gesellschafter: r&w schiffsbeteiligungs-holding verwaltungs gmbh, köln (amtsgericht köln, hrb 84611); mit der für sich sowie ihre geschäftsführer geltenden befugnis rechtsgeschäfte mit sich selbst oder als vertreter dritter abzuschließen."
+        ]
+    }
 }

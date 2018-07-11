@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 31871",
         "amtsgericht": "Köln",
@@ -8,30 +9,34 @@
         "posted_on": "2009-03-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=419225&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Stolberger Str ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Erftstadt",
-                "dob": "1949-11-07",
-                "lastname": "Rothacher",
-                "name": "Georg"
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Stolberger Str ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Erftstadt",
+                    "dob": "1949-11-07",
+                    "lastname": "Rothacher",
+                    "name": "Georg"
+                },
+                "text": " Rothacher , Georg , Erftstadt , * 11.07.1949 ."
             },
-            "text": " Rothacher , Georg , Erftstadt , * 11.07.1949 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Bergisch Gladbach",
-                "dob": "1965-07-11",
-                "lastname": "Kunath",
-                "name": "Jan"
-            },
-            "text": " Kunath , Jan , Bergisch Gladbach , * 07.11.1965 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Bergisch Gladbach",
+                    "dob": "1965-07-11",
+                    "lastname": "Kunath",
+                    "name": "Jan"
+                },
+                "text": " Kunath , Jan , Bergisch Gladbach , * 07.11.1965 ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 860",
         "amtsgericht": "Düsseldorf",
@@ -8,5 +9,5 @@
         "posted_on": "2015-07-23",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1180898&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

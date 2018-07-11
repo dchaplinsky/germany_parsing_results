@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 202953",
         "amtsgericht": "Walsrode",
@@ -8,24 +9,30 @@
         "posted_on": "2015-10-19",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=363636&land_abk=ni"
     },
-    "parsed": [
-        {
-            "flag": "Sole trader",
-            "text": "Einzelkaufmann"
-        },
-        {
-            "label": "address",
-            "text": " Am Markt 2 , 28790 Schwanewede ."
-        },
-        {
-            "class": "Owner",
-            "payload": {
-                "city": "Schwanewede",
-                "dob": "1969-09-06",
-                "lastname": "Budic",
-                "name": "Marin"
-            },
-            "text": " Budic , Marin , Schwanewede , * 09.06.1969 ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Sole trader",
+                "text": "Einzelkaufmann"
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Am Markt 2 , 28790 Schwanewede ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "Owner",
+                "payload": {
+                    "city": "Schwanewede",
+                    "dob": "1969-09-06",
+                    "lastname": "Budic",
+                    "name": "Marin"
+                },
+                "text": " Budic , Marin , Schwanewede , * 09.06.1969 ."
+            }
+        ]
+    }
 }

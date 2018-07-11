@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 22444",
         "amtsgericht": "Wuppertal",
@@ -8,30 +9,34 @@
         "posted_on": "2013-07-18",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=933728&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Siebeneicker Straße 1 , 42553 Velbert ."
-        },
-        {
-            "class": "Owner",
-            "payload": {
-                "city": "Velbert",
-                "dob": "1982-09-19",
-                "lastname": "Reinhold",
-                "name": "Stephan"
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Siebeneicker Straße 1 , 42553 Velbert ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "Owner",
+                "payload": {
+                    "city": "Velbert",
+                    "dob": "1982-09-19",
+                    "lastname": "Reinhold",
+                    "name": "Stephan"
+                },
+                "text": " Reinhold , Stephan , Velbert , * 19.09.1982 ."
             },
-            "text": " Reinhold , Stephan , Velbert , * 19.09.1982 ."
-        },
-        {
-            "class": "Owner",
-            "payload": {
-                "city": "Velbert",
-                "dob": "1974-10-24",
-                "lastname": "Tomic",
-                "name": "Miroslav"
-            },
-            "text": " Tomic , Miroslav , Velbert , * 24.10.1974 ."
-        }
-    ]
+            {
+                "class": "Owner",
+                "payload": {
+                    "city": "Velbert",
+                    "dob": "1974-10-24",
+                    "lastname": "Tomic",
+                    "name": "Miroslav"
+                },
+                "text": " Tomic , Miroslav , Velbert , * 24.10.1974 ."
+            }
+        ]
+    }
 }

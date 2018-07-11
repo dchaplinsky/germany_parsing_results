@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 5654",
         "amtsgericht": "München",
@@ -8,16 +9,18 @@
         "posted_on": "2013-01-02",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=654967&land_abk=by"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Darmstadt",
-                "dob": "1968-07-31",
-                "lastname": "Grobler",
-                "name": "Thorsten"
-            },
-            "text": " Grobler , Thorsten , Darmstadt , * 31.07.1968 ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Darmstadt",
+                    "dob": "1968-07-31",
+                    "lastname": "Grobler",
+                    "name": "Thorsten"
+                },
+                "text": " Grobler , Thorsten , Darmstadt , * 31.07.1968 ."
+            }
+        ]
+    }
 }

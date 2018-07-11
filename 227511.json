@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 203140",
         "amtsgericht": "Walsrode",
@@ -8,21 +9,25 @@
         "posted_on": "2012-09-26",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=227511&land_abk=ni"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Achim",
-                "dob": "1963-04-15",
-                "flag": "sole representation",
-                "lastname": "Czerniak",
-                "name": "Janusz"
-            },
-            "text": " Czerniak , Janusz , Achim , * 15.04.1963 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Achim",
+                    "dob": "1963-04-15",
+                    "flag": "sole representation",
+                    "lastname": "Czerniak",
+                    "name": "Janusz"
+                },
+                "text": " Czerniak , Janusz , Achim , * 15.04.1963 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

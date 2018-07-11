@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "hrb 20336",
         "amtsgericht": "bad kreuznach",
@@ -8,5 +9,5 @@
         "posted_on": "2017-06-22",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=224169&land_abk=rp"
     },
-    "parsed": []
+    "parsed": {}
 }

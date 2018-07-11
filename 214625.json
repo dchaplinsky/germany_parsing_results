@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 22176",
         "amtsgericht": "Bad Kreuznach",
@@ -8,39 +9,45 @@
         "posted_on": "2017-01-10",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=214625&land_abk=rp"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Industriepark Soonwald 7 , 55494 Rheinböllen ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
-            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Rheinböllen",
-                "dob": "1965-11-15",
-                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Heuwieser",
-                "name": "Claudia"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
             },
-            "text": " Heuwieser , Claudia , Rheinböllen , * 15.11.1965 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Bad Kreuznach",
-                "dob": "1969-06-13",
-                "lastname": "Sevimoglu",
-                "name": "Ali Ihsan"
+            {
+                "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+                "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Industriepark Soonwald 7 , 55494 Rheinböllen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Rheinböllen",
+                    "dob": "1965-11-15",
+                    "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Heuwieser",
+                    "name": "Claudia"
+                },
+                "text": " Heuwieser , Claudia , Rheinböllen , * 15.11.1965 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
             },
-            "text": " Sevimoglu , Ali Ihsan , Bad Kreuznach , * 13.06.1969 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Bad Kreuznach",
+                    "dob": "1969-06-13",
+                    "lastname": "Sevimoglu",
+                    "name": "Ali Ihsan"
+                },
+                "text": " Sevimoglu , Ali Ihsan , Bad Kreuznach , * 13.06.1969 ."
+            }
+        ]
+    }
 }

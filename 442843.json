@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 703796",
         "amtsgericht": "Mannheim",
@@ -8,10 +9,12 @@
         "posted_on": "2014-08-20",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=442843&land_abk=bw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Ahornweg 4 , 68723 Schwetzingen ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Ahornweg 4 , 68723 Schwetzingen ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 1362",
         "amtsgericht": "Oldenburg",
@@ -8,5 +9,5 @@
         "posted_on": "2014-11-04",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=320395&land_abk=ni"
     },
-    "parsed": []
+    "parsed": {}
 }

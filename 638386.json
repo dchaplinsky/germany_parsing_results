@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 138728",
         "amtsgericht": "München",
@@ -8,30 +9,34 @@
         "posted_on": "2012-10-24",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=638386&land_abk=by"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Fürstenfeldbruck",
-                "dob": "1963-09-17",
-                "lastname": "Holderer",
-                "name": "Steffen Kurt"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Fürstenfeldbruck",
+                    "dob": "1963-09-17",
+                    "lastname": "Holderer",
+                    "name": "Steffen Kurt"
+                },
+                "text": " Holderer , Steffen Kurt , Fürstenfeldbruck , * 17.09.1963"
             },
-            "text": " Holderer , Steffen Kurt , Fürstenfeldbruck , * 17.09.1963"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Kienberg",
-                "dob": "1957-02-23",
-                "lastname": "Leibold",
-                "name": "Wolfgang"
-            },
-            "text": " Leibold , Wolfgang , Kienberg , * 23.02.1957"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Kienberg",
+                    "dob": "1957-02-23",
+                    "lastname": "Leibold",
+                    "name": "Wolfgang"
+                },
+                "text": " Leibold , Wolfgang , Kienberg , * 23.02.1957"
+            }
+        ]
+    }
 }

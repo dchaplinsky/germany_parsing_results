@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 97568",
         "amtsgericht": "Frankfurt am Main",
@@ -8,37 +9,43 @@
         "posted_on": "2013-09-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=349930&land_abk=he"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "label": "address",
-            "text": " Lindleystraße 22-25 , 60314 Frankfurt am Main ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
-            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Neu - Isenburg",
-                "dob": "1968-08-01",
-                "flag": "sole representation",
-                "lastname": "Chen",
-                "name": "Biao"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Chen , Biao , Neu - Isenburg , * 08.01.1968 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+            },
+            {
+                "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+                "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+            },
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Lindleystraße 22-25 , 60314 Frankfurt am Main ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Neu - Isenburg",
+                    "dob": "1968-08-01",
+                    "flag": "sole representation",
+                    "lastname": "Chen",
+                    "name": "Biao"
+                },
+                "text": " Chen , Biao , Neu - Isenburg , * 08.01.1968 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

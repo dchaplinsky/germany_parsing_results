@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 103831",
         "amtsgericht": "Hamburg",
@@ -8,35 +9,41 @@
         "posted_on": "2011-06-09",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=141805&land_abk=hh"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Fuhlentwiete 12 , 20355 Hamburg ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hamburg",
-                "dob": "1968-03-08",
-                "lastname": "Wehrle",
-                "name": "Martin"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Fuhlentwiete 12 , 20355 Hamburg ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hamburg",
+                    "dob": "1968-03-08",
+                    "lastname": "Wehrle",
+                    "name": "Martin"
+                },
+                "text": " Wehrle , Martin , Hamburg , * 03.08.1968 ."
             },
-            "text": " Wehrle , Martin , Hamburg , * 03.08.1968 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Reinbek",
-                "dob": "1958-05-30",
-                "flag": "vertretungsberechtigt gemäß allgemeiner Vertretungsregelung",
-                "lastname": "Nietner",
-                "name": "Jens"
-            },
-            "text": " Nietner , Jens , Reinbek , * 30.05.1958 , vertretungsberechtigt gemäß allgemeiner Vertretungsregelung"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Reinbek",
+                    "dob": "1958-05-30",
+                    "flag": "vertretungsberechtigt gemäß allgemeiner Vertretungsregelung",
+                    "lastname": "Nietner",
+                    "name": "Jens"
+                },
+                "text": " Nietner , Jens , Reinbek , * 30.05.1958 , vertretungsberechtigt gemäß allgemeiner Vertretungsregelung"
+            }
+        ]
+    }
 }

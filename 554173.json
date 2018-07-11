@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 102410",
         "amtsgericht": "Frankfurt am Main",
@@ -8,21 +9,25 @@
         "posted_on": "2017-08-25",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=554173&land_abk=he"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Niigata - ken / Japan",
-                "dob": "1965-11-08",
-                "flag": "sole representation",
-                "lastname": "Matsumoto",
-                "name": "Junichi"
-            },
-            "text": " Matsumoto , Junichi , Niigata - ken / Japan , * 11.08.1965 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Niigata - ken / Japan",
+                    "dob": "1965-11-08",
+                    "flag": "sole representation",
+                    "lastname": "Matsumoto",
+                    "name": "Junichi"
+                },
+                "text": " Matsumoto , Junichi , Niigata - ken / Japan , * 11.08.1965 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

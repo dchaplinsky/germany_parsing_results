@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 3992",
         "amtsgericht": "Limburg a. d. Lahn",
@@ -8,27 +9,26 @@
         "posted_on": "2006-10-05",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=19341&land_abk=he"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "dob": "geb",
-                "lastname": "Hasselbach",
-                "name": "Christel"
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a ManagingDirector from  Hasselbach , Christel , geb ."
+            }
+        ],
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Hasselbach , Christel , geb ."
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+            },
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

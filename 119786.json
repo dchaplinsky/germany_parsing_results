@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 100058",
         "amtsgericht": "Oldenburg",
@@ -8,15 +9,18 @@
         "posted_on": "2010-03-05",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=119786&land_abk=ni"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Edenbütteler Straße 3 , 27809 Lemwerder ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Birnstiel , Werner , Maschinenbauer , Delmenhorst , * 29.03.1944 ."
-        }
-    ]
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a ManagingDirector from  Birnstiel , Werner , Maschinenbauer , Delmenhorst , * 29.03.1944 ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Edenbütteler Straße 3 , 27809 Lemwerder ."
+            }
+        ]
+    }
 }

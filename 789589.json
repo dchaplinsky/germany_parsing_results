@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 24367",
         "amtsgericht": "Nürnberg",
@@ -8,10 +9,12 @@
         "posted_on": "2014-06-05",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=789589&land_abk=by"
     },
-    "parsed": [
-        {
-            "flag": "Single procuration",
-            "text": "Einzelprokura"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Single procuration",
+                "text": "Einzelprokura"
+            }
+        ]
+    }
 }

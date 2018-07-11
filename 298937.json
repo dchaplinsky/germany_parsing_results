@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 80",
         "amtsgericht": "Hof",
@@ -8,29 +9,35 @@
         "posted_on": "2009-01-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=298937&land_abk=by"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Fuhrmannstraße 10 , 95030 Hof ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Münchberg",
-                "dob": "1947-07-02",
-                "lastname": "Krauß",
-                "name": "Werner"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Fuhrmannstraße 10 , 95030 Hof ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Münchberg",
+                    "dob": "1947-07-02",
+                    "lastname": "Krauß",
+                    "name": "Werner"
+                },
+                "text": " Krauß , Werner , Münchberg , * 07.02.1947 ."
             },
-            "text": " Krauß , Werner , Münchberg , * 07.02.1947 ."
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Kaiser , Ewald , Wollerau / Schweiz , * 19.01.1962 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " Kaiser , Ewald , Wollerau / Schweiz , * 19.01.1962 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

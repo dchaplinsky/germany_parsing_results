@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 140616",
         "amtsgericht": "München",
@@ -8,10 +9,12 @@
         "posted_on": "2009-06-03",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=327251&land_abk=by"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Münchner Str ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Münchner Str ."
+            }
+        ]
+    }
 }

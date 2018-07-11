@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 22594",
         "amtsgericht": "Koblenz",
@@ -8,31 +9,32 @@
         "posted_on": "2011-05-04",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=98672&land_abk=rp"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "label": "address",
-            "text": " Züchner Str ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
-            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "dob": "geb",
-                "lastname": "Kempkes",
-                "name": "Yvonne"
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a ManagingDirector from  Kempkes , Yvonne , geb ."
+            }
+        ],
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Kempkes , Yvonne , geb ."
-        }
-    ]
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+            },
+            {
+                "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+                "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Züchner Str ."
+            }
+        ]
+    }
 }

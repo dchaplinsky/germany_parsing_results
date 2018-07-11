@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 9025 FL",
         "amtsgericht": "Flensburg",
@@ -8,5 +9,5 @@
         "posted_on": "2011-12-08",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=104627&land_abk=sh"
     },
-    "parsed": []
+    "parsed": {}
 }

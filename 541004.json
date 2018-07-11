@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 7340",
         "amtsgericht": "Hagen",
@@ -8,10 +9,12 @@
         "posted_on": "2010-04-09",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=541004&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Foßbecke 7 , 58332 Schwelm ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Foßbecke 7 , 58332 Schwelm ."
+            }
+        ]
+    }
 }

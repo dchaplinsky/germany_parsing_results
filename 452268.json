@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 422044",
         "amtsgericht": "Mannheim",
@@ -8,10 +9,12 @@
         "posted_on": "2014-10-21",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=452268&land_abk=bw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Am Talblick 9 , 72202 Nagold ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Am Talblick 9 , 72202 Nagold ."
+            }
+        ]
+    }
 }

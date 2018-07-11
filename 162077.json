@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 502851",
         "amtsgericht": "Mannheim",
@@ -8,10 +9,12 @@
         "posted_on": "2009-12-11",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=162077&land_abk=bw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Bernsteinstr ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Bernsteinstr ."
+            }
+        ]
+    }
 }

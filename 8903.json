@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 97996",
         "amtsgericht": "Hamburg",
@@ -8,32 +9,36 @@
         "posted_on": "2006-08-01",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=8903&land_abk=hh"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
-            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
-        },
-        {
-            "flag": "Exclusive power of representation can be granted.",
-            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hamburg",
-                "dob": "1967-10-20",
-                "lastname": "Dr . Fischer",
-                "name": "Heiko"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Dr . Fischer , Heiko , Hamburg , * 20.10.1967"
-        }
-    ]
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+            },
+            {
+                "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+                "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+            },
+            {
+                "flag": "Exclusive power of representation can be granted.",
+                "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hamburg",
+                    "dob": "1967-10-20",
+                    "lastname": "Dr . Fischer",
+                    "name": "Heiko"
+                },
+                "text": " Dr . Fischer , Heiko , Hamburg , * 20.10.1967"
+            }
+        ]
+    }
 }

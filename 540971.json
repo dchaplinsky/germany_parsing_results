@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "hrb 24656",
         "amtsgericht": "wiesbaden",
@@ -8,5 +9,5 @@
         "posted_on": "2017-05-18",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=540971&land_abk=he"
     },
-    "parsed": []
+    "parsed": {}
 }

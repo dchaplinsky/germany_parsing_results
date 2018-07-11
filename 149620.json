@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 2332 FF",
         "amtsgericht": "Frankfurt/Oder",
@@ -8,20 +9,24 @@
         "posted_on": "2017-12-18",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=149620&land_abk=br"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 7 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 8 ."
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 7 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 8 ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 4153",
         "amtsgericht": "Hagen",
@@ -8,27 +9,29 @@
         "posted_on": "2007-04-03",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=212532&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hagen",
-                "dob": "1966-03-07",
-                "lastname": "Eckhoff",
-                "name": "Guido"
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hagen",
+                    "dob": "1966-03-07",
+                    "lastname": "Eckhoff",
+                    "name": "Guido"
+                },
+                "text": " Eckhoff , Guido , Hagen , * 03.07.1966 ."
             },
-            "text": " Eckhoff , Guido , Hagen , * 03.07.1966 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hagen",
-                "dob": "1966-08-23",
-                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Dembski",
-                "name": "Bernd Arnold"
-            },
-            "text": " Dembski , Bernd Arnold , Hagen , * 23.08.1966 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hagen",
+                    "dob": "1966-08-23",
+                    "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Dembski",
+                    "name": "Bernd Arnold"
+                },
+                "text": " Dembski , Bernd Arnold , Hagen , * 23.08.1966 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

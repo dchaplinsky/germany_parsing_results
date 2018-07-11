@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 23440",
         "amtsgericht": "Traunstein",
@@ -15,5 +16,5 @@
         "sitz": null,
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=908876&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }

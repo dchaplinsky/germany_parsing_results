@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 4449",
         "amtsgericht": "Kleve",
@@ -8,5 +9,5 @@
         "posted_on": "2006-02-01",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=102374&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 2556",
         "amtsgericht": "Mannheim",
@@ -8,5 +9,5 @@
         "posted_on": "2010-01-15",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=167565&land_abk=bw"
     },
-    "parsed": []
+    "parsed": {}
 }

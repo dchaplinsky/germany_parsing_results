@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 200880",
         "amtsgericht": "Osnabrück",
@@ -8,43 +9,47 @@
         "posted_on": "2007-04-02",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=8856&land_abk=ni"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
-            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Quakenbrück",
-                "dob": "1983-08-24",
-                "flag": "sole representation",
-                "lastname": "Lorenz",
-                "name": "Christian"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Lorenz , Christian , Quakenbrück , * 24.08.1983 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Quakenbrück",
-                "dob": "1953-10-21",
-                "lastname": "Lorenz",
-                "name": "Friedrich - Wilhelm"
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
             },
-            "text": " Lorenz , Friedrich - Wilhelm , Quakenbrück , * 21.10.1953 ."
-        }
-    ]
+            {
+                "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+                "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+            },
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Quakenbrück",
+                    "dob": "1983-08-24",
+                    "flag": "sole representation",
+                    "lastname": "Lorenz",
+                    "name": "Christian"
+                },
+                "text": " Lorenz , Christian , Quakenbrück , * 24.08.1983 , einzelvertretungsberechtigt"
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Quakenbrück",
+                    "dob": "1953-10-21",
+                    "lastname": "Lorenz",
+                    "name": "Friedrich - Wilhelm"
+                },
+                "text": " Lorenz , Friedrich - Wilhelm , Quakenbrück , * 21.10.1953 ."
+            }
+        ]
+    }
 }

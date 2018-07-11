@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 110027",
         "amtsgericht": "Jena",
@@ -8,24 +9,30 @@
         "posted_on": "2010-07-21",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=39978&land_abk=th"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Wiesenweg 04 , 99330 Gräfenroda ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Gräfenroda",
-                "dob": "1955-01-25",
-                "lastname": "Schädtrich",
-                "name": "Kurt"
-            },
-            "text": " Schädtrich , Kurt , Gräfenroda , * 25.01.1955 ."
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Wiesenweg 04 , 99330 Gräfenroda ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Gräfenroda",
+                    "dob": "1955-01-25",
+                    "lastname": "Schädtrich",
+                    "name": "Kurt"
+                },
+                "text": " Schädtrich , Kurt , Gräfenroda , * 25.01.1955 ."
+            }
+        ]
+    }
 }

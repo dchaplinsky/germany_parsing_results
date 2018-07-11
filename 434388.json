@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 94346",
         "amtsgericht": "Frankfurt am Main",
@@ -8,38 +9,44 @@
         "posted_on": "2015-05-07",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=434388&land_abk=he"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " c / o bhp Bögner Hensel & Partner , Zeppelinallee 47 , 60487 Frankfurt am Main ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hamburg",
-                "dob": "1970-09-15",
-                "lastname": "Dr . Fischer",
-                "name": "Carsten"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
             },
-            "text": " Dr . Fischer , Carsten , Hamburg , * 15.09.1970"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Klein , Jürgen , Stuttgart , * 21.12.1968 , vertretungsberechtigt gemeinsam mit dem Geschäftsführer Lothar Schubert , dem Geschäftsführer Dr . Carsten Fischer , dem Prokuristen Nicky Georg Kisitzky oder dem Prokuristen Karsten Nagel"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Blüm , Nicolaas A ."
-        }
-    ]
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " c / o bhp Bögner Hensel & Partner , Zeppelinallee 47 , 60487 Frankfurt am Main ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hamburg",
+                    "dob": "1970-09-15",
+                    "lastname": "Dr . Fischer",
+                    "name": "Carsten"
+                },
+                "text": " Dr . Fischer , Carsten , Hamburg , * 15.09.1970"
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " Klein , Jürgen , Stuttgart , * 21.12.1968 , vertretungsberechtigt gemeinsam mit dem Geschäftsführer Lothar Schubert , dem Geschäftsführer Dr . Carsten Fischer , dem Prokuristen Nicky Georg Kisitzky oder dem Prokuristen Karsten Nagel"
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " Blüm , Nicolaas A ."
+            }
+        ]
+    }
 }

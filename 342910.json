@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "VR 4609",
         "amtsgericht": "Gießen",
@@ -8,5 +9,5 @@
         "posted_on": "2013-08-07",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=342910&land_abk=he"
     },
-    "parsed": []
+    "parsed": {}
 }

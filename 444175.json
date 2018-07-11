@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 66339",
         "amtsgericht": "Köln",
@@ -8,42 +9,48 @@
         "posted_on": "2009-06-24",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=444175&land_abk=nw"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "label": "address",
-            "text": " Gottesweg 102 , 50939 Köln ."
-        },
-        {
-            "flag": "If only one managing director is appointed, he represents the company alone.",
-            "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
-            "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Köln",
-                "dob": "1978-08-05",
-                "lastname": "Zils",
-                "name": "Daniela"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Zils , Daniela , Köln , * 08.05.1978 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Bad Homburg v . d . Höhe",
-                "dob": "1954-06-26",
-                "lastname": "Dr . Meik",
-                "name": "Frank"
+            {
+                "flag": "If only one managing director is appointed, he represents the company alone.",
+                "text": "Ist nur ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
             },
-            "text": " Dr . Meik , Frank , Bad Homburg v . d . Höhe , * 26.06.1954 ."
-        }
-    ]
+            {
+                "flag": "If several managing directors are appointed, then the company is represented by two managing directors or by a managing director together with an authorized officer.",
+                "text": "Sind mehrere Geschäftsführer bestellt , so wird die Gesellschaft durch zwei Geschäftsführer oder durch einen Geschäftsführer gemeinsam mit einem Prokuristen vertreten ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Gottesweg 102 , 50939 Köln ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Köln",
+                    "dob": "1978-08-05",
+                    "lastname": "Zils",
+                    "name": "Daniela"
+                },
+                "text": " Zils , Daniela , Köln , * 08.05.1978 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Bad Homburg v . d . Höhe",
+                    "dob": "1954-06-26",
+                    "lastname": "Dr . Meik",
+                    "name": "Frank"
+                },
+                "text": " Dr . Meik , Frank , Bad Homburg v . d . Höhe , * 26.06.1954 ."
+            }
+        ]
+    }
 }

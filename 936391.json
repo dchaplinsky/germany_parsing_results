@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 42257",
         "amtsgericht": "Köln",
@@ -8,26 +9,25 @@
         "posted_on": "2013-07-25",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=936391&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "dob": "Herscheid",
-                "lastname": "Mayer",
-                "name": "Franz Hubert"
-            },
-            "text": " Mayer , Franz Hubert , Herscheid ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Herscheid",
-                "dob": "1965-11-06",
-                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Mayer",
-                "name": "Martin"
-            },
-            "text": " Mayer , Martin , Herscheid , * 11.06.1965 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a ManagingDirector from  Mayer , Franz Hubert , Herscheid ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Herscheid",
+                    "dob": "1965-11-06",
+                    "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Mayer",
+                    "name": "Martin"
+                },
+                "text": " Mayer , Martin , Herscheid , * 11.06.1965 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

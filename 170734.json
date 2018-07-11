@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 42219",
         "amtsgericht": "München",
@@ -8,5 +9,5 @@
         "posted_on": "2007-05-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=170734&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }

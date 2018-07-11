@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 201860",
         "amtsgericht": "Aurich",
@@ -8,28 +9,34 @@
         "posted_on": "2011-04-08",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=165533&land_abk=ni"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "label": "address",
-            "text": " Ol Streek 14 , 26607 Aurich ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Aurich",
-                "dob": "1966-06-25",
-                "lastname": "Ehmen",
-                "name": "Uwe"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Ehmen , Uwe , Aurich , * 25.06.1966"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Ol Streek 14 , 26607 Aurich ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Aurich",
+                    "dob": "1966-06-25",
+                    "lastname": "Ehmen",
+                    "name": "Uwe"
+                },
+                "text": " Ehmen , Uwe , Aurich , * 25.06.1966"
+            }
+        ]
+    }
 }

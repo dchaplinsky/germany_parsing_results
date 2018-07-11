@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 8124",
         "amtsgericht": "Landshut",
@@ -8,10 +9,12 @@
         "posted_on": "2011-10-31",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=546303&land_abk=by"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Koopskamp 15 b , 21502 Geesthacht ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Koopskamp 15 b , 21502 Geesthacht ."
+            }
+        ]
+    }
 }

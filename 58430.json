@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 86351 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,10 +9,12 @@
         "posted_on": "2008-02-04",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=58430&land_abk=be"
     },
-    "parsed": [
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 8149",
         "amtsgericht": "Paderborn",
@@ -8,10 +9,12 @@
         "posted_on": "2009-11-13",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=491194&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Driburger Str ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Driburger Str ."
+            }
+        ]
+    }
 }

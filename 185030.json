@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 119919",
         "amtsgericht": "Hamburg",
@@ -8,27 +9,29 @@
         "posted_on": "2012-10-31",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=185030&land_abk=hh"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Bad Schwartau",
-                "dob": "1968-09-01",
-                "lastname": "Dr . Flach",
-                "name": "Christian"
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Bad Schwartau",
+                    "dob": "1968-09-01",
+                    "lastname": "Dr . Flach",
+                    "name": "Christian"
+                },
+                "text": " Dr . Flach , Christian , Bad Schwartau , * 09.01.1968"
             },
-            "text": " Dr . Flach , Christian , Bad Schwartau , * 09.01.1968"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hamburg",
-                "dob": "1955-08-11",
-                "flag": "sole representation",
-                "lastname": "Tellechea",
-                "name": "Julio Nestor"
-            },
-            "text": " Tellechea , Julio Nestor , Hamburg , * 08.11.1955 , einzelvertretungsberechtigt"
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hamburg",
+                    "dob": "1955-08-11",
+                    "flag": "sole representation",
+                    "lastname": "Tellechea",
+                    "name": "Julio Nestor"
+                },
+                "text": " Tellechea , Julio Nestor , Hamburg , * 08.11.1955 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

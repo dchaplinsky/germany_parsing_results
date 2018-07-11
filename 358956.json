@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 5095",
         "amtsgericht": "Wetzlar",
@@ -8,5 +9,5 @@
         "posted_on": "2013-12-04",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=358956&land_abk=he"
     },
-    "parsed": []
+    "parsed": {}
 }

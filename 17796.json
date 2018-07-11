@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 38156 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,15 +9,12 @@
         "posted_on": "2006-06-28",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=17796&land_abk=be"
     },
-    "parsed": [
-        {
-            "class": "Owner",
-            "payload": {
-                "dob": "geb",
-                "lastname": "Agapova",
-                "name": "Irina"
-            },
-            "text": " Agapova , Irina , geb ."
-        }
-    ]
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a Owner from  Agapova , Irina , geb ."
+            }
+        ]
+    }
 }

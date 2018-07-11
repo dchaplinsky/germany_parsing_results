@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 75896",
         "amtsgericht": "Köln",
@@ -8,10 +9,12 @@
         "posted_on": "2012-10-08",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=841741&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Zollstockgürtel 57-67 ( Haus 6 ) , 50969 Köln ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Zollstockgürtel 57-67 ( Haus 6 ) , 50969 Köln ."
+            }
+        ]
+    }
 }

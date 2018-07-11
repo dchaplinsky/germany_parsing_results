@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 723904",
         "amtsgericht": "Stuttgart",
@@ -8,28 +9,34 @@
         "posted_on": "2009-03-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=122866&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "Sole trader",
-            "text": "Einzelkaufmann"
-        },
-        {
-            "label": "address",
-            "text": " Dorfwiesenstraße 37 , 73614 Schorndorf ."
-        },
-        {
-            "flag": "The owner is acting alone",
-            "text": "Der Inhaber handelt allein"
-        },
-        {
-            "class": "Owner",
-            "payload": {
-                "city": "Schorndorf",
-                "dob": "1985-01-11",
-                "lastname": "Siegle",
-                "name": "Frederik Kaspar"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Sole trader",
+                "text": "Einzelkaufmann"
             },
-            "text": " Siegle , Frederik Kaspar , Schorndorf , * 01.11.1985 ."
-        }
-    ]
+            {
+                "flag": "The owner is acting alone",
+                "text": "Der Inhaber handelt allein"
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Dorfwiesenstraße 37 , 73614 Schorndorf ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "Owner",
+                "payload": {
+                    "city": "Schorndorf",
+                    "dob": "1985-01-11",
+                    "lastname": "Siegle",
+                    "name": "Frederik Kaspar"
+                },
+                "text": " Siegle , Frederik Kaspar , Schorndorf , * 01.11.1985 ."
+            }
+        ]
+    }
 }

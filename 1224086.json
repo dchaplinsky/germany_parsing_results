@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 11788",
         "amtsgericht": "Coesfeld",
@@ -8,16 +9,18 @@
         "posted_on": "2015-11-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1224086&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Dubai / Vereinigte Arabische Emirate",
-                "dob": "1978-11-06",
-                "lastname": "Solh",
-                "name": "Hadi"
-            },
-            "text": " Solh , Hadi , Dubai / Vereinigte Arabische Emirate , * 11.06.1978 ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Dubai / Vereinigte Arabische Emirate",
+                    "dob": "1978-11-06",
+                    "lastname": "Solh",
+                    "name": "Hadi"
+                },
+                "text": " Solh , Hadi , Dubai / Vereinigte Arabische Emirate , * 11.06.1978 ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 7929",
         "amtsgericht": "Stralsund",
@@ -8,37 +9,39 @@
         "posted_on": "2015-05-28",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=60959&land_abk=mv"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Berlin",
-                "dob": "1959-10-20",
-                "flag": "sole representation",
-                "lastname": "Dr . Basteck",
-                "name": "Ulrich"
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Berlin",
+                    "dob": "1959-10-20",
+                    "flag": "sole representation",
+                    "lastname": "Dr . Basteck",
+                    "name": "Ulrich"
+                },
+                "text": " Dr . Basteck , Ulrich , Berlin , * 20.10.1959 , einzelvertretungsberechtigt ."
             },
-            "text": " Dr . Basteck , Ulrich , Berlin , * 20.10.1959 , einzelvertretungsberechtigt ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Scharbeutz",
-                "dob": "1976-01-07",
-                "lastname": "Ader",
-                "name": "Sebastian"
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Scharbeutz",
+                    "dob": "1976-01-07",
+                    "lastname": "Ader",
+                    "name": "Sebastian"
+                },
+                "text": " Ader , Sebastian , Scharbeutz , * 01.07.1976 ."
             },
-            "text": " Ader , Sebastian , Scharbeutz , * 01.07.1976 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Heringsdorf",
-                "dob": "1943-01-13",
-                "lastname": "Gühler",
-                "name": "Gerhard"
-            },
-            "text": " Gühler , Gerhard , Heringsdorf , * 13.01.1943 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Heringsdorf",
+                    "dob": "1943-01-13",
+                    "lastname": "Gühler",
+                    "name": "Gerhard"
+                },
+                "text": " Gühler , Gerhard , Heringsdorf , * 13.01.1943 ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 714414",
         "amtsgericht": "Freiburg",
@@ -8,28 +9,34 @@
         "posted_on": "2016-03-11",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=540482&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "label": "address",
-            "text": " Freiburger Straße 25 , 79183 Waldkirch ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Freiburg im Breisgau",
-                "dob": "1960-02-01",
-                "lastname": "Dr . Faller",
-                "name": "Michael"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Dr . Faller , Michael , Freiburg im Breisgau , * 02.01.1960"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Freiburger Straße 25 , 79183 Waldkirch ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Freiburg im Breisgau",
+                    "dob": "1960-02-01",
+                    "lastname": "Dr . Faller",
+                    "name": "Michael"
+                },
+                "text": " Dr . Faller , Michael , Freiburg im Breisgau , * 02.01.1960"
+            }
+        ]
+    }
 }

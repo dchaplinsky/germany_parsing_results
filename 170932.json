@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 31801",
         "amtsgericht": "Dresden",
@@ -8,16 +9,18 @@
         "posted_on": "2014-05-12",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=170932&land_abk=sn"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Piding",
-                "dob": "1978-05-05",
-                "lastname": "Feichtenschlager",
-                "name": "Michael"
-            },
-            "text": " Feichtenschlager , Michael , Piding , * 05.05.1978 ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Piding",
+                    "dob": "1978-05-05",
+                    "lastname": "Feichtenschlager",
+                    "name": "Michael"
+                },
+                "text": " Feichtenschlager , Michael , Piding , * 05.05.1978 ."
+            }
+        ]
+    }
 }

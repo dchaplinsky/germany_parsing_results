@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 7378",
         "amtsgericht": "Lemgo",
@@ -8,16 +9,18 @@
         "posted_on": "2015-03-10",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1137063&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hamburg",
-                "dob": "1960-02-29",
-                "lastname": "Breitmeier",
-                "name": "Ingo"
-            },
-            "text": " Breitmeier , Ingo , Hamburg , * 29.02.1960 ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hamburg",
+                    "dob": "1960-02-29",
+                    "lastname": "Breitmeier",
+                    "name": "Ingo"
+                },
+                "text": " Breitmeier , Ingo , Hamburg , * 29.02.1960 ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 8366",
         "amtsgericht": "Steinfurt",
@@ -8,17 +9,19 @@
         "posted_on": "2017-05-02",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1406104&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Woerden / Niederlande",
-                "dob": "1938-12-05",
-                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "van Riet",
-                "name": "Cornelis Johannes Simon"
-            },
-            "text": " van Riet , Cornelis Johannes Simon , Woerden / Niederlande , * 12.05.1938 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Woerden / Niederlande",
+                    "dob": "1938-12-05",
+                    "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "van Riet",
+                    "name": "Cornelis Johannes Simon"
+                },
+                "text": " van Riet , Cornelis Johannes Simon , Woerden / Niederlande , * 12.05.1938 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

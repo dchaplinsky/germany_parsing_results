@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "VR 5626",
         "amtsgericht": "Leipzig",
@@ -8,5 +9,5 @@
         "posted_on": "2014-08-28",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=176966&land_abk=sn"
     },
-    "parsed": []
+    "parsed": {}
 }

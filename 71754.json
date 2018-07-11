@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 32802 HB",
         "amtsgericht": "Bremen",
@@ -8,39 +9,45 @@
         "posted_on": "2017-09-29",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=71754&land_abk=hb"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " Alphascaling GmbH , Bremen , Konsul - Smidt - Str ."
-        },
-        {
-            "label": "address",
-            "text": " Konsul - Smidt - Str ."
-        },
-        {
-            "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
-            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
-        },
-        {
-            "flag": "Exclusive power of representation can be granted.",
-            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 1 ."
-        },
-        {
-            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
+                "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
+            },
+            {
+                "flag": "Exclusive power of representation can be granted.",
+                "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+            },
+            {
+                "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            }
+        ],
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " Alphascaling GmbH , Bremen , Konsul - Smidt - Str ."
+            },
+            {
+                "label": "address",
+                "text": " Konsul - Smidt - Str ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 1 ."
+            }
+        ]
+    }
 }

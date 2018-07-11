@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 163589 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,40 +9,44 @@
         "posted_on": "2017-08-29",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=441581&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " KWG Grundbesitz X GmbH , Berlin , Leipziger Platz 9 , 10117 Berlin ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 5 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 6 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 8 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 9 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 10 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Jung , Sebastian"
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " KWG Grundbesitz X GmbH , Berlin , Leipziger Platz 9 , 10117 Berlin ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 5 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 6 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 8 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 9 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 10 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " Jung , Sebastian"
+            }
+        ]
+    }
 }

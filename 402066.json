@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 168480 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,27 +9,33 @@
         "posted_on": "2016-11-08",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=402066&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " Firma / Name vormals : SVP mobility Verwaltungs GmbH , Berlin , c / o Olaf Siegel , Waldemarstraße 11 , 10179 Berlin ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 2 ."
-        },
-        {
-            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            }
+        ],
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " Firma / Name vormals : SVP mobility Verwaltungs GmbH , Berlin , c / o Olaf Siegel , Waldemarstraße 11 , 10179 Berlin ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 2 ."
+            }
+        ]
+    }
 }

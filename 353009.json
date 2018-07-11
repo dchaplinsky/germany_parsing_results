@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 711656",
         "amtsgericht": "Mannheim",
@@ -8,10 +9,12 @@
         "posted_on": "2013-03-08",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=353009&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "Single procuration",
-            "text": "Einzelprokura"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Single procuration",
+                "text": "Einzelprokura"
+            }
+        ]
+    }
 }

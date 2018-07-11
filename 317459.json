@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 86969 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -15,10 +16,12 @@
         "sitz": null,
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=317459&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " Beier Assekuranz , Finanzierungs - und Immobilien - Vermittlungsgesellschaft mbH , Berlin ( Friedrichstraße 169 / 170 , 10117 Berlin ) ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " Beier Assekuranz , Finanzierungs - und Immobilien - Vermittlungsgesellschaft mbH , Berlin ( Friedrichstraße 169 / 170 , 10117 Berlin ) ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 58113 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,5 +9,5 @@
         "posted_on": "2007-02-16",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=33344&land_abk=be"
     },
-    "parsed": []
+    "parsed": {}
 }

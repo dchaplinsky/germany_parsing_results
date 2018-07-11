@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 12820",
         "amtsgericht": "Bad Oeynhausen",
@@ -8,16 +9,18 @@
         "posted_on": "2017-03-09",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1388818&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Göttingen",
-                "dob": "1981-03-31",
-                "lastname": "Werner",
-                "name": "Christian"
-            },
-            "text": " Werner , Christian , Göttingen , * 31.03.1981 ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Göttingen",
+                    "dob": "1981-03-31",
+                    "lastname": "Werner",
+                    "name": "Christian"
+                },
+                "text": " Werner , Christian , Göttingen , * 31.03.1981 ."
+            }
+        ]
+    }
 }

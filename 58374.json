@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 6340",
         "amtsgericht": "Dresden",
@@ -8,5 +9,5 @@
         "posted_on": "2008-09-11",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=58374&land_abk=sn"
     },
-    "parsed": []
+    "parsed": {}
 }

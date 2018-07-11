@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 115321 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,56 +9,62 @@
         "posted_on": "2008-09-12",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=76450&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "company",
-            "text": " Berlin Gegenstand : Der Export und Import sowie Einzel - und Großhandel von genehmigungsfreien Waren aller Art , insb ."
-        },
-        {
-            "label": "misc",
-            "text": " 50.000,00 EUR Vertretungsregelung : Ist ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
-        },
-        {
-            "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
-            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
-        },
-        {
-            "flag": "Exclusive power of representation can be granted.",
-            "text": "Alleinvertretungsbefugnis kann erteilt werden ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        },
-        {
-            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        },
-        {
-            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "If several directors are appointed, the company will be jointly represented by two directors or by a managing director in company with an authorized signatory.",
+                "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft gemeinschaftlich durch zwei Geschäftsführer oder durch einen Geschäftsführer in Gemeinschaft mit einem Prokuristen vertreten ."
+            },
+            {
+                "flag": "Exclusive power of representation can be granted.",
+                "text": "Alleinvertretungsbefugnis kann erteilt werden ."
+            },
+            {
+                "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            },
+            {
+                "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            }
+        ],
+        "labels": [
+            {
+                "label": "company",
+                "text": " Berlin Gegenstand : Der Export und Import sowie Einzel - und Großhandel von genehmigungsfreien Waren aller Art , insb ."
+            },
+            {
+                "label": "misc",
+                "text": " 50.000,00 EUR Vertretungsregelung : Ist ein Geschäftsführer bestellt , so vertritt er die Gesellschaft allein ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            }
+        ]
+    }
 }

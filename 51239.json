@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 8943",
         "amtsgericht": "Neuruppin",
@@ -8,27 +9,32 @@
         "posted_on": "2010-08-16",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=51239&land_abk=br"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Hauptstraße 70 , 16548 Glienicke / Nordbahn ."
-        },
-        {
-            "flag": "If several managing directors are appointed, the company is jointly represented by all managing directors.",
-            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten ."
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Miram , Sven , * 16.12.1968 , Glienicke , mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen ."
-        },
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        }
-    ]
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a ManagingDirector from  Miram , Sven , * 16.12.1968 , Glienicke , mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen ."
+            }
+        ],
+        "flags": [
+            {
+                "flag": "If several managing directors are appointed, the company is jointly represented by all managing directors.",
+                "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten ."
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Hauptstraße 70 , 16548 Glienicke / Nordbahn ."
+            }
+        ]
+    }
 }

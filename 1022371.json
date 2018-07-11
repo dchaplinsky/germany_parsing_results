@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 928",
         "amtsgericht": "Würzburg",
@@ -8,10 +9,12 @@
         "posted_on": "2016-11-22",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1022371&land_abk=by"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Paradiesstraße 14 b , 97080 Würzburg ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Paradiesstraße 14 b , 97080 Würzburg ."
+            }
+        ]
+    }
 }

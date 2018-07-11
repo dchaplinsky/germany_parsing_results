@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 18472",
         "amtsgericht": "Stuttgart",
@@ -8,16 +9,18 @@
         "posted_on": "2007-10-29",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=45044&land_abk=bw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Stuttgart",
-                "dob": "1950-11-11",
-                "lastname": "Dr . Schmidt - Dencker",
-                "name": "Hans Michael"
-            },
-            "text": " Dr . Schmidt - Dencker , Hans Michael , Stuttgart , * 11.11.1950 ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Stuttgart",
+                    "dob": "1950-11-11",
+                    "lastname": "Dr . Schmidt - Dencker",
+                    "name": "Hans Michael"
+                },
+                "text": " Dr . Schmidt - Dencker , Hans Michael , Stuttgart , * 11.11.1950 ."
+            }
+        ]
+    }
 }

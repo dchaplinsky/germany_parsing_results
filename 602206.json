@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 760",
         "amtsgericht": "Aschaffenburg",
@@ -8,10 +9,12 @@
         "posted_on": "2012-05-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=602206&land_abk=by"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Dämmer Tor 6 , 63741 Aschaffenburg ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Dämmer Tor 6 , 63741 Aschaffenburg ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 11937 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,10 +9,12 @@
         "posted_on": "2014-02-17",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=278568&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " GfA Gesellschaft für Anlage - Beteiligungen mbH , Berlin , Kurfürstendamm 207-208 , 10719 Berlin ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " GfA Gesellschaft für Anlage - Beteiligungen mbH , Berlin , Kurfürstendamm 207-208 , 10719 Berlin ."
+            }
+        ]
+    }
 }

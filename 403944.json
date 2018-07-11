@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 32017",
         "amtsgericht": "Bielefeld",
@@ -8,15 +9,18 @@
         "posted_on": "2009-02-13",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=403944&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Feldstr ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Brindöpke , Herbert , Kaufmann , Bielefeld ."
-        }
-    ]
+    "parsed": {
+        "errors": [
+            {
+                "kls": "ParsingError",
+                "text": "Cannot parse a ManagingDirector from  Brindöpke , Herbert , Kaufmann , Bielefeld ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Feldstr ."
+            }
+        ]
+    }
 }

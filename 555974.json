@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 706920",
         "amtsgericht": "Mannheim",
@@ -8,24 +9,30 @@
         "posted_on": "2016-06-20",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=555974&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "Sole trader",
-            "text": "Einzelkaufmann"
-        },
-        {
-            "label": "address",
-            "text": " Melitta - Schöpf - Straße 6 , 76137 Karlsruhe ."
-        },
-        {
-            "class": "Owner",
-            "payload": {
-                "city": "Karlsruhe",
-                "dob": "1970-07-21",
-                "lastname": "Fröhlich",
-                "name": "Alexander Danilo"
-            },
-            "text": " Fröhlich , Alexander Danilo , Karlsruhe , * 21.07.1970 ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Sole trader",
+                "text": "Einzelkaufmann"
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Melitta - Schöpf - Straße 6 , 76137 Karlsruhe ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "Owner",
+                "payload": {
+                    "city": "Karlsruhe",
+                    "dob": "1970-07-21",
+                    "lastname": "Fröhlich",
+                    "name": "Alexander Danilo"
+                },
+                "text": " Fröhlich , Alexander Danilo , Karlsruhe , * 21.07.1970 ."
+            }
+        ]
+    }
 }

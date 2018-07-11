@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "VR 4695",
         "amtsgericht": "Moenchengladbach",
@@ -8,5 +9,5 @@
         "posted_on": "2010-10-05",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=598484&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

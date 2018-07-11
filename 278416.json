@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 18599",
         "amtsgericht": "Traunstein",
@@ -15,21 +16,25 @@
         "sitz": null,
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=278416&land_abk=by"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Biedenkopf",
-                "dob": "1965-03-06",
-                "flag": "sole representation",
-                "lastname": "Anton",
-                "name": "Michel"
-            },
-            "text": " Anton , Michel , Biedenkopf , * 03.06.1965 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Biedenkopf",
+                    "dob": "1965-03-06",
+                    "flag": "sole representation",
+                    "lastname": "Anton",
+                    "name": "Michel"
+                },
+                "text": " Anton , Michel , Biedenkopf , * 03.06.1965 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

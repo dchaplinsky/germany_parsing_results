@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 8922",
         "amtsgericht": "Essen",
@@ -8,5 +9,5 @@
         "posted_on": "2017-01-13",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1367476&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

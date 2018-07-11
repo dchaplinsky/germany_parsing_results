@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 441",
         "amtsgericht": "Schweinfurt",
@@ -8,5 +9,5 @@
         "posted_on": "2011-11-09",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=548981&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }

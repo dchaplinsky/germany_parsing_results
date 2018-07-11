@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 225736",
         "amtsgericht": "München",
@@ -8,30 +9,34 @@
         "posted_on": "2016-08-12",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=997455&land_abk=by"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "München",
-                "dob": "1984-01-26",
-                "lastname": "Bühler",
-                "name": "Johannes"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "München",
+                    "dob": "1984-01-26",
+                    "lastname": "Bühler",
+                    "name": "Johannes"
+                },
+                "text": " Bühler , Johannes , München , * 26.01.1984"
             },
-            "text": " Bühler , Johannes , München , * 26.01.1984"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "München",
-                "dob": "1962-03-12",
-                "lastname": "Hirschberger",
-                "name": "Thomas"
-            },
-            "text": " Hirschberger , Thomas , München , * 03.12.1962 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "München",
+                    "dob": "1962-03-12",
+                    "lastname": "Hirschberger",
+                    "name": "Thomas"
+                },
+                "text": " Hirschberger , Thomas , München , * 03.12.1962 ."
+            }
+        ]
+    }
 }

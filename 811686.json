@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 2982",
         "amtsgericht": "Kleve",
@@ -8,10 +9,12 @@
         "posted_on": "2012-07-06",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=811686&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Fränzkesweg 31 , 47506 Neukirchen - Vluyn ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Fränzkesweg 31 , 47506 Neukirchen - Vluyn ."
+            }
+        ]
+    }
 }

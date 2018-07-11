@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 173020 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,10 +9,12 @@
         "posted_on": "2018-03-28",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=471757&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " MOVOO GmbH , Berlin , Reuchlinstraße 10-11 , 10553 Berlin ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " MOVOO GmbH , Berlin , Reuchlinstraße 10-11 , 10553 Berlin ."
+            }
+        ]
+    }
 }

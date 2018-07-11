@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 3985",
         "amtsgericht": "Steinfurt",
@@ -8,27 +9,29 @@
         "posted_on": "2015-09-22",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1201568&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Korschenbroich",
-                "dob": "1967-12-07",
-                "lastname": "Dr . Jansch",
-                "name": "Torsten"
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Korschenbroich",
+                    "dob": "1967-12-07",
+                    "lastname": "Dr . Jansch",
+                    "name": "Torsten"
+                },
+                "text": " Dr . Jansch , Torsten , Korschenbroich , * 12.07.1967 ."
             },
-            "text": " Dr . Jansch , Torsten , Korschenbroich , * 12.07.1967 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Essen",
-                "dob": "1961-12-27",
-                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Depping",
-                "name": "Bernd"
-            },
-            "text": " Depping , Bernd , Essen , * 27.12.1961 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Essen",
+                    "dob": "1961-12-27",
+                    "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Depping",
+                    "name": "Bernd"
+                },
+                "text": " Depping , Bernd , Essen , * 27.12.1961 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

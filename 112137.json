@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 82097 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,10 +9,12 @@
         "posted_on": "2009-10-28",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=112137&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "misc",
-            "text": " 2.500.000 EUR Rechtsform : Durch Beschluss der Gesellschafterversammlung vom 24.09.2008 ist das Stammkapital um 22.500.000 auf 2.500.000 EUR herabgesetzt und der Gesellschaftsvertrag geändert in 3 ( Stammkapital ) .."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "misc",
+                "text": " 2.500.000 EUR Rechtsform : Durch Beschluss der Gesellschafterversammlung vom 24.09.2008 ist das Stammkapital um 22.500.000 auf 2.500.000 EUR herabgesetzt und der Gesellschaftsvertrag geändert in 3 ( Stammkapital ) .."
+            }
+        ]
+    }
 }

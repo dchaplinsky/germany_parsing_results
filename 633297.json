@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 32894",
         "amtsgericht": "Bielefeld",
@@ -8,5 +9,5 @@
         "posted_on": "2011-01-18",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=633297&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

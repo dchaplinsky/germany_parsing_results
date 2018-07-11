@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 290788",
         "amtsgericht": "Stuttgart",
@@ -8,10 +9,12 @@
         "posted_on": "2012-11-19",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=333636&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "ignore_for_now",
-            "text": "Die Gesellschaft ist aufgelöst ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "ignore_for_now",
+                "text": "Die Gesellschaft ist aufgelöst ."
+            }
+        ]
+    }
 }

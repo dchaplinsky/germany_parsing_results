@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 9432",
         "amtsgericht": "Dresden",
@@ -8,5 +9,5 @@
         "posted_on": "2017-08-04",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=236669&land_abk=sn"
     },
-    "parsed": []
+    "parsed": {}
 }

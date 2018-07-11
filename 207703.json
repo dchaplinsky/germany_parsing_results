@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "hrb 15817 ki",
         "amtsgericht": "kiel",
@@ -8,5 +9,5 @@
         "posted_on": "2017-04-28",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=207703&land_abk=sh"
     },
-    "parsed": []
+    "parsed": {}
 }

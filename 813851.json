@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 29208",
         "amtsgericht": "Köln",
@@ -8,14 +9,18 @@
         "posted_on": "2012-07-13",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=813851&land_abk=nw"
     },
-    "parsed": [
-        {
-            "flag": "Limited partnership.",
-            "text": "Kommanditgesellschaft ."
-        },
-        {
-            "label": "address",
-            "text": " Speyerer Straße 43 , c / o Holitzner , 50739 Köln ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Limited partnership.",
+                "text": "Kommanditgesellschaft ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Speyerer Straße 43 , c / o Holitzner , 50739 Köln ."
+            }
+        ]
+    }
 }

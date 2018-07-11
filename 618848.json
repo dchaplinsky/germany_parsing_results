@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "hrb 759291",
         "amtsgericht": "stuttgart",
@@ -8,5 +9,5 @@
         "posted_on": "2017-06-14",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=618848&land_abk=bw"
     },
-    "parsed": []
+    "parsed": {}
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 31956",
         "amtsgericht": "Bielefeld",
@@ -8,14 +9,18 @@
         "posted_on": "2008-12-10",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=380804&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Bornweg 16 , 33619 Bielefeld ."
-        },
-        {
-            "flag": "ignore_for_now",
-            "text": "Die Gesellschaft ist aufgelöst ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "ignore_for_now",
+                "text": "Die Gesellschaft ist aufgelöst ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Bornweg 16 , 33619 Bielefeld ."
+            }
+        ]
+    }
 }

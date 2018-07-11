@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 19021 P",
         "amtsgericht": "Potsdam",
@@ -8,5 +9,5 @@
         "posted_on": "2015-08-12",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=119148&land_abk=br"
     },
-    "parsed": []
+    "parsed": {}
 }

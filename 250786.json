@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 245752",
         "amtsgericht": "Stuttgart",
@@ -8,25 +9,29 @@
         "posted_on": "2011-06-14",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=250786&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Haag , Thomas , Fellbach , * 17.01.1971 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Stuttgart",
-                "dob": "1949-05-14",
-                "lastname": "Graf",
-                "name": "Eberhard"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " Haag , Thomas , Fellbach , * 17.01.1971 , mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
             },
-            "text": " Graf , Eberhard , Stuttgart , * 14.05.1949 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Stuttgart",
+                    "dob": "1949-05-14",
+                    "lastname": "Graf",
+                    "name": "Eberhard"
+                },
+                "text": " Graf , Eberhard , Stuttgart , * 14.05.1949 ."
+            }
+        ]
+    }
 }

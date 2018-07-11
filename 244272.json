@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 703682",
         "amtsgericht": "Freiburg",
@@ -8,25 +9,29 @@
         "posted_on": "2011-04-27",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=244272&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " Faubel , Herbert Friedrich , Ennetbaden ( Schweiz ) , * 15.08.1943 , einzelvertretungsberechtigt mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Ihringen",
-                "dob": "1954-11-25",
-                "lastname": "Karle",
-                "name": "Edgar"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " Faubel , Herbert Friedrich , Ennetbaden ( Schweiz ) , * 15.08.1943 , einzelvertretungsberechtigt mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
             },
-            "text": " Karle , Edgar , Ihringen , * 25.11.1954 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Ihringen",
+                    "dob": "1954-11-25",
+                    "lastname": "Karle",
+                    "name": "Edgar"
+                },
+                "text": " Karle , Edgar , Ihringen , * 25.11.1954 ."
+            }
+        ]
+    }
 }

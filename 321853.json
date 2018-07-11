@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 742288",
         "amtsgericht": "Stuttgart",
@@ -8,28 +9,34 @@
         "posted_on": "2012-09-03",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=321853&land_abk=bw"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "label": "address",
-            "text": " Bruckstraße 31 , 70734 Fellbach ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Fellbach",
-                "dob": "1972-02-23",
-                "lastname": "Frank",
-                "name": "Gabriele"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
             },
-            "text": " Frank , Gabriele , Fellbach , * 23.02.1972"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Bruckstraße 31 , 70734 Fellbach ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Fellbach",
+                    "dob": "1972-02-23",
+                    "lastname": "Frank",
+                    "name": "Gabriele"
+                },
+                "text": " Frank , Gabriele , Fellbach , * 23.02.1972"
+            }
+        ]
+    }
 }

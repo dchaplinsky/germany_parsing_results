@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 94910",
         "amtsgericht": "Hanau",
@@ -8,35 +9,41 @@
         "posted_on": "2015-02-23",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=424137&land_abk=he"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Am Technologie Park 1-5 , 63477 Maintal ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Maintal",
-                "dob": "1982-11-10",
-                "lastname": "Nurkovic",
-                "name": "Elvis"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Am Technologie Park 1-5 , 63477 Maintal ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Maintal",
+                    "dob": "1982-11-10",
+                    "lastname": "Nurkovic",
+                    "name": "Elvis"
+                },
+                "text": " Nurkovic , Elvis , Maintal , * 11.10.1982 ."
             },
-            "text": " Nurkovic , Elvis , Maintal , * 11.10.1982 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Maintal",
-                "dob": "1980-10-24",
-                "flag": "sole representation",
-                "lastname": "Drcic",
-                "name": "Dragan"
-            },
-            "text": " Drcic , Dragan , Maintal , * 24.10.1980 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Maintal",
+                    "dob": "1980-10-24",
+                    "flag": "sole representation",
+                    "lastname": "Drcic",
+                    "name": "Dragan"
+                },
+                "text": " Drcic , Dragan , Maintal , * 24.10.1980 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

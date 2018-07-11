@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 168919",
         "amtsgericht": "München",
@@ -8,20 +9,24 @@
         "posted_on": "2014-07-10",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=797766&land_abk=by"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " Industriestr ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Olching",
-                "dob": "1950-06-15",
-                "lastname": "Nanini",
-                "name": "Gino"
-            },
-            "text": " Nanini , Gino , Olching , * 15.06.1950 ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " Industriestr ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Olching",
+                    "dob": "1950-06-15",
+                    "lastname": "Nanini",
+                    "name": "Gino"
+                },
+                "text": " Nanini , Gino , Olching , * 15.06.1950 ."
+            }
+        ]
+    }
 }

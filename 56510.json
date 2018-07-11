@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 99236",
         "amtsgericht": "München",
@@ -8,31 +9,35 @@
         "posted_on": "2005-10-19",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=56510&land_abk=by"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Gauting",
-                "dob": "1948-03-25",
-                "lastname": "Dr . Pensel",
-                "name": "Jürgen"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Gauting",
+                    "dob": "1948-03-25",
+                    "lastname": "Dr . Pensel",
+                    "name": "Jürgen"
+                },
+                "text": " Dr . Pensel , Jürgen , Gauting , * 25.03.1948 ."
             },
-            "text": " Dr . Pensel , Jürgen , Gauting , * 25.03.1948 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Grünwald",
-                "dob": "1939-12-15",
-                "flag": "sole representation",
-                "lastname": "Dr . Pösl",
-                "name": "Hans"
-            },
-            "text": " Dr . Pösl , Hans , Grünwald , * 15.12.1939 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Grünwald",
+                    "dob": "1939-12-15",
+                    "flag": "sole representation",
+                    "lastname": "Dr . Pösl",
+                    "name": "Hans"
+                },
+                "text": " Dr . Pösl , Hans , Grünwald , * 15.12.1939 , einzelvertretungsberechtigt"
+            }
+        ]
+    }
 }

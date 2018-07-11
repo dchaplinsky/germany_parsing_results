@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 22995",
         "amtsgericht": "Augsburg",
@@ -8,31 +9,35 @@
         "posted_on": "2008-03-25",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=234144&land_abk=by"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Augsburg",
-                "dob": "1980-05-23",
-                "flag": "sole representation",
-                "lastname": "Litsios",
-                "name": "Alexandros"
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
+                "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Augsburg",
+                    "dob": "1980-05-23",
+                    "flag": "sole representation",
+                    "lastname": "Litsios",
+                    "name": "Alexandros"
+                },
+                "text": " Litsios , Alexandros , Augsburg , * 23.05.1980 , einzelvertretungsberechtigt"
             },
-            "text": " Litsios , Alexandros , Augsburg , * 23.05.1980 , einzelvertretungsberechtigt"
-        },
-        {
-            "flag": "with the power to enter into legal transactions on behalf of the Company with itself or as a representative of a third party",
-            "text": "mit der Befugnis , im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Augsburg",
-                "dob": "1977-12-19",
-                "lastname": "Litsios",
-                "name": "Vassilios"
-            },
-            "text": " Litsios , Vassilios , Augsburg , * 19.12.1977 ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Augsburg",
+                    "dob": "1977-12-19",
+                    "lastname": "Litsios",
+                    "name": "Vassilios"
+                },
+                "text": " Litsios , Vassilios , Augsburg , * 19.12.1977 ."
+            }
+        ]
+    }
 }

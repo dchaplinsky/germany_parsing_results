@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "VR 200481",
         "amtsgericht": "Bayreuth",
@@ -8,5 +9,5 @@
         "posted_on": "2013-01-10",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=658454&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "PR 146",
         "amtsgericht": "Essen",
@@ -8,5 +9,5 @@
         "posted_on": "2013-08-23",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=946077&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

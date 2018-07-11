@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 6151",
         "amtsgericht": "Steinfurt",
@@ -8,37 +9,39 @@
         "posted_on": "2006-12-21",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=183844&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Greven",
-                "dob": "1952-04-16",
-                "lastname": "Gräber",
-                "name": "Heinz"
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Greven",
+                    "dob": "1952-04-16",
+                    "lastname": "Gräber",
+                    "name": "Heinz"
+                },
+                "text": " Gräber , Heinz , Greven , * 16.04.1952"
             },
-            "text": " Gräber , Heinz , Greven , * 16.04.1952"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Münster",
-                "dob": "1959-07-19",
-                "lastname": "Schnor",
-                "name": "Manfred"
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Münster",
+                    "dob": "1959-07-19",
+                    "lastname": "Schnor",
+                    "name": "Manfred"
+                },
+                "text": " Schnor , Manfred , Münster , * 19.07.1959 ."
             },
-            "text": " Schnor , Manfred , Münster , * 19.07.1959 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Hamburg",
-                "dob": "1966-07-19",
-                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Meier",
-                "name": "Jens"
-            },
-            "text": " Meier , Jens , Hamburg , * 19.07.1966 , mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Hamburg",
+                    "dob": "1966-07-19",
+                    "flag": "mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Meier",
+                    "name": "Jens"
+                },
+                "text": " Meier , Jens , Hamburg , * 19.07.1966 , mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 168305",
         "amtsgericht": "München",
@@ -8,10 +9,12 @@
         "posted_on": "2008-03-18",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=233250&land_abk=by"
     },
-    "parsed": [
-        {
-            "flag": "ignore_for_now",
-            "text": "Die Gesellschaft ist aufgelöst ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "ignore_for_now",
+                "text": "Die Gesellschaft ist aufgelöst ."
+            }
+        ]
+    }
 }

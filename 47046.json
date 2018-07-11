@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 1192",
         "amtsgericht": "Schwerin",
@@ -8,10 +9,12 @@
         "posted_on": "2013-07-15",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=47046&land_abk=mv"
     },
-    "parsed": [
-        {
-            "flag": "ignore_for_now",
-            "text": "Die Gesellschaft ist aufgelöst ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "ignore_for_now",
+                "text": "Die Gesellschaft ist aufgelöst ."
+            }
+        ]
+    }
 }

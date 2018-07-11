@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 15313",
         "amtsgericht": "Regensburg",
@@ -8,5 +9,5 @@
         "posted_on": "2018-05-30",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1175779&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }

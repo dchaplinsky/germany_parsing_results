@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 115589 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,40 +9,46 @@
         "posted_on": "2009-10-22",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=111648&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "company",
-            "text": " Geschäftsanschrift :"
-        },
-        {
-            "label": "address",
-            "text": ""
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        },
-        {
-            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        },
-        {
-            "flag": "Single procuration",
-            "text": "Einzelprokura"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            },
+            {
+                "flag": "Single procuration",
+                "text": "Einzelprokura"
+            }
+        ],
+        "labels": [
+            {
+                "label": "company",
+                "text": " Geschäftsanschrift :"
+            },
+            {
+                "label": "address",
+                "text": ""
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            }
+        ]
+    }
 }

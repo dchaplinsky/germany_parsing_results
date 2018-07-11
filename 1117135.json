@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 4022",
         "amtsgericht": "Düren",
@@ -8,21 +9,25 @@
         "posted_on": "2015-01-15",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1117135&land_abk=nw"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": " In der Ruraue 10 , 52459 Inden ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Jülich",
-                "dob": "1970-12-26",
-                "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Fuhs",
-                "name": "Dietmar"
-            },
-            "text": " Fuhs , Dietmar , Jülich , * 26.12.1970 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "address",
+                "text": " In der Ruraue 10 , 52459 Inden ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Jülich",
+                    "dob": "1970-12-26",
+                    "flag": "einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Fuhs",
+                    "name": "Dietmar"
+                },
+                "text": " Fuhs , Dietmar , Jülich , * 26.12.1970 , einzelvertretungsberechtigt mit der Befugnis im Namen der Gesellschaft mit sich im eigenen Namen oder als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

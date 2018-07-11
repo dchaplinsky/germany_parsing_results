@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 7467",
         "amtsgericht": "Düren",
@@ -8,5 +9,5 @@
         "posted_on": "2018-02-09",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1505965&land_abk=nw"
     },
-    "parsed": []
+    "parsed": {}
 }

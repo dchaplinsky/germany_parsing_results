@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 10996 HL",
         "amtsgericht": "Lübeck",
@@ -8,23 +9,29 @@
         "posted_on": "2011-04-21",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=92507&land_abk=sh"
     },
-    "parsed": [
-        {
-            "label": "address",
-            "text": ""
-        },
-        {
-            "flag": "If several managing directors are appointed, the company is jointly represented by all managing directors.",
-            "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "If several managing directors are appointed, the company is jointly represented by all managing directors.",
+                "text": "Sind mehrere Geschäftsführer bestellt , wird die Gesellschaft durch sämtliche Geschäftsführer gemeinsam vertreten ."
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": ""
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            }
+        ]
+    }
 }

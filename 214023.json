@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 70405 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,20 +9,24 @@
         "posted_on": "2012-07-16",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=214023&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "misc",
-            "text": " 31.000,00 EUR Geschäftsführer :"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": ""
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "misc",
+                "text": " 31.000,00 EUR Geschäftsführer :"
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": ""
+            }
+        ]
+    }
 }

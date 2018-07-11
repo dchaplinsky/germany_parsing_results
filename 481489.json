@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 196964 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,22 +9,24 @@
         "posted_on": "2018-06-08",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=481489&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " Profi - Partner Finanz - und Wirtschaftsberatungs Aktiengesellschaft , Berlin , Wallstraße 35 , 10179 Berlin ."
-        },
-        {
-            "label": "company",
-            "text": " Berlin"
-        },
-        {
-            "label": "address",
-            "text": " Wallstraße 35 , 10179 Berlin"
-        },
-        {
-            "label": "misc",
-            "text": " 100.000,00 EUR"
-        }
-    ]
+    "parsed": {
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " Profi - Partner Finanz - und Wirtschaftsberatungs Aktiengesellschaft , Berlin , Wallstraße 35 , 10179 Berlin ."
+            },
+            {
+                "label": "company",
+                "text": " Berlin"
+            },
+            {
+                "label": "address",
+                "text": " Wallstraße 35 , 10179 Berlin"
+            },
+            {
+                "label": "misc",
+                "text": " 100.000,00 EUR"
+            }
+        ]
+    }
 }

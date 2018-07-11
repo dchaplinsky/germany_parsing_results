@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRA 3726",
         "amtsgericht": "Rostock",
@@ -8,14 +9,18 @@
         "posted_on": "2014-11-24",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=57070&land_abk=mv"
     },
-    "parsed": [
-        {
-            "flag": "Limited partnership.",
-            "text": "Kommanditgesellschaft ."
-        },
-        {
-            "label": "address",
-            "text": " Meschendorfer Weg 12 , 18230 Rerik ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Limited partnership.",
+                "text": "Kommanditgesellschaft ."
+            }
+        ],
+        "labels": [
+            {
+                "label": "address",
+                "text": " Meschendorfer Weg 12 , 18230 Rerik ."
+            }
+        ]
+    }
 }

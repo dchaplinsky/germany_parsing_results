@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 100307",
         "amtsgericht": "Jena",
@@ -8,5 +9,5 @@
         "posted_on": "2014-03-26",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=76204&land_abk=th"
     },
-    "parsed": []
+    "parsed": {}
 }

@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 19803",
         "amtsgericht": "Duisburg",
@@ -8,17 +9,19 @@
         "posted_on": "2015-04-23",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=1152002&land_abk=nw"
     },
-    "parsed": [
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Meerbusch",
-                "dob": "1966-04-16",
-                "flag": "mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
-                "lastname": "Dr . Dr . Finzer",
-                "name": "Patrick"
-            },
-            "text": " Dr . Dr . Finzer , Patrick , Meerbusch , * 16.04.1966 , mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
-        }
-    ]
+    "parsed": {
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Meerbusch",
+                    "dob": "1966-04-16",
+                    "flag": "mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen",
+                    "lastname": "Dr . Dr . Finzer",
+                    "name": "Patrick"
+                },
+                "text": " Dr . Dr . Finzer , Patrick , Meerbusch , * 16.04.1966 , mit der Befugnis im Namen der Gesellschaft mit sich als Vertreter eines Dritten Rechtsgeschäfte abzuschließen ."
+            }
+        ]
+    }
 }

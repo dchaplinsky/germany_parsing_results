@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 4192",
         "amtsgericht": "Ansbach",
@@ -8,20 +9,24 @@
         "posted_on": "2006-11-02",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=128516&land_abk=by"
     },
-    "parsed": [
-        {
-            "flag": "Company with limited liability .",
-            "text": "Gesellschaft mit beschränkter Haftung ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {
-                "city": "Rothenburg ob der Tauber",
-                "dob": "1938-05-03",
-                "lastname": "Neuberger",
-                "name": "Gerhard"
-            },
-            "text": " Neuberger , Gerhard , Rothenburg ob der Tauber , * 05.03.1938 ."
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "Company with limited liability .",
+                "text": "Gesellschaft mit beschränkter Haftung ."
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {
+                    "city": "Rothenburg ob der Tauber",
+                    "dob": "1938-05-03",
+                    "lastname": "Neuberger",
+                    "name": "Gerhard"
+                },
+                "text": " Neuberger , Gerhard , Rothenburg ob der Tauber , * 05.03.1938 ."
+            }
+        ]
+    }
 }

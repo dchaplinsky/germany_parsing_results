@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 128949 B",
         "amtsgericht": "Charlottenburg (Berlin)",
@@ -8,40 +9,46 @@
         "posted_on": "2015-02-11",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=320702&land_abk=be"
     },
-    "parsed": [
-        {
-            "label": "WHUT",
-            "text": " AKUS Trockenbau GmbH , Berlin , Stephanstraße 23 , 10559 Berlin ."
-        },
-        {
-            "label": "company",
-            "text": " Geschäftsanschrift : Stephanstraße 23 , 10559 Berlin"
-        },
-        {
-            "label": "address",
-            "text": " Stephanstraße 23 , 10559 Berlin"
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 1 ."
-        },
-        {
-            "class": "ManagingDirector",
-            "payload": {},
-            "text": " 2 ."
-        },
-        {
-            "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
-            "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
-        },
-        {
-            "flag": "with the power to represent the company alone",
-            "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
-        }
-    ]
+    "parsed": {
+        "flags": [
+            {
+                "flag": "with the power to represent the company alone with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to conclude legal transactions with itself or as a representative of third parties",
+                "text": "mit der Befugnis Rechtsgeschäfte mit sich selbst oder als Vertreter Dritter abzuschließen"
+            },
+            {
+                "flag": "with the power to represent the company alone",
+                "text": "mit der Befugnis die Gesellschaft allein zu vertreten"
+            }
+        ],
+        "labels": [
+            {
+                "label": "WHUT",
+                "text": " AKUS Trockenbau GmbH , Berlin , Stephanstraße 23 , 10559 Berlin ."
+            },
+            {
+                "label": "company",
+                "text": " Geschäftsanschrift : Stephanstraße 23 , 10559 Berlin"
+            },
+            {
+                "label": "address",
+                "text": " Stephanstraße 23 , 10559 Berlin"
+            }
+        ],
+        "officers": [
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 1 ."
+            },
+            {
+                "class": "ManagingDirector",
+                "payload": {},
+                "text": " 2 ."
+            }
+        ]
+    }
 }

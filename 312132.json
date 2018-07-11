@@ -1,4 +1,5 @@
 {
+    "errors": [],
     "orig": {
         "aktenzeichen": "HRB 7346",
         "amtsgericht": "Aschaffenburg",
@@ -8,5 +9,5 @@
         "posted_on": "2009-03-25",
         "url": "https://www.handelsregisterbekanntmachungen.de/en/skripte/hrb.php?rb_id=312132&land_abk=by"
     },
-    "parsed": []
+    "parsed": {}
 }
